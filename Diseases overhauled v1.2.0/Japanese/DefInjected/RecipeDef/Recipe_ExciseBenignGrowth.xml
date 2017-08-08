@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ExciseBenignGrowth.label>excise benign growth</ExciseBenignGrowth.label>
+  <ExciseBenignGrowth.description>Excises benign growth.</ExciseBenignGrowth.description>
+  <ExciseBenignGrowth.jobString>Excising benign growth.</ExciseBenignGrowth.jobString>
+  <ExciseBenignGrowth.successfullyRemovedHediffMessage>{0} has successfully excised {1}'s benign growth.</ExciseBenignGrowth.successfullyRemovedHediffMessage>
+
+
+</LanguageData>

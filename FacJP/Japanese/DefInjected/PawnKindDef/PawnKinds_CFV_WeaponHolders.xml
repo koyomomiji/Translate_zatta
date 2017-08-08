@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ROM_TownsfolkThug.label>thug</ROM_TownsfolkThug.label>
+  <ROM_TownsfolkThug.labelPlural>thugs</ROM_TownsfolkThug.labelPlural>
+
+  <ROM_TownsfolkFarmer.label>farmer</ROM_TownsfolkFarmer.label>
+  <ROM_TownsfolkFarmer.labelPlural>farmers</ROM_TownsfolkFarmer.labelPlural>
+
+  <ROM_TownsfolkRancher.label>rancher</ROM_TownsfolkRancher.label>
+  <ROM_TownsfolkRancher.labelPlural>ranchers</ROM_TownsfolkRancher.labelPlural>
+
+  <ROM_TownsfolkLumberjack.label>lumberjack</ROM_TownsfolkLumberjack.label>
+  <ROM_TownsfolkLumberjack.labelPlural>lumberjacks</ROM_TownsfolkLumberjack.labelPlural>
+
+  <ROM_TownsfolkButcher.label>butcher</ROM_TownsfolkButcher.label>
+  <ROM_TownsfolkButcher.labelPlural>butchers</ROM_TownsfolkButcher.labelPlural>
+
+  <ROM_TownsfolkPolice.label>patrol officer</ROM_TownsfolkPolice.label>
+  <ROM_TownsfolkPolice.labelPlural>patrol officers</ROM_TownsfolkPolice.labelPlural>
+
+  <ROM_TownsfolkAngler.label>angler</ROM_TownsfolkAngler.label>
+  <ROM_TownsfolkAngler.labelPlural>anglers</ROM_TownsfolkAngler.labelPlural>
+
+
+</LanguageData>

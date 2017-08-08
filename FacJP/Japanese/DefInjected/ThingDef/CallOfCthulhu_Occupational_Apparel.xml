@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Angler -->
+
+  <ROM_ApparelRaincoat.label>rain coat</ROM_ApparelRaincoat.label>
+  <ROM_ApparelRaincoat.description>Water resistant coat often used by fishermen.
+		</ROM_ApparelRaincoat.description>
+
+  <ROM_Apparel_ROM_SlickerHat.label>slicker hat</ROM_Apparel_ROM_SlickerHat.label>
+  <ROM_Apparel_ROM_SlickerHat.description>A yellow hat designed to repel water, a favorite of anglers and retired accountants who enjoy fishing.</ROM_Apparel_ROM_SlickerHat.description>
+
+
+  <!-- Farmer -->
+
+  <ROM_Apparel_ROM_StrawHat.label>straw hat</ROM_Apparel_ROM_StrawHat.label>
+  <ROM_Apparel_ROM_StrawHat.description>A hat fashioned from straw to shield the user from the sun.</ROM_Apparel_ROM_StrawHat.description>
+
+
+  <!-- Police -->
+
+  <ROM_Apparel1920sPoliceHat.label>police hat</ROM_Apparel1920sPoliceHat.label>
+  <ROM_Apparel1920sPoliceHat.description>Designates someone as an authority figure. The accuracy of this designation is left to the eye of the beholder.</ROM_Apparel1920sPoliceHat.description>
+
+  <ROM_Apparel1920sPoliceOutfit.label>police uniform</ROM_Apparel1920sPoliceOutfit.label>
+  <ROM_Apparel1920sPoliceOutfit.description>Early 20th century attire suited for local enforcers to use when keeping the peace.
+		</ROM_Apparel1920sPoliceOutfit.description>
+
+
+  <!-- Soldier -->
+
+  <ROM_ApparelWWIHelmet.label>infantry helmet (World War I)</ROM_ApparelWWIHelmet.label>
+  <ROM_ApparelWWIHelmet.description>To avoid coming home from the front lines in seperate bags, be sure to wear this simplistic protective headwear.</ROM_ApparelWWIHelmet.description>
+
+  <ROM_ApparelWWIUniform.label>infantry uniform (World War I)</ROM_ApparelWWIUniform.label>
+  <ROM_ApparelWWIUniform.description>This apparel made it easier to distinguish friendlies on the battlefield. However, it provided little in the way of actual body armor.
+			</ROM_ApparelWWIUniform.description>
+
+
+  <!-- Nurse -->
+
+  <ROM_Apparel_NurseCap.label>nurse cap</ROM_Apparel_NurseCap.label>
+  <ROM_Apparel_NurseCap.description>An ancient nurse cap from the first Great War. While typically worn by female nurses historically, residents of the rim both male and female have found it most fashionable.</ROM_Apparel_NurseCap.description>
+
+  <ROM_Apparel_WW1NurseUniform.label>nurse uniform</ROM_Apparel_WW1NurseUniform.label>
+  <ROM_Apparel_WW1NurseUniform.description>An ancient nurse cap from the first Great War. While typically worn by female nurses historically, residents of the rim both male and female have found it most fashionable.
+		</ROM_Apparel_WW1NurseUniform.description>
+
+
+</LanguageData>

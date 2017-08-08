@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ArtificialPelvis.label>artificial pelvis</ArtificialPelvis.label>
+  <ArtificialPelvis.description>Replaces a missing pelvis. Pretty useful if crawling is not your favourite way of moving around.</ArtificialPelvis.description>
+
+  <ArtificialClavicle.label>artificial clavicle</ArtificialClavicle.label>
+  <ArtificialClavicle.description>Replaces a missing clavicle. If you somehow manage to break yours.</ArtificialClavicle.description>
+
+  <ArtificialFinger.label>artificial finger</ArtificialFinger.label>
+  <ArtificialFinger.description>Replaces a missing finger.</ArtificialFinger.description>
+
+  <ArtificialToe.label>artificial toe</ArtificialToe.label>
+  <ArtificialToe.description>Replaces a missing toe.</ArtificialToe.description>
+
+  <ArtificialRib.label>artificial rib</ArtificialRib.label>
+  <ArtificialRib.description>Replaces a missing rib.</ArtificialRib.description>
+
+  <ArtificialSpine.label>artificial spine</ArtificialSpine.label>
+  <ArtificialSpine.description>Replaces a missing spine.</ArtificialSpine.description>
+
+  <ArtificialSternum.label>artificial sternum</ArtificialSternum.label>
+  <ArtificialSternum.description>Replaces a missing sternum.</ArtificialSternum.description>
+
+  <ArtificialHumerus.label>artificial humerus</ArtificialHumerus.label>
+  <ArtificialHumerus.description>Replaces a missing humerus.</ArtificialHumerus.description>
+
+  <ArtificialFemur.label>artificial femur</ArtificialFemur.label>
+  <ArtificialFemur.description>Replaces a missing femur.</ArtificialFemur.description>
+
+  <ArtificialRadius.label>artificial radius</ArtificialRadius.label>
+  <ArtificialRadius.description>Replaces a missing radius.</ArtificialRadius.description>
+
+  <ArtificialUlna.label>artificial ulna</ArtificialUlna.label>
+  <ArtificialUlna.description>Replaces an missing ulna.</ArtificialUlna.description>
+
+  <ArtificialPatella.label>artificial patella</ArtificialPatella.label>
+  <ArtificialPatella.description>Replaces a missing patella.</ArtificialPatella.description>
+
+  <ArtificialTibia.label>artificial tibia</ArtificialTibia.label>
+  <ArtificialTibia.description>Replaces a missing tibia.</ArtificialTibia.description>
+
+  <ArtificialFibula.label>artificial fibula</ArtificialFibula.label>
+  <ArtificialFibula.description>Replaces a missing fibula.</ArtificialFibula.description>
+
+
+</LanguageData>

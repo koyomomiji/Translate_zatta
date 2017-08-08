@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!--[Core] <Malnutrition.label>栄養失調</Malnutrition.label>-->
+  <!--[Core] <Malnutrition.stages.0.label>trivial</Malnutrition.stages.0.label>-->
+  <!--[Core] <Malnutrition.stages.1.label>minor</Malnutrition.stages.1.label>-->
+  <!--[Core] <Malnutrition.stages.2.label>moderate</Malnutrition.stages.2.label>-->
+  <!--[Core] <Malnutrition.stages.3.label>severe</Malnutrition.stages.3.label>-->
+  <!--[Core] <Malnutrition.stages.4.label>extreme</Malnutrition.stages.4.label>-->
+  <Malnutrition.stages.5.label>extreme</Malnutrition.stages.5.label>
+  <Malnutrition.stages.6.label>fatal</Malnutrition.stages.6.label>
+
+
+</LanguageData>

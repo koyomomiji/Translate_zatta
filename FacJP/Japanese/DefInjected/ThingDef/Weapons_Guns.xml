@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ROM_Bullet_Revolver.label>revolver bullet</ROM_Bullet_Revolver.label>
+
+  <ROM_Gun_Revolver.label>webley revolver</ROM_Gun_Revolver.label>
+  <ROM_Gun_Revolver.description>Military and police model revolving gun with six .38 caliber bullet chambers. Fires six shots before reloading.</ROM_Gun_Revolver.description>
+
+  <ROM_Bullet_Harpoon.label>harpoon bolt</ROM_Bullet_Harpoon.label>
+
+  <ROM_Gun_Harpoon.label>hand-held harpoon gun</ROM_Gun_Harpoon.label>
+  <ROM_Gun_Harpoon.description>A special weapon devised by coastal fishing villages at the turn of the 20th century. Packs a punch and is rather lethal.</ROM_Gun_Harpoon.description>
+
+  <ROM_Bullet_Flare.label>flare</ROM_Bullet_Flare.label>
+
+  <ROM_Gun_Flaregun.label>coastal flare gun</ROM_Gun_Flaregun.label>
+  <ROM_Gun_Flaregun.description>A flaregun is typically used as a distress signal for sailors at sea. In a life or death situation, a flaregun can be used as a deadly combat weapon.</ROM_Gun_Flaregun.description>
+
+  <ROM_Bullet_TommyGun.label>tommy gun bullet</ROM_Bullet_TommyGun.label>
+
+  <ROM_Gun_TommyGun.label>tommy gun</ROM_Gun_TommyGun.label>
+  <ROM_Gun_TommyGun.description>A classic submachine gun also known as the Chicago Typewriter. Medium range, decent power, high rate of fire. Very quick to aim and fire.</ROM_Gun_TommyGun.description>
+
+
+  <!-- Cloned for Tags -->
+
+  <ROM_Gun_PumpShotgun_COC.label>farmer's shotgun</ROM_Gun_PumpShotgun_COC.label>
+  <ROM_Gun_PumpShotgun_COC.description>Ancient design. Deadly, but short range.</ROM_Gun_PumpShotgun_COC.description>
+
+  <ROM_Gun_SurvivalRifle_COC.label>hunting rifle</ROM_Gun_SurvivalRifle_COC.label>
+  <ROM_Gun_SurvivalRifle_COC.description>Ancient pattern bolt-action rifle. Good range, good power, low rate of fire.</ROM_Gun_SurvivalRifle_COC.description>
+
+  <ROM_Gun_LPRifle_COC.label>old-fashioned rifle</ROM_Gun_LPRifle_COC.label>
+  <ROM_Gun_LPRifle_COC.description>Ancient pattern bolt-action rifle. Good range, good power, low rate of fire.</ROM_Gun_LPRifle_COC.description>
+
+
+</LanguageData>

@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <ROM_Townsfolk.label>沿岸漁村</ROM_Townsfolk.label>
+  <ROM_Townsfolk.description>A coastal community of fishermen and tanners, with designated law enforcers.\n\nThese fishing villages seemingly come into existence overnight. A wild untamed forest can turn into a creaking assortment of docks and buildings. If one didn't know how they had mysteriously arrived, one would assume they had been there for decades. The weathered locals curiously ignore any questions as to how they arrived, or how they constructed a village so quickly and quietly.\n\nThe gruff citizens of these damp townships are slow to trust, but earning it can be worthwhile. The residents of these communities can be found wielding large hooks, branding irons, and the powerful harpoon gun. They are usually only willing to trade among their own people, but on the Rimworlds, these callused strangers will settle for anyone sane enough to barter.</ROM_Townsfolk.description>
+  <ROM_Townsfolk.pawnsPlural>村民</ROM_Townsfolk.pawnsPlural>
+  <ROM_Townsfolk.leaderTitle>村長</ROM_Townsfolk.leaderTitle>
+</LanguageData>

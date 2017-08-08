@@ -1,1 +1,2 @@
 # Translate_zatta
+自分用 スマホでポチポチするためだけのgithub

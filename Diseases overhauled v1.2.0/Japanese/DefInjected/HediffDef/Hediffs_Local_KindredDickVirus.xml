@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <KindredDickVirus.label>Kindred-Dick virus</KindredDickVirus.label>
+  <KindredDickVirus.stages.0.label>initial</KindredDickVirus.stages.0.label>
+  <KindredDickVirus.stages.1.label>minor</KindredDickVirus.stages.1.label>
+  <KindredDickVirus.stages.2.label>moderate</KindredDickVirus.stages.2.label>
+  <KindredDickVirus.stages.3.label>major</KindredDickVirus.stages.3.label>
+  <KindredDickVirus.stages.4.label>serious</KindredDickVirus.stages.4.label>
+  <KindredDickVirus.stages.5.label>severe</KindredDickVirus.stages.5.label>
+  <KindredDickVirus.stages.6.label>extreme</KindredDickVirus.stages.6.label>
+  <KindredDickVirus.stages.7.label>fatal</KindredDickVirus.stages.7.label>
+
+
+</LanguageData>

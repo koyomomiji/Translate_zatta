@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <CerebralArteryStenosis.label>artery blockage</CerebralArteryStenosis.label>
+  <CerebralArteryStenosis.stages.1.label>initial</CerebralArteryStenosis.stages.1.label>
+  <CerebralArteryStenosis.stages.2.label>minor</CerebralArteryStenosis.stages.2.label>
+  <CerebralArteryStenosis.stages.3.label>moderate</CerebralArteryStenosis.stages.3.label>
+  <CerebralArteryStenosis.stages.4.label>major</CerebralArteryStenosis.stages.4.label>
+  <CerebralArteryStenosis.stages.5.label>severe</CerebralArteryStenosis.stages.5.label>
+  <CerebralArteryStenosis.stages.6.label>extreme</CerebralArteryStenosis.stages.6.label>
+  <CerebralArteryStenosis.stages.7.label>fatal</CerebralArteryStenosis.stages.7.label>
+
+
+</LanguageData>

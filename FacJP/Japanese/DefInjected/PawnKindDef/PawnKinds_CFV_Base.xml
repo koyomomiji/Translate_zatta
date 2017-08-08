@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <ROM_TownsfolkVillager.label>村民</ROM_TownsfolkVillager.label>
+  <ROM_TownsfolkVillager.labelPlural>村民</ROM_TownsfolkVillager.labelPlural>
+  <ROM_TownsfolkMayor.label>町長</ROM_TownsfolkMayor.label>
+  <ROM_TownsfolkMayor.labelPlural>町長</ROM_TownsfolkMayor.labelPlural>
+  <ROM_TownsfolkTrader.label>町の商人</ROM_TownsfolkTrader.label>
+  <ROM_TownsfolkTrader.labelPlural>町の商人</ROM_TownsfolkTrader.labelPlural>
+</LanguageData>

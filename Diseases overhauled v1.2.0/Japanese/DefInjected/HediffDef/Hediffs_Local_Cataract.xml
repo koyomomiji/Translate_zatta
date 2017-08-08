@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!--[Core] <Cataract.label>白内障</Cataract.label>-->
+  <Cataract.stages.0.label>initial</Cataract.stages.0.label>
+  <Cataract.stages.1.label>sparse</Cataract.stages.1.label>
+  <Cataract.stages.2.label>minor</Cataract.stages.2.label>
+  <Cataract.stages.3.label>moderate</Cataract.stages.3.label>
+  <Cataract.stages.4.label>distinct</Cataract.stages.4.label>
+  <Cataract.stages.5.label>major</Cataract.stages.5.label>
+  <Cataract.stages.6.label>serious</Cataract.stages.6.label>
+  <Cataract.stages.7.label>severe</Cataract.stages.7.label>
+  <Cataract.stages.8.label>grave</Cataract.stages.8.label>
+  <Cataract.stages.9.label>extreme</Cataract.stages.9.label>
+  <Cataract.stages.10.label>final</Cataract.stages.10.label>
+
+
+</LanguageData>

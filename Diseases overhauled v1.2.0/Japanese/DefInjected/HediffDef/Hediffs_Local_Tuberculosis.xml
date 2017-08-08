@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Tuberculosis.label>tuberculosis</Tuberculosis.label>
+  <Tuberculosis.stages.0.label>initial</Tuberculosis.stages.0.label>
+  <Tuberculosis.stages.1.label>minor</Tuberculosis.stages.1.label>
+  <Tuberculosis.stages.2.label>moderate</Tuberculosis.stages.2.label>
+  <Tuberculosis.stages.3.label>major</Tuberculosis.stages.3.label>
+  <Tuberculosis.stages.4.label>severe</Tuberculosis.stages.4.label>
+  <Tuberculosis.stages.5.label>extreme</Tuberculosis.stages.5.label>
+
+  <EncapsulatedTuberculosis.label>encapsulated pathogen</EncapsulatedTuberculosis.label>
+
+
+</LanguageData>

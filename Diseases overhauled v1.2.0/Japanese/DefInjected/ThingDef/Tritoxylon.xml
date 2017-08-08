@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Tritoxylon.label>tritoxylon</Tritoxylon.label>
+  <Tritoxylon.description>Drastically boosts the metabolic system and therefore heavily increases the immune response - among other body functions. Take one every two days. (May have severe sideeffects.)</Tritoxylon.description>
+  <Tritoxylon.ingestible.ingestCommandString>Take {0}</Tritoxylon.ingestible.ingestCommandString>
+  <Tritoxylon.ingestible.ingestReportString>Taking {0}.</Tritoxylon.ingestible.ingestReportString>
+
+
+</LanguageData>

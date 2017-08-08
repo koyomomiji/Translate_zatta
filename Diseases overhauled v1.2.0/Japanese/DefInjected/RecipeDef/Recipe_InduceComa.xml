@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <PutInInducedComa2Days.label>put in induced coma (~2 days)</PutInInducedComa2Days.label>
+  <PutInInducedComa2Days.description>Puts someone in an induced coma for around two days.</PutInInducedComa2Days.description>
+  <PutInInducedComa2Days.jobString>Put in induced coma.</PutInInducedComa2Days.jobString>
+
+  <PutInInducedComa5Days.label>put in induced coma (~5 days)</PutInInducedComa5Days.label>
+  <PutInInducedComa5Days.description>Puts someone in an induced coma for around five days.</PutInInducedComa5Days.description>
+  <PutInInducedComa5Days.jobString>Put in induced coma.</PutInInducedComa5Days.jobString>
+
+  <PutInInducedComa15Days.label>put in induced coma (~15 days)</PutInInducedComa15Days.label>
+  <PutInInducedComa15Days.description>Puts someone in an induced coma for around one season.</PutInInducedComa15Days.description>
+  <PutInInducedComa15Days.jobString>Put in induced coma.</PutInInducedComa15Days.jobString>
+
+  <PutInInducedComa30Days.label>put in induced coma (~30 days)</PutInInducedComa30Days.label>
+  <PutInInducedComa30Days.description>Puts someone in an induced coma for around half a year.</PutInInducedComa30Days.description>
+  <PutInInducedComa30Days.jobString>Put in induced coma.</PutInInducedComa30Days.jobString>
+
+  <PutInInducedComaForever.label>put in induced coma (unknown duration)</PutInInducedComaForever.label>
+  <PutInInducedComaForever.description>Puts someone in an induced coma for ... a very, very long time.</PutInInducedComaForever.description>
+  <PutInInducedComaForever.jobString>Put in induced coma.</PutInInducedComaForever.jobString>
+
+
+</LanguageData>

@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <ArtificialFinger.label>人造指</ArtificialFinger.label>
+  <ArtificialToe.label>人造趾</ArtificialToe.label>
+  <ArtificialSpine.label>人造脊椎</ArtificialSpine.label>
+  <ArtificialPelvis.label>人造骨盤</ArtificialPelvis.label>
+  <ArtificialSternum.label>人造胸骨</ArtificialSternum.label>
+  <ArtificialClavicle.label>人造鎖骨</ArtificialClavicle.label>
+  <ArtificialHumerus.label>人造上腕骨</ArtificialHumerus.label>
+  <ArtificialFemur.label>人造大腿骨</ArtificialFemur.label>
+  <ArtificialRadius.label>人造橈骨</ArtificialRadius.label>
+  <ArtificialUlna.label>人造尺骨</ArtificialUlna.label>
+  <ArtificialPatella.label>人造膝蓋骨</ArtificialPatella.label>
+  <ArtificialTibia.label>人造脛骨</ArtificialTibia.label>
+  <ArtificialFibula.label>人造腓骨</ArtificialFibula.label>
+  <ArtificialRib.label>人造肋骨</ArtificialRib.label>
+</LanguageData>

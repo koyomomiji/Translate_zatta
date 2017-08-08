@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ROM_TownsfolkDoctor.label>doctor</ROM_TownsfolkDoctor.label>
+  <ROM_TownsfolkDoctor.labelPlural>doctors</ROM_TownsfolkDoctor.labelPlural>
+
+  <ROM_TownsfolkNurse.label>nurse</ROM_TownsfolkNurse.label>
+  <ROM_TownsfolkNurse.labelPlural>nurses</ROM_TownsfolkNurse.labelPlural>
+
+  <ROM_TownsfolkTeacher.label>villager</ROM_TownsfolkTeacher.label>
+  <ROM_TownsfolkTeacher.labelPlural>villagers</ROM_TownsfolkTeacher.labelPlural>
+
+
+</LanguageData>

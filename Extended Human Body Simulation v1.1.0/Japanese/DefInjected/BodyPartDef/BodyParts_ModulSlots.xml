@@ -1,0 +1,130 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ModulSlotSternum.label>sternum modul slot</ModulSlotSternum.label>
+  <ModulSlotRib1.label>rib modul slot</ModulSlotRib1.label>
+  <ModulSlotRib2.label>rib modul slot</ModulSlotRib2.label>
+  <ModulSlotRib3.label>rib modul slot</ModulSlotRib3.label>
+  <ModulSlotRib4.label>rib modul slot</ModulSlotRib4.label>
+  <ModulSlotRib5.label>rib modul slot</ModulSlotRib5.label>
+  <ModulSlotRib6.label>rib modul slot</ModulSlotRib6.label>
+  <ModulSlotRib7.label>rib modul slot</ModulSlotRib7.label>
+  <ModulSlotRib8.label>rib modul slot</ModulSlotRib8.label>
+  <ModulSlotRib9.label>rib modul slot</ModulSlotRib9.label>
+  <ModulSlotRib10.label>rib modul slot</ModulSlotRib10.label>
+  <ModulSlotRib11.label>rib modul slot</ModulSlotRib11.label>
+  <ModulSlotRib12.label>rib modul slot</ModulSlotRib12.label>
+  <ModulSlotPelvisFront.label>pubic region</ModulSlotPelvisFront.label>
+  <ModulSlotPelvisRear.label>rump</ModulSlotPelvisRear.label>
+  <ModulSlotPelvisCentre.label>pelvis modul slot</ModulSlotPelvisCentre.label>
+  <ModulSlotPelvisDown.label>crotch</ModulSlotPelvisDown.label>
+  <ModulSlotPelvisLeft.label>pelvis, left side</ModulSlotPelvisLeft.label>
+  <ModulSlotPelvisRight.label>pelvis, right side</ModulSlotPelvisRight.label>
+  <ModulSlotSpineFrontUpLeft.label>chest, left side</ModulSlotSpineFrontUpLeft.label>
+  <ModulSlotSpineFrontCentreLeft.label>belly, left upper part</ModulSlotSpineFrontCentreLeft.label>
+  <ModulSlotSpineFrontDownLeft.label>belly, left lower part</ModulSlotSpineFrontDownLeft.label>
+  <ModulSlotSpineFrontUpCentre.label>chest, centre</ModulSlotSpineFrontUpCentre.label>
+  <ModulSlotSpineFrontCentreCentre.label>belly, centre upper part</ModulSlotSpineFrontCentreCentre.label>
+  <ModulSlotSpineFrontDownCentre.label>belly, centre lower part</ModulSlotSpineFrontDownCentre.label>
+  <ModulSlotSpineFrontUpRight.label>chest, right side</ModulSlotSpineFrontUpRight.label>
+  <ModulSlotSpineFrontCentreRight.label>belly, right upper part</ModulSlotSpineFrontCentreRight.label>
+  <ModulSlotSpineFrontDownRight.label>belly, right lower part</ModulSlotSpineFrontDownRight.label>
+  <ModulSlotSpineLeftUp.label>flank, left upper part</ModulSlotSpineLeftUp.label>
+  <ModulSlotSpineLeftDown.label>flank, left lower part</ModulSlotSpineLeftDown.label>
+  <ModulSlotSpineRightUp.label>flank, right upper part</ModulSlotSpineRightUp.label>
+  <ModulSlotSpineRightDown.label>flank, right lower part</ModulSlotSpineRightDown.label>
+  <ModulSlotSpineRearUpLeft.label>rear, left upper part</ModulSlotSpineRearUpLeft.label>
+  <ModulSlotSpineRearCentreLeft.label>rear, left centre part</ModulSlotSpineRearCentreLeft.label>
+  <ModulSlotSpineRearDownLeft.label>rear, left lower part</ModulSlotSpineRearDownLeft.label>
+  <ModulSlotSpineRearUpCentre.label>rear, centre upper part</ModulSlotSpineRearUpCentre.label>
+  <ModulSlotSpineRearCentreCentre.label>rear</ModulSlotSpineRearCentreCentre.label>
+  <ModulSlotSpineRearDownCentre.label>rear, centre lower part</ModulSlotSpineRearDownCentre.label>
+  <ModulSlotSpineRearUpRight.label>rear, right upper part</ModulSlotSpineRearUpRight.label>
+  <ModulSlotSpineRearCentreRight.label>rear, right centre part</ModulSlotSpineRearCentreRight.label>
+  <ModulSlotSpineRearDownRight.label>rear, right lower part</ModulSlotSpineRearDownRight.label>
+  <ModulSlotStomach.label>stomach modul slot</ModulSlotStomach.label>
+  <ModulSlotHeart.label>heart modul slot</ModulSlotHeart.label>
+  <ModulSlotLeftLung.label>left lung modul slot</ModulSlotLeftLung.label>
+  <ModulSlotRightLung.label>right lung modul slot</ModulSlotRightLung.label>
+  <ModulSlotLeftKidney.label>left kidney modul slot</ModulSlotLeftKidney.label>
+  <ModulSlotRightKidney.label>right kidney modul slot</ModulSlotRightKidney.label>
+  <ModulSlotLiver.label>liver modul slot</ModulSlotLiver.label>
+  <ModulSlotSpleed.label>spleed modul slot</ModulSlotSpleed.label>
+  <ModulSlotNeckFront.label>throat</ModulSlotNeckFront.label>
+  <ModulSlotNeckRearUp.label>nape, upper part</ModulSlotNeckRearUp.label>
+  <ModulSlotNeckRearDown.label>nape, lower part</ModulSlotNeckRearDown.label>
+  <ModulSlotNeckLeft.label>neck, left side</ModulSlotNeckLeft.label>
+  <ModulSlotNeckRight.label>neck, right side</ModulSlotNeckRight.label>
+  <ModulSlotHeadFront.label>forehead</ModulSlotHeadFront.label>
+  <ModulSlotHeadRear.label>occiput</ModulSlotHeadRear.label>
+  <ModulSlotHeadUp.label>skullcap</ModulSlotHeadUp.label>
+  <ModulSlotHeadLeft.label>head, left side</ModulSlotHeadLeft.label>
+  <ModulSlotHeadRight.label>head, right side</ModulSlotHeadRight.label>
+  <ModulSlotSkull.label>skull modul slot</ModulSlotSkull.label>
+  <ModulSlotBrainFront.label>prosencephalon</ModulSlotBrainFront.label>
+  <ModulSlotBrainCentre.label>mesencephalon</ModulSlotBrainCentre.label>
+  <ModulSlotBrainRear.label>metencephalon</ModulSlotBrainRear.label>
+  <ModulSlotBrainUp.label>telencephalon</ModulSlotBrainUp.label>
+  <ModulSlotBrainDown.label>brainstem</ModulSlotBrainDown.label>
+  <ModulSlotBrainLeft.label>left hemisphere</ModulSlotBrainLeft.label>
+  <ModulSlotBrainRight.label>right hemisphere</ModulSlotBrainRight.label>
+  <ModulSlotLeftEye.label>left eye modul slot</ModulSlotLeftEye.label>
+  <ModulSlotRightEye.label>right eye modul slot</ModulSlotRightEye.label>
+  <ModulSlotLeftEar.label>left ear modul slot</ModulSlotLeftEar.label>
+  <ModulSlotRightEar.label>right ear modul slot</ModulSlotRightEar.label>
+  <ModulSlotNose.label>nose modul slot</ModulSlotNose.label>
+  <ModulSlotJawUp.label>maxilla</ModulSlotJawUp.label>
+  <ModulSlotJawDown.label>mandible</ModulSlotJawDown.label>
+  <ModulSlotLeftShoulder.label>shoulder girdle, upper left part</ModulSlotLeftShoulder.label>
+  <ModulSlotLeftClavicle.label>left clavicle modul slot</ModulSlotLeftClavicle.label>
+  <ModulSlotLeftArmUp.label>left upper arm</ModulSlotLeftArmUp.label>
+  <ModulSlotLeftArmDown.label>left forearm</ModulSlotLeftArmDown.label>
+  <ModulSlotLeftHumerus.label>left humerus modul slot</ModulSlotLeftHumerus.label>
+  <ModulSlotLeftRadius.label>left radius modul slot</ModulSlotLeftRadius.label>
+  <ModulSlotLeftUlna.label>left ulna modul slot</ModulSlotLeftUlna.label>
+  <ModulSlotLeftHand.label>left hand modul slot</ModulSlotLeftHand.label>
+  <ModulSlotLeftHandPinky.label>left pinky modul slot</ModulSlotLeftHandPinky.label>
+  <ModulSlotLeftHandRingFinger.label>left ring finger modul slot</ModulSlotLeftHandRingFinger.label>
+  <ModulSlotLeftHandMiddleFinger.label>left middle finger modul slot</ModulSlotLeftHandMiddleFinger.label>
+  <ModulSlotLeftHandIndexFinger.label>left index finger modul slot</ModulSlotLeftHandIndexFinger.label>
+  <ModulSlotLeftHandThumb.label>left thumb modul slot</ModulSlotLeftHandThumb.label>
+  <ModulSlotRightShoulder.label>shoulder girdle, upper right part</ModulSlotRightShoulder.label>
+  <ModulSlotRightClavicle.label>right clavicle modul slot</ModulSlotRightClavicle.label>
+  <ModulSlotRightArmUp.label>right upper arm</ModulSlotRightArmUp.label>
+  <ModulSlotRightArmDown.label>right forearm</ModulSlotRightArmDown.label>
+  <ModulSlotRightHumerus.label>right humerus modul slot</ModulSlotRightHumerus.label>
+  <ModulSlotRightRadius.label>right radius modul slot</ModulSlotRightRadius.label>
+  <ModulSlotRightUlna.label>right Ulna modul slot</ModulSlotRightUlna.label>
+  <ModulSlotRightHand.label>right hand modul slot</ModulSlotRightHand.label>
+  <ModulSlotRightHandPinky.label>right pinky modul slot</ModulSlotRightHandPinky.label>
+  <ModulSlotRightHandRingFinger.label>right ring finger modul slot</ModulSlotRightHandRingFinger.label>
+  <ModulSlotRightHandMiddleFinger.label>right middle finger modul slot</ModulSlotRightHandMiddleFinger.label>
+  <ModulSlotRightHandIndexFinger.label>right index finger modul slot</ModulSlotRightHandIndexFinger.label>
+  <ModulSlotRightHandThumb.label>right thumb modul slot</ModulSlotRightHandThumb.label>
+  <ModulSlotLeftLegUp.label>left upper leg</ModulSlotLeftLegUp.label>
+  <ModulSlotLeftLegDown.label>left shank</ModulSlotLeftLegDown.label>
+  <ModulSlotLeftFemur.label>left femur modul slot</ModulSlotLeftFemur.label>
+  <ModulSlotLeftPatella.label>left patella modul slot</ModulSlotLeftPatella.label>
+  <ModulSlotLeftTibia.label>left tibia modul slot</ModulSlotLeftTibia.label>
+  <ModulSlotLeftFibula.label>left fibula modul slot</ModulSlotLeftFibula.label>
+  <ModulSlotLeftFoot.label>left foot modul slot</ModulSlotLeftFoot.label>
+  <ModulSlotLeftFootLittleToe.label>left little toe modul slot</ModulSlotLeftFootLittleToe.label>
+  <ModulSlotLeftFootFourthToe.label>left fourth toe modul slot</ModulSlotLeftFootFourthToe.label>
+  <ModulSlotLeftFootMiddleToe.label>left middle toe modul slot</ModulSlotLeftFootMiddleToe.label>
+  <ModulSlotLeftFootSecondToe.label>left second toe modul slot</ModulSlotLeftFootSecondToe.label>
+  <ModulSlotLeftFootBigToe.label>left big toe modul slot</ModulSlotLeftFootBigToe.label>
+  <ModulSlotRightLegUp.label>right upper leg</ModulSlotRightLegUp.label>
+  <ModulSlotRightLegDown.label>right shank</ModulSlotRightLegDown.label>
+  <ModulSlotRightFemur.label>right femur modul slot</ModulSlotRightFemur.label>
+  <ModulSlotRightPatella.label>right patella modul slot</ModulSlotRightPatella.label>
+  <ModulSlotRightTibia.label>right tibia modul slot</ModulSlotRightTibia.label>
+  <ModulSlotRightFibula.label>right fibula modul slot</ModulSlotRightFibula.label>
+  <ModulSlotRightFoot.label>right foot modul slot</ModulSlotRightFoot.label>
+  <ModulSlotRightFootLittleToe.label>right little toe modul slot</ModulSlotRightFootLittleToe.label>
+  <ModulSlotRightFootFourthToe.label>right fourth toe modul slot</ModulSlotRightFootFourthToe.label>
+  <ModulSlotRightFootMiddleToe.label>right middle toe modul slot</ModulSlotRightFootMiddleToe.label>
+  <ModulSlotRightFootSecondToe.label>right second toe modul slot</ModulSlotRightFootSecondToe.label>
+  <ModulSlotRightFootBigToe.label>right big toe modul slot</ModulSlotRightFootBigToe.label>
+
+
+</LanguageData>

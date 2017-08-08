@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <BardelSyndrome.label>Bardel syndrome</BardelSyndrome.label>
+  <BardelSyndrome.stages.0.label>stage 0: almost symptom-free</BardelSyndrome.stages.0.label>
+  <BardelSyndrome.stages.1.label>stage 1: confusion</BardelSyndrome.stages.1.label>
+  <BardelSyndrome.stages.2.label>stage 2: mania</BardelSyndrome.stages.2.label>
+  <BardelSyndrome.stages.3.label>stage 3: frightened</BardelSyndrome.stages.3.label>
+  <BardelSyndrome.stages.4.label>stage 4: furious</BardelSyndrome.stages.4.label>
+
+
+</LanguageData>

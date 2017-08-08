@@ -1,0 +1,213 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Leg.label>leg</Leg.label>
+  <Leg.description>Basically long meaty sticks that let you move around.</Leg.description>
+
+  <Foot.label>foot</Foot.label>
+  <Foot.description>The thing you can put shoes on.</Foot.description>
+
+  <Arm.label>arm</Arm.label>
+  <Arm.description>Arms are like legs, except you can carry stuff with them.</Arm.description>
+
+  <Hand.label>hand</Hand.label>
+  <Hand.description>A man's best friend.</Hand.description>
+
+  <Stomach.label>stomach</Stomach.label>
+  <Stomach.description>Digests food and turns it into energy and nutrients.</Stomach.description>
+
+
+  <!-- ThingDef ParentName="BodyPartNaturalBase">		===INCLUDED BY PATCH===
+		<defName>Heart</defName>
+		<label>heart</label>
+		<description>Supplies blood and oxygen to all parts of the body. Ready to find a new owner.</description>
+		<graphicData>
+			<texPath>Things/Item/BodyPart/Organ</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+		</graphicData>
+		<statBases>
+			<MarketValue>1000</MarketValue>
+			<Mass>1</Mass>
+		</statBases>
+		<tickerType>Rare</tickerType>
+		<comps>
+			<li Class="CompProperties_Rottable">
+				<daysToRotStart>1.0</daysToRotStart>
+				<rotDestroys>true</rotDestroys>
+			</li>
+		</comps>
+	</ThingDef -->
+
+  <Brain.label>brain</Brain.label>
+  <Brain.description>A brain. Someone might miss this.</Brain.description>
+
+
+  <!-- ThingDef ParentName="BodyPartNaturalBase">		===OBSOLETE===
+		<defName>BrainLobe</defName>
+		<label>brain lobe</label>
+		<description>A brain lobe.</description>
+		<graphicData>
+			<texPath>Things/Item/BodyPart/Organ</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+		</graphicData>
+		<statBases>
+			<MarketValue>200</MarketValue>
+			<Mass>0.2</Mass>
+		</statBases>
+		<tickerType>Rare</tickerType>
+		<comps>
+			<li Class="CompProperties_Rottable">
+				<daysToRotStart>1.0</daysToRotStart>
+				<rotDestroys>true</rotDestroys>
+			</li>
+		</comps>
+	</ThingDef>
+
+	<ThingDef ParentName="BodyPartNaturalBase">		===INCLUDED BY PATCH===
+		<defName>Lung</defName>
+		<label>lung</label>
+		<description>Essential part of the respiratory system.</description>
+		<graphicData>
+			<texPath>Things/Item/BodyPart/Organ</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+		</graphicData>
+		<statBases>
+			<MarketValue>900</MarketValue>
+			<Mass>1</Mass>
+		</statBases>
+		<tickerType>Rare</tickerType>
+		<comps>
+			<li Class="CompProperties_Rottable">
+				<daysToRotStart>1.0</daysToRotStart>
+				<rotDestroys>true</rotDestroys>
+			</li>
+		</comps>
+	</ThingDef>
+
+	<ThingDef ParentName="BodyPartNaturalBase">		===INCLUDED BY PATCH===
+		<defName>Kidney</defName>
+		<label>kidney</label>
+		<description>Filters and removes waste products from the blood.</description>
+		<graphicData>
+			<texPath>Things/Item/BodyPart/Organ</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+		</graphicData>
+		<statBases>
+			<MarketValue>900</MarketValue>
+			<Mass>1</Mass>
+		</statBases>
+		<tickerType>Rare</tickerType>
+		<comps>
+			<li Class="CompProperties_Rottable">
+				<daysToRotStart>1.0</daysToRotStart>
+				<rotDestroys>true</rotDestroys>
+			</li>
+		</comps>
+	</ThingDef -->
+
+  <Spleed.label>spleed</Spleed.label>
+  <Spleed.description>A spleed.</Spleed.description>
+
+  <LobeLiver.label>lobe of liver</LobeLiver.label>
+  <LobeLiver.description>Plays an important role in metabolism.</LobeLiver.description>
+
+
+  <!-- ThingDef ParentName="BodyPartNaturalBase">		===INCLUDED BY PATCH===
+		<defName>Liver</defName>
+		<label>liver</label>
+		<description>Plays an important role in metabolism.</description>
+		<graphicData>
+			<texPath>Things/Item/BodyPart/Organ</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+		</graphicData>
+		<statBases>
+			<MarketValue>900</MarketValue>
+			<Mass>2</Mass>
+		</statBases>
+		<tickerType>Rare</tickerType>
+		<comps>
+			<li Class="CompProperties_Rottable">
+				<daysToRotStart>1.0</daysToRotStart>
+				<rotDestroys>true</rotDestroys>
+			</li>
+		</comps>
+	</ThingDef -->
+
+  <Eye.label>eyeball</Eye.label>
+  <Eye.description>Absorbs light, which lets a person know what's around them.</Eye.description>
+
+  <Nose.label>nose</Nose.label>
+  <Nose.description>A pretty useful organ to distinguish odors, applies the finishing touch to a face.</Nose.description>
+
+  <Ear.label>ear</Ear.label>
+  <Ear.description>Picks up vibrations in the air, allowing people to hear sound.</Ear.description>
+
+  <Jaw.label>jaw</Jaw.label>
+  <Jaw.description>A nice set of teeth for chewing food and talking.</Jaw.description>
+
+  <Finger.label>finger</Finger.label>
+  <Finger.description>A finger.</Finger.description>
+
+  <Toe.label>toe</Toe.label>
+  <Toe.description>A toe.</Toe.description>
+
+
+  <!-- <ThingDef ParentName="BodyPartNaturalBase">		===OBSOLETE===
+		<defName>Shoulder</defName>
+		<label>shoulder</label>
+		<description>A shoulder.</description>
+		<graphicData>
+			<texPath>Things/Item/BodyPart/Organ</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+		</graphicData>
+		<statBases>
+			<MarketValue>350</MarketValue>
+			<Mass>2</Mass>
+		</statBases>
+		<tickerType>Rare</tickerType>
+		<comps>
+			<li Class="CompProperties_Rottable">
+				<daysToRotStart>1.0</daysToRotStart>
+				<rotDestroys>true</rotDestroys>
+			</li>
+		</comps>
+	</ThingDef> -->
+
+  <Rib.label>rib</Rib.label>
+  <Rib.description>A rib.</Rib.description>
+
+  <Spine.label>spine</Spine.label>
+  <Spine.description>A spine. Someone may miss this.</Spine.description>
+
+  <Clavicle.label>clavicle</Clavicle.label>
+  <Clavicle.description>A clavicle.</Clavicle.description>
+
+  <Sternum.label>sternum</Sternum.label>
+  <Sternum.description>A sternum.</Sternum.description>
+
+  <Humerus.label>humerus</Humerus.label>
+  <Humerus.description>A humerus.</Humerus.description>
+
+  <Femur.label>femur</Femur.label>
+  <Femur.description>A femur.</Femur.description>
+
+  <Pelvis.label>pelvis</Pelvis.label>
+  <Pelvis.description>A pelvis.</Pelvis.description>
+
+  <Radius.label>radius</Radius.label>
+  <Radius.description>A radius.</Radius.description>
+
+  <Ulna.label>ulna</Ulna.label>
+  <Ulna.description>An ulna.</Ulna.description>
+
+  <Patella.label>patella</Patella.label>
+  <Patella.description>A patella.</Patella.description>
+
+  <Tibia.label>tibia</Tibia.label>
+  <Tibia.description>A tibia.</Tibia.description>
+
+  <Fibula.label>fibula</Fibula.label>
+  <Fibula.description>A fibula.</Fibula.description>
+
+
+</LanguageData>

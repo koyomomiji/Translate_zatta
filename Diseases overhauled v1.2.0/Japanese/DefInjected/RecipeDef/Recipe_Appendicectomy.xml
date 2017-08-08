@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Appendicectomy.label>remove appendix</Appendicectomy.label>
+  <Appendicectomy.description>Removes appendix.</Appendicectomy.description>
+  <Appendicectomy.jobString>Removing appendix.</Appendicectomy.jobString>
+  <Appendicectomy.successfullyRemovedHediffMessage>{0} has successfully removed {1}'s appendix.</Appendicectomy.successfullyRemovedHediffMessage>
+
+
+</LanguageData>

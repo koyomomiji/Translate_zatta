@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ROM_MERF.label>MERF</ROM_MERF.label>
+  <ROM_MERF.labelPlural>MERFs</ROM_MERF.labelPlural>
+  <ROM_MERF.description>MERF stands for Mobile Eldritch Response Force.</ROM_MERF.description>
+
+  <ROM_HeavyMERF.label>MERF Heavy</ROM_HeavyMERF.label>
+  <ROM_HeavyMERF.labelPlural>MERF Heavys</ROM_HeavyMERF.labelPlural>
+  <ROM_HeavyMERF.description>MERF stands for Mobile Eldritch Response Force.</ROM_HeavyMERF.description>
+
+
+</LanguageData>

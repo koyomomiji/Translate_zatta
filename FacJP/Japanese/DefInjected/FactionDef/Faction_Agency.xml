@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <ROM_TheAgency.label>エージェント機関</ROM_TheAgency.label>
+  <ROM_TheAgency.description>A clandestine organization of agents dedicated to keeping eldrich forces at bay.\n\nFashioned after ancient law enforcement organizations, The Agency can be found setting up outposts near disaster zones influenced by eldritch abominations most foul. Their goal is to research and investigate new strategies and relics to combat the monsters that have arisen from slumbers most ancient. They dress themselves in traditional police and detective attire from the old world they lost to the cosmic horrors, enjoy brandishing six-shooter revolvers, and are fond of trading their less secretive objects.\n\nThe Agency is structured like a military organization, with members ranking from Cadet up to Chief of the Agency. Those afflicted by cosmic machinations will need their help to survive, as the reinforcements they send tend to be well armed, and won't crack under pressure in the face of stygian monstrosities.</ROM_TheAgency.description>
+  <ROM_TheAgency.pawnsPlural>エージェント</ROM_TheAgency.pawnsPlural>
+  <ROM_TheAgency.leaderTitle>チーフ</ROM_TheAgency.leaderTitle>
+</LanguageData>

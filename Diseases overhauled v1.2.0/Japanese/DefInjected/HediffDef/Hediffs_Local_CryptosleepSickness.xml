@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!--[Core] <CryptosleepSickness.label>冷凍睡眠病</CryptosleepSickness.label>-->
+  <CryptosleepSickness.stages.0.label>minor</CryptosleepSickness.stages.0.label>
+  <CryptosleepSickness.stages.1.label>moderate</CryptosleepSickness.stages.1.label>
+  <CryptosleepSickness.stages.2.label>major</CryptosleepSickness.stages.2.label>
+
+
+</LanguageData>

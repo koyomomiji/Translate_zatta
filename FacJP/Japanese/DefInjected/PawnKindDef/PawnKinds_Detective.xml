@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ROM_DetectiveInvestigator.label>Investigator</ROM_DetectiveInvestigator.label>
+  <ROM_DetectiveInvestigator.labelPlural>Investigators</ROM_DetectiveInvestigator.labelPlural>
+
+  <ROM_DetectiveSenior.label>senior detective</ROM_DetectiveSenior.label>
+  <ROM_DetectiveSenior.labelPlural>senior detectives</ROM_DetectiveSenior.labelPlural>
+
+  <ROM_DetectiveTrader.label>town trader</ROM_DetectiveTrader.label>
+  <ROM_DetectiveTrader.labelPlural>town traders</ROM_DetectiveTrader.labelPlural>
+
+  <ROM_DetectiveJunior.label>junior agent</ROM_DetectiveJunior.label>
+  <ROM_DetectiveJunior.labelPlural>junior agents</ROM_DetectiveJunior.labelPlural>
+
+  <ROM_DetectiveStandard.label>agent</ROM_DetectiveStandard.label>
+  <ROM_DetectiveStandard.labelPlural>agents</ROM_DetectiveStandard.labelPlural>
+
+
+</LanguageData>

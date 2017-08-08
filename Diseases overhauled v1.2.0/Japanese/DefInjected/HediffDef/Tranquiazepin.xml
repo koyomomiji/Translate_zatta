@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <TranquiazepinHigh.label>Tranquiazepin</TranquiazepinHigh.label>
+
+
+  <!-- Tranquiazepin addiction -->
+
+  <TranquiazepinTolerance.label>Tranquiazepin tolerance</TranquiazepinTolerance.label>
+  <TranquiazepinTolerance.stages.1.label>small</TranquiazepinTolerance.stages.1.label>
+  <TranquiazepinTolerance.stages.2.label>large</TranquiazepinTolerance.stages.2.label>
+  <TranquiazepinTolerance.stages.3.label>massive</TranquiazepinTolerance.stages.3.label>
+
+  <TranquiazepinAddiction.label>Tranquiazepin addiction</TranquiazepinAddiction.label>
+  <TranquiazepinAddiction.stages.1.label>withdrawal</TranquiazepinAddiction.stages.1.label>
+
+
+</LanguageData>

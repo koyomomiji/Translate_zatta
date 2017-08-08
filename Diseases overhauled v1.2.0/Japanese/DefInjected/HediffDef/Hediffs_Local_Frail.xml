@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!--[Core] <Frail.label>虚弱</Frail.label>-->
+  <Frail.stages.0.label>minor</Frail.stages.0.label>
+  <Frail.stages.1.label>moderate</Frail.stages.1.label>
+  <Frail.stages.2.label>major</Frail.stages.2.label>
+  <Frail.stages.3.label>extreme</Frail.stages.3.label>
+
+
+</LanguageData>

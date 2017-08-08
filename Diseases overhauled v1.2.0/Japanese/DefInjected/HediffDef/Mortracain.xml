@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <MortracainHigh.label>Mortracain</MortracainHigh.label>
+
+
+  <!-- Mortracain addiction -->
+
+  <MortracainTolerance.label>Mortracain tolerance</MortracainTolerance.label>
+  <MortracainTolerance.stages.1.label>small</MortracainTolerance.stages.1.label>
+  <MortracainTolerance.stages.2.label>large</MortracainTolerance.stages.2.label>
+  <MortracainTolerance.stages.3.label>massive</MortracainTolerance.stages.3.label>
+
+  <MortracainAddiction.label>Mortracain addiction</MortracainAddiction.label>
+  <MortracainAddiction.stages.1.label>withdrawal</MortracainAddiction.stages.1.label>
+
+
+</LanguageData>

@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <HepatitisK.label>Hepatitis K</HepatitisK.label>
+  <HepatitisK.stages.0.label>extreme defensive reaction</HepatitisK.stages.0.label>
+  <HepatitisK.stages.1.label>major defensive reaction</HepatitisK.stages.1.label>
+  <HepatitisK.stages.2.label>balanced</HepatitisK.stages.2.label>
+  <HepatitisK.stages.3.label>major virus activity</HepatitisK.stages.3.label>
+  <HepatitisK.stages.4.label>extreme virus activity</HepatitisK.stages.4.label>
+
+
+</LanguageData>

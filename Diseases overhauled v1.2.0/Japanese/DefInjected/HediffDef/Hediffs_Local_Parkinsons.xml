@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Parkinsons.label>parkinson's</Parkinsons.label>
+  <Parkinsons.stages.1.label>minor</Parkinsons.stages.1.label>
+  <Parkinsons.stages.2.label>moderate</Parkinsons.stages.2.label>
+  <Parkinsons.stages.3.label>major</Parkinsons.stages.3.label>
+  <Parkinsons.stages.4.label>serious</Parkinsons.stages.4.label>
+  <Parkinsons.stages.5.label>severe</Parkinsons.stages.5.label>
+  <Parkinsons.stages.6.label>extreme</Parkinsons.stages.6.label>
+
+
+</LanguageData>

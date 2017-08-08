@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Toothache.label>toothache</Toothache.label>
+  <Toothache.stages.0.label>initial</Toothache.stages.0.label>
+  <Toothache.stages.1.label>minor</Toothache.stages.1.label>
+  <Toothache.stages.2.label>moderate</Toothache.stages.2.label>
+  <Toothache.stages.3.label>major</Toothache.stages.3.label>
+  <Toothache.stages.4.label>extreme</Toothache.stages.4.label>
+
+
+</LanguageData>

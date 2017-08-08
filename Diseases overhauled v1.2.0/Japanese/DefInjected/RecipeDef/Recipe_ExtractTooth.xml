@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ExtractTooth.label>extract sore tooth</ExtractTooth.label>
+  <ExtractTooth.description>Extracts tooth.</ExtractTooth.description>
+  <ExtractTooth.jobString>Extracting tooth.</ExtractTooth.jobString>
+  <ExtractTooth.successfullyRemovedHediffMessage>{0} has successfully removed {1}'s sore tooth.</ExtractTooth.successfullyRemovedHediffMessage>
+
+
+</LanguageData>

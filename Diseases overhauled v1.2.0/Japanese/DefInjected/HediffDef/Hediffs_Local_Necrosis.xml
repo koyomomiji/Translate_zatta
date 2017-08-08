@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Necrosis.label>necrosis</Necrosis.label>
+  <Necrosis.stages.0.label>initial</Necrosis.stages.0.label>
+  <Necrosis.stages.1.label>minor</Necrosis.stages.1.label>
+  <Necrosis.stages.2.label>moderate</Necrosis.stages.2.label>
+  <Necrosis.stages.3.label>major</Necrosis.stages.3.label>
+  <Necrosis.stages.4.label>serious</Necrosis.stages.4.label>
+  <Necrosis.stages.5.label>severe</Necrosis.stages.5.label>
+  <Necrosis.stages.6.label>extreme</Necrosis.stages.6.label>
+  <Necrosis.stages.7.label>final</Necrosis.stages.7.label>
+
+
+</LanguageData>

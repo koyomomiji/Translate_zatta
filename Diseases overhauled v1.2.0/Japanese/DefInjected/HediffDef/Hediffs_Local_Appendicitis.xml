@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Appendicitis.label>acute appendicitis</Appendicitis.label>
+  <Appendicitis.stages.0.label>minor</Appendicitis.stages.0.label>
+  <Appendicitis.stages.1.label>major</Appendicitis.stages.1.label>
+  <Appendicitis.stages.2.label>extreme</Appendicitis.stages.2.label>
+  <Appendicitis.stages.3.label>fatal</Appendicitis.stages.3.label>
+
+
+</LanguageData>

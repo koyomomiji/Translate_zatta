@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Unease.label>feeling uneasy</Unease.label>
+  <Unease.stages.1.label>minor</Unease.stages.1.label>
+  <Unease.stages.2.label>moderate</Unease.stages.2.label>
+  <Unease.stages.3.label>major</Unease.stages.3.label>
+  <Unease.stages.4.label>severe</Unease.stages.4.label>
+  <Unease.stages.5.label>extreme</Unease.stages.5.label>
+
+
+</LanguageData>

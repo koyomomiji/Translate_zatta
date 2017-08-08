@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VegetableBroth.label>vegetable broth</VegetableBroth.label>
+  <VegetableBroth.description>A good vegetable broth. Eating one per day helps shaking of some diseases.</VegetableBroth.description>
+  <VegetableBroth.ingestible.ingestCommandString>Take {0}</VegetableBroth.ingestible.ingestCommandString>
+  <VegetableBroth.ingestible.ingestReportString>Taking {0}.</VegetableBroth.ingestible.ingestReportString>
+
+
+</LanguageData>

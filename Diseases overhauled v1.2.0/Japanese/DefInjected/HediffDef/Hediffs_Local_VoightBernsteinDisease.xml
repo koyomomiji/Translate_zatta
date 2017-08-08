@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VoightBernsteinDisease.label>Voight-Bernstein disease</VoightBernsteinDisease.label>
+  <VoightBernsteinDisease.stages.0.label>initial</VoightBernsteinDisease.stages.0.label>
+  <VoightBernsteinDisease.stages.1.label>minor</VoightBernsteinDisease.stages.1.label>
+  <VoightBernsteinDisease.stages.2.label>moderate</VoightBernsteinDisease.stages.2.label>
+  <VoightBernsteinDisease.stages.3.label>major</VoightBernsteinDisease.stages.3.label>
+  <VoightBernsteinDisease.stages.4.label>serious</VoightBernsteinDisease.stages.4.label>
+  <VoightBernsteinDisease.stages.5.label>severe</VoightBernsteinDisease.stages.5.label>
+  <VoightBernsteinDisease.stages.6.label>extreme</VoightBernsteinDisease.stages.6.label>
+  <VoightBernsteinDisease.stages.7.label>final</VoightBernsteinDisease.stages.7.label>
+
+  <VoightBernsteinDiseaseTumors.label>Voight-Bernstein tumor</VoightBernsteinDiseaseTumors.label>
+  <VoightBernsteinDiseaseTumors.stages.0.label>minor</VoightBernsteinDiseaseTumors.stages.0.label>
+  <VoightBernsteinDiseaseTumors.stages.1.label>moderate</VoightBernsteinDiseaseTumors.stages.1.label>
+  <VoightBernsteinDiseaseTumors.stages.2.label>major</VoightBernsteinDiseaseTumors.stages.2.label>
+  <VoightBernsteinDiseaseTumors.stages.3.label>serious</VoightBernsteinDiseaseTumors.stages.3.label>
+  <VoightBernsteinDiseaseTumors.stages.4.label>severe</VoightBernsteinDiseaseTumors.stages.4.label>
+  <VoightBernsteinDiseaseTumors.stages.5.label>extreme</VoightBernsteinDiseaseTumors.stages.5.label>
+  <VoightBernsteinDiseaseTumors.stages.6.label>final</VoightBernsteinDiseaseTumors.stages.6.label>
+
+
+</LanguageData>

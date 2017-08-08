@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- MERF -->
+
+  <ROM_Apparel_MERF_LightHelmet.label>MERF Light Helmet</ROM_Apparel_MERF_LightHelmet.label>
+  <ROM_Apparel_MERF_LightHelmet.description>A lightweight combat helmet designed for the M.E.R.F. special forces branch of The Agency. MERF stands for Mobile Eldritch Response Force.
+		</ROM_Apparel_MERF_LightHelmet.description>
+
+  <ROM_Apparel_MERF_HeavyHelmet.label>MERF heavy helmet</ROM_Apparel_MERF_HeavyHelmet.label>
+  <ROM_Apparel_MERF_HeavyHelmet.description>A heavy combat helmet designed for the M.E.R.F. special forces branch of The Agency. M.E.R.F. stands for Mobile Eldritch Response Force.
+		</ROM_Apparel_MERF_HeavyHelmet.description>
+
+  <ROM_Apparel_MERF_Armor.label>MERF body armor</ROM_Apparel_MERF_Armor.label>
+  <ROM_Apparel_MERF_Armor.description>Specialized body armor to protect members of the M.E.R.F. branch of The Agency. M.E.R.F. stands for Mobile Eldritch Response Force.
+		</ROM_Apparel_MERF_Armor.description>
+
+  <ROM_Apparel_MERF_Coat.label>MERF coat</ROM_Apparel_MERF_Coat.label>
+  <ROM_Apparel_MERF_Coat.description>Extra padding for supporting M.E.R.F. members during their service.
+		</ROM_Apparel_MERF_Coat.description>
+
+
+</LanguageData>

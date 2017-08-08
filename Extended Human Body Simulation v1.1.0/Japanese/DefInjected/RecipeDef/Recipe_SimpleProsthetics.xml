@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <InstallArtificialPelvis.label>install artifical pelvis</InstallArtificialPelvis.label>
+  <InstallArtificialPelvis.description>Installs artifical pelvis.</InstallArtificialPelvis.description>
+  <InstallArtificialPelvis.jobString>Installing artifical pelvis.</InstallArtificialPelvis.jobString>
+
+  <InstallArtificialClavicle.label>install artifical clavicle</InstallArtificialClavicle.label>
+  <InstallArtificialClavicle.description>Installs artifical clavicle.</InstallArtificialClavicle.description>
+  <InstallArtificialClavicle.jobString>Installing artifical clavicle.</InstallArtificialClavicle.jobString>
+
+  <InstallArtificialSpine.label>install artifical spine</InstallArtificialSpine.label>
+  <InstallArtificialSpine.description>Installs artifical spine.</InstallArtificialSpine.description>
+  <InstallArtificialSpine.jobString>Installing artifical spine.</InstallArtificialSpine.jobString>
+
+  <InstallArtificialSternum.label>install artifical sternum</InstallArtificialSternum.label>
+  <InstallArtificialSternum.description>Installs artifical sternum.</InstallArtificialSternum.description>
+  <InstallArtificialSternum.jobString>Installing artifical sternum.</InstallArtificialSternum.jobString>
+
+  <InstallArtificialFinger.label>install artifical finger</InstallArtificialFinger.label>
+  <InstallArtificialFinger.description>Installs artifical finger.</InstallArtificialFinger.description>
+  <InstallArtificialFinger.jobString>Installing artifical finger.</InstallArtificialFinger.jobString>
+
+  <InstallArtificialToe.label>install artifical toe</InstallArtificialToe.label>
+  <InstallArtificialToe.description>Installs artifical toe.</InstallArtificialToe.description>
+  <InstallArtificialToe.jobString>Installing artifical toe.</InstallArtificialToe.jobString>
+
+  <InstallArtificialHumerus.label>install artifical humerus</InstallArtificialHumerus.label>
+  <InstallArtificialHumerus.description>Installs artifical humerus.</InstallArtificialHumerus.description>
+  <InstallArtificialHumerus.jobString>Installing artifical humerus.</InstallArtificialHumerus.jobString>
+
+  <InstallArtificialFemur.label>install artifical femur</InstallArtificialFemur.label>
+  <InstallArtificialFemur.description>Installs artifical femur.</InstallArtificialFemur.description>
+  <InstallArtificialFemur.jobString>Installing artifical femur.</InstallArtificialFemur.jobString>
+
+  <InstallArtificialPatella.label>install artifical patella</InstallArtificialPatella.label>
+  <InstallArtificialPatella.description>Installs artifical patella.</InstallArtificialPatella.description>
+  <InstallArtificialPatella.jobString>Installing artifical patella.</InstallArtificialPatella.jobString>
+
+  <InstallArtificialTibia.label>install artifical tibia</InstallArtificialTibia.label>
+  <InstallArtificialTibia.description>Installs artifical tibia.</InstallArtificialTibia.description>
+  <InstallArtificialTibia.jobString>Installing artifical tibia.</InstallArtificialTibia.jobString>
+
+  <InstallArtificialFibula.label>install artifical fibula</InstallArtificialFibula.label>
+  <InstallArtificialFibula.description>Installs artifical fibula.</InstallArtificialFibula.description>
+  <InstallArtificialFibula.jobString>Installing artifical fibula.</InstallArtificialFibula.jobString>
+
+  <InstallArtificialRadius.label>install artifical radius</InstallArtificialRadius.label>
+  <InstallArtificialRadius.description>Installs artifical radius.</InstallArtificialRadius.description>
+  <InstallArtificialRadius.jobString>Installing artifical radius.</InstallArtificialRadius.jobString>
+
+  <InstallArtificialUlna.label>install artifical ulna</InstallArtificialUlna.label>
+  <InstallArtificialUlna.description>Installs artifical ulna.</InstallArtificialUlna.description>
+  <InstallArtificialUlna.jobString>Installing artifical ulna.</InstallArtificialUlna.jobString>
+
+  <InstallArtificialRib.label>install artifical rib</InstallArtificialRib.label>
+  <InstallArtificialRib.description>Installs artifical rib.</InstallArtificialRib.description>
+  <InstallArtificialRib.jobString>Installing artifical rib.</InstallArtificialRib.jobString>
+
+
+</LanguageData>

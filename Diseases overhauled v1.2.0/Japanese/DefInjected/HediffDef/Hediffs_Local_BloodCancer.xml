@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <BloodCancer.label>blood cancer</BloodCancer.label>
+  <BloodCancer.stages.0.label>initial</BloodCancer.stages.0.label>
+  <BloodCancer.stages.1.label>minor</BloodCancer.stages.1.label>
+  <BloodCancer.stages.2.label>moderate</BloodCancer.stages.2.label>
+  <BloodCancer.stages.3.label>major</BloodCancer.stages.3.label>
+  <BloodCancer.stages.4.label>serious</BloodCancer.stages.4.label>
+  <BloodCancer.stages.5.label>severe</BloodCancer.stages.5.label>
+  <BloodCancer.stages.6.label>extreme</BloodCancer.stages.6.label>
+  <BloodCancer.stages.7.label>fatal</BloodCancer.stages.7.label>
+
+
+</LanguageData>

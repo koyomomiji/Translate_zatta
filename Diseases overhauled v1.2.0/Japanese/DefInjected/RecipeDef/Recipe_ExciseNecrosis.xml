@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ExciseNecrosis.label>excise necrosis</ExciseNecrosis.label>
+  <ExciseNecrosis.description>Excises necrosis.</ExciseNecrosis.description>
+  <ExciseNecrosis.jobString>Excising necrosis.</ExciseNecrosis.jobString>
+  <ExciseNecrosis.successfullyRemovedHediffMessage>{0} has successfully excised {1}'s necrosis.</ExciseNecrosis.successfullyRemovedHediffMessage>
+
+
+</LanguageData>

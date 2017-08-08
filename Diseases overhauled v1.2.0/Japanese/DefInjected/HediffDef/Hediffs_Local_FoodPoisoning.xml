@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!--[Core] <FoodPoisoning.label>食中毒</FoodPoisoning.label>-->
+  <FoodPoisoning.stages.0.label>minor</FoodPoisoning.stages.0.label>
+  <FoodPoisoning.stages.1.label>moderate</FoodPoisoning.stages.1.label>
+  <FoodPoisoning.stages.2.label>major</FoodPoisoning.stages.2.label>
+
+
+</LanguageData>

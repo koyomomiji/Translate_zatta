@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <TranquiazepinHigh.stages.0.label>Tranquiazepin</TranquiazepinHigh.stages.0.label>
+  <TranquiazepinHigh.stages.0.description>I'm walking on clouds!</TranquiazepinHigh.stages.0.description>
+
+
+  <!-- Tranquiazepin addiction -->
+
+  <TranquiazepinWithdrawal.stages.1.label>Tranquiazepin withdrawal</TranquiazepinWithdrawal.stages.1.label>
+  <TranquiazepinWithdrawal.stages.1.description>Hell! This must be hell! There is only suffering left.</TranquiazepinWithdrawal.stages.1.description>
+
+
+</LanguageData>

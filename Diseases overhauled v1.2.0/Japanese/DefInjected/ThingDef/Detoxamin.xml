@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Detoxamin.label>Detoxamin</Detoxamin.label>
+  <Detoxamin.description>Detoxamin reduces toxic sensitivity by isolating and incorporating toxins. Take one every two days. (No known sideeffects.)</Detoxamin.description>
+  <Detoxamin.ingestible.ingestCommandString>Take {0}</Detoxamin.ingestible.ingestCommandString>
+  <Detoxamin.ingestible.ingestReportString>Taking {0}.</Detoxamin.ingestible.ingestReportString>
+
+
+</LanguageData>

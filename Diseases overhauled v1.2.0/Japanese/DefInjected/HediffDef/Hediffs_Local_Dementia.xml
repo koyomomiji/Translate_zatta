@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!--[Core] <Dementia.label>認知症</Dementia.label>-->
+  <Dementia.stages.0.label>initial</Dementia.stages.0.label>
+  <Dementia.stages.1.label>minor</Dementia.stages.1.label>
+  <Dementia.stages.2.label>moderate</Dementia.stages.2.label>
+  <Dementia.stages.3.label>major</Dementia.stages.3.label>
+
+
+</LanguageData>

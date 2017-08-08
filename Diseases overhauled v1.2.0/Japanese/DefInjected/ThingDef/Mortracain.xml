@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Mortracain.label>Mortracain</Mortracain.label>
+  <Mortracain.description>A relatively strong painkiller. Used to treat moderate to serious pain. Take every two days. (May be addictive.)</Mortracain.description>
+  <Mortracain.ingestible.ingestCommandString>Take {0}</Mortracain.ingestible.ingestCommandString>
+  <Mortracain.ingestible.ingestReportString>Taking {0}.</Mortracain.ingestible.ingestReportString>
+
+
+</LanguageData>

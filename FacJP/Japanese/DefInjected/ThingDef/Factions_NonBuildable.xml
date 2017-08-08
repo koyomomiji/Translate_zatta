@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- BASE GENERATION -->
+
+  <ROM_TemporaryRegionBarrier.label>temporary region barrier</ROM_TemporaryRegionBarrier.label>
+  <ROM_TemporaryDoorMarker.label>temporary region barrier</ROM_TemporaryDoorMarker.label>
+
+
+  <!-- BASE OBJECTS -->
+
+  <ROM_AgencySymbolFloorPainting.label>agency emblem floor painting</ROM_AgencySymbolFloorPainting.label>
+  <ROM_AgencySymbolFloorPainting.description>Shining symbol of the agency that stands to investigate and contain the threat of extra-dimensional entities.</ROM_AgencySymbolFloorPainting.description>
+
+  <ROM_AgencyReceptionistTable.label>table (reception)</ROM_AgencyReceptionistTable.label>
+  <ROM_AgencyReceptionistTable.description>People eat off tables when chairs are placed facing them.</ROM_AgencyReceptionistTable.description>
+  <ROM_AgencyReceptionistTable_Blueprint_Install.label>table (reception) (blueprint)</ROM_AgencyReceptionistTable_Blueprint_Install.label>
+
+
+</LanguageData>

@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ROM_PoleHook.label>polehook</ROM_PoleHook.label>
+  <ROM_PoleHook.description>A meat hook fixed to the end of a pole. A terrifying weapon to behold.</ROM_PoleHook.description>
+
+  <ROM_WoodAxe.label>wood axe</ROM_WoodAxe.label>
+  <ROM_WoodAxe.description>An axe used by lumberjacks to quickly turn trees into valuable resources.</ROM_WoodAxe.description>
+
+  <ROM_Pitchfork.label>pitchfork</ROM_Pitchfork.label>
+  <ROM_Pitchfork.description>Used by farmers to help manage hay.</ROM_Pitchfork.description>
+
+  <ROM_BrandingIron.label>hot branding iron</ROM_BrandingIron.label>
+  <ROM_BrandingIron.description>A burning hot tool commonly used to brand livestock with prescribed insignias.</ROM_BrandingIron.description>
+
+
+</LanguageData>

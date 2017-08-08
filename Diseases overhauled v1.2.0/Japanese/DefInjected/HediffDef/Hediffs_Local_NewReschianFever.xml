@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <NewReschianFever.label>New Reschian fever</NewReschianFever.label>
+  <NewReschianFever.stages.0.label>initial</NewReschianFever.stages.0.label>
+  <NewReschianFever.stages.1.label>minor</NewReschianFever.stages.1.label>
+  <NewReschianFever.stages.2.label>moderate</NewReschianFever.stages.2.label>
+  <NewReschianFever.stages.3.label>major</NewReschianFever.stages.3.label>
+  <NewReschianFever.stages.4.label>severe</NewReschianFever.stages.4.label>
+  <NewReschianFever.stages.5.label>extreme</NewReschianFever.stages.5.label>
+
+
+</LanguageData>

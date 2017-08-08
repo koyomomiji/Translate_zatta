@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!--[Core] <HeartArteryBlockage.label>心筋梗塞</HeartArteryBlockage.label>-->
+  <!--[Core] <HeartArteryBlockage.stages.1.label>minor</HeartArteryBlockage.stages.1.label>-->
+  <!--[Core] <HeartArteryBlockage.stages.2.label>major</HeartArteryBlockage.stages.2.label>-->
+  <!--[Core] <HeartArteryBlockage.stages.3.label>major</HeartArteryBlockage.stages.3.label>-->
+  <!--[Core] <HeartArteryBlockage.stages.4.label>extreme</HeartArteryBlockage.stages.4.label>-->
+  <HeartArteryBlockage.stages.5.label>severe</HeartArteryBlockage.stages.5.label>
+  <HeartArteryBlockage.stages.6.label>extreme</HeartArteryBlockage.stages.6.label>
+  <HeartArteryBlockage.stages.7.label>fatal</HeartArteryBlockage.stages.7.label>
+
+
+</LanguageData>
