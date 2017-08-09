@@ -2,13 +2,13 @@
 <LanguageData>
 
   <MultipleSclerosis.label>multiple sclerosis</MultipleSclerosis.label>
-  <MultipleSclerosis.stages.0.label>initial</MultipleSclerosis.stages.0.label>
-  <MultipleSclerosis.stages.1.label>minor</MultipleSclerosis.stages.1.label>
-  <MultipleSclerosis.stages.2.label>moderate</MultipleSclerosis.stages.2.label>
-  <MultipleSclerosis.stages.3.label>major</MultipleSclerosis.stages.3.label>
+  <MultipleSclerosis.stages.0.label>初期</MultipleSclerosis.stages.0.label>
+  <MultipleSclerosis.stages.1.label>軽度</MultipleSclerosis.stages.1.label>
+  <MultipleSclerosis.stages.2.label>中度</MultipleSclerosis.stages.2.label>
+  <MultipleSclerosis.stages.3.label>中度</MultipleSclerosis.stages.3.label>
   <MultipleSclerosis.stages.4.label>serious</MultipleSclerosis.stages.4.label>
-  <MultipleSclerosis.stages.5.label>severe</MultipleSclerosis.stages.5.label>
-  <MultipleSclerosis.stages.6.label>extreme</MultipleSclerosis.stages.6.label>
+  <MultipleSclerosis.stages.5.label>重度</MultipleSclerosis.stages.5.label>
+  <MultipleSclerosis.stages.6.label>極度</MultipleSclerosis.stages.6.label>
 
 
 </LanguageData>

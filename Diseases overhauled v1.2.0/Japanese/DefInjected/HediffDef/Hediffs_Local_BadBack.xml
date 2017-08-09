@@ -1,18 +1,15 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
   <!--[Core] <BadBack.label>腰痛</BadBack.label>-->
-  <BadBack.stages.0.label>initial</BadBack.stages.0.label>
-  <BadBack.stages.1.label>sparse</BadBack.stages.1.label>
-  <BadBack.stages.2.label>minor</BadBack.stages.2.label>
-  <BadBack.stages.3.label>moderate</BadBack.stages.3.label>
-  <BadBack.stages.4.label>distinct</BadBack.stages.4.label>
-  <BadBack.stages.5.label>major</BadBack.stages.5.label>
-  <BadBack.stages.6.label>serious</BadBack.stages.6.label>
-  <BadBack.stages.7.label>severe</BadBack.stages.7.label>
-  <BadBack.stages.8.label>grave</BadBack.stages.8.label>
-  <BadBack.stages.9.label>extreme</BadBack.stages.9.label>
-  <BadBack.stages.10.label>final</BadBack.stages.10.label>
-
-
+  <BadBack.stages.0.label>初期</BadBack.stages.0.label>
+  <BadBack.stages.1.label>軽度</BadBack.stages.1.label>
+  <BadBack.stages.2.label>軽度</BadBack.stages.2.label>
+  <BadBack.stages.3.label>中度</BadBack.stages.3.label>
+  <BadBack.stages.4.label>中度</BadBack.stages.4.label>
+  <BadBack.stages.5.label>重度</BadBack.stages.5.label>
+  <BadBack.stages.6.label>重度</BadBack.stages.6.label>
+  <BadBack.stages.7.label>最重度</BadBack.stages.7.label>
+  <BadBack.stages.8.label>最重度</BadBack.stages.8.label>
+  <BadBack.stages.9.label>極度</BadBack.stages.9.label>
+  <BadBack.stages.10.label>末期</BadBack.stages.10.label>
 </LanguageData>

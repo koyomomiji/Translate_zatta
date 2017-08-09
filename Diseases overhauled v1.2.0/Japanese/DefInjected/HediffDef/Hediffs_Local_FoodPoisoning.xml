@@ -2,9 +2,9 @@
 <LanguageData>
 
   <!--[Core] <FoodPoisoning.label>食中毒</FoodPoisoning.label>-->
-  <FoodPoisoning.stages.0.label>minor</FoodPoisoning.stages.0.label>
-  <FoodPoisoning.stages.1.label>moderate</FoodPoisoning.stages.1.label>
-  <FoodPoisoning.stages.2.label>major</FoodPoisoning.stages.2.label>
+  <FoodPoisoning.stages.0.label>軽度</FoodPoisoning.stages.0.label>
+  <FoodPoisoning.stages.1.label>中度</FoodPoisoning.stages.1.label>
+  <FoodPoisoning.stages.2.label>重度</FoodPoisoning.stages.2.label>
 
 
 </LanguageData>

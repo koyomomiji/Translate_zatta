@@ -2,13 +2,13 @@
 <LanguageData>
 
   <!--[Core] <WoundInfection.label>傷からの感染症</WoundInfection.label>-->
-  <!--[Core] <WoundInfection.stages.0.label>minor</WoundInfection.stages.0.label>-->
-  <!--[Core] <WoundInfection.stages.1.label>major</WoundInfection.stages.1.label>-->
-  <!--[Core] <WoundInfection.stages.2.label>extreme</WoundInfection.stages.2.label>-->
-  <!--[Core] <WoundInfection.stages.3.label>extreme</WoundInfection.stages.3.label>-->
+  <!--[Core] <WoundInfection.stages.0.label>軽度</WoundInfection.stages.0.label>-->
+  <!--[Core] <WoundInfection.stages.1.label>重度</WoundInfection.stages.1.label>-->
+  <!--[Core] <WoundInfection.stages.2.label>極度</WoundInfection.stages.2.label>-->
+  <!--[Core] <WoundInfection.stages.3.label>極度</WoundInfection.stages.3.label>-->
   <WoundInfection.stages.4.label>severe</WoundInfection.stages.4.label>
-  <WoundInfection.stages.5.label>extreme</WoundInfection.stages.5.label>
-  <WoundInfection.stages.6.label>fatal</WoundInfection.stages.6.label>
+  <WoundInfection.stages.5.label>極度</WoundInfection.stages.5.label>
+  <WoundInfection.stages.6.label>致命的</WoundInfection.stages.6.label>
 
 
 </LanguageData>

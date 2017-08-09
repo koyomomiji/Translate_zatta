@@ -2,13 +2,13 @@
 <LanguageData>
 
   <!--[Core] <HeartArteryBlockage.label>心筋梗塞</HeartArteryBlockage.label>-->
-  <!--[Core] <HeartArteryBlockage.stages.1.label>minor</HeartArteryBlockage.stages.1.label>-->
-  <!--[Core] <HeartArteryBlockage.stages.2.label>major</HeartArteryBlockage.stages.2.label>-->
-  <!--[Core] <HeartArteryBlockage.stages.3.label>major</HeartArteryBlockage.stages.3.label>-->
-  <!--[Core] <HeartArteryBlockage.stages.4.label>extreme</HeartArteryBlockage.stages.4.label>-->
+  <!--[Core] <HeartArteryBlockage.stages.1.label>軽度</HeartArteryBlockage.stages.1.label>-->
+  <!--[Core] <HeartArteryBlockage.stages.2.label>重度</HeartArteryBlockage.stages.2.label>-->
+  <!--[Core] <HeartArteryBlockage.stages.3.label>重度</HeartArteryBlockage.stages.3.label>-->
+  <!--[Core] <HeartArteryBlockage.stages.4.label>極度</HeartArteryBlockage.stages.4.label>-->
   <HeartArteryBlockage.stages.5.label>severe</HeartArteryBlockage.stages.5.label>
-  <HeartArteryBlockage.stages.6.label>extreme</HeartArteryBlockage.stages.6.label>
-  <HeartArteryBlockage.stages.7.label>fatal</HeartArteryBlockage.stages.7.label>
+  <HeartArteryBlockage.stages.6.label>極度</HeartArteryBlockage.stages.6.label>
+  <HeartArteryBlockage.stages.7.label>致命的</HeartArteryBlockage.stages.7.label>
 
 
 </LanguageData>

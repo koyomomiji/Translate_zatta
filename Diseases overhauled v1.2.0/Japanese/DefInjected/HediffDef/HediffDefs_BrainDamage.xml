@@ -1,8 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
-  <BrainDamage.label>brain restructuring</BrainDamage.label>
-  <BrainDamage.stages.0.label>unconscious</BrainDamage.stages.0.label>
-
-
+  <BrainDamage.label>脳の再構築</BrainDamage.label>
+  <BrainDamage.stages.0.label>意識不明</BrainDamage.stages.0.label>
 </LanguageData>

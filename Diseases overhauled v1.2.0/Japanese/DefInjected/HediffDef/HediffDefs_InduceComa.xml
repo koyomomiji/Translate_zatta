@@ -1,25 +1,18 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
-  <InducedComa2Days.label>induced coma</InducedComa2Days.label>
-  <InducedComa2Days.stages.0.label>awakening</InducedComa2Days.stages.0.label>
-  <InducedComa2Days.stages.1.label>approx. two days</InducedComa2Days.stages.1.label>
-
-  <InducedComa5Days.label>induced coma</InducedComa5Days.label>
-  <InducedComa5Days.stages.0.label>awakening</InducedComa5Days.stages.0.label>
-  <InducedComa5Days.stages.1.label>approx. five days</InducedComa5Days.stages.1.label>
-
-  <InducedComa15Days.label>induced coma</InducedComa15Days.label>
-  <InducedComa15Days.stages.0.label>awakening</InducedComa15Days.stages.0.label>
-  <InducedComa15Days.stages.1.label>approx. one season</InducedComa15Days.stages.1.label>
-
-  <InducedComa30Days.label>induced coma</InducedComa30Days.label>
-  <InducedComa30Days.stages.0.label>awakening</InducedComa30Days.stages.0.label>
-  <InducedComa30Days.stages.1.label>approx. half a year</InducedComa30Days.stages.1.label>
-
-  <InducedComaForever.label>induced coma</InducedComaForever.label>
-  <InducedComaForever.stages.0.label>awakening</InducedComaForever.stages.0.label>
-  <InducedComaForever.stages.1.label>unknown duration</InducedComaForever.stages.1.label>
-
-
+  <InducedComa2Days.label>誘発昏睡</InducedComa2Days.label>
+  <InducedComa2Days.stages.0.label>覚醒中</InducedComa2Days.stages.0.label>
+  <InducedComa2Days.stages.1.label>約二日</InducedComa2Days.stages.1.label>
+  <InducedComa5Days.label>誘発昏睡</InducedComa5Days.label>
+  <InducedComa5Days.stages.0.label>覚醒中</InducedComa5Days.stages.0.label>
+  <InducedComa5Days.stages.1.label>約五日</InducedComa5Days.stages.1.label>
+  <InducedComa15Days.label>誘発昏睡</InducedComa15Days.label>
+  <InducedComa15Days.stages.0.label>覚醒中</InducedComa15Days.stages.0.label>
+  <InducedComa15Days.stages.1.label>約一節</InducedComa15Days.stages.1.label>
+  <InducedComa30Days.label>誘発昏睡</InducedComa30Days.label>
+  <InducedComa30Days.stages.0.label>覚醒中</InducedComa30Days.stages.0.label>
+  <InducedComa30Days.stages.1.label>約半年</InducedComa30Days.stages.1.label>
+  <InducedComaForever.label>誘発昏睡</InducedComaForever.label>
+  <InducedComaForever.stages.0.label>覚醒中</InducedComaForever.stages.0.label>
+  <InducedComaForever.stages.1.label>期間不明</InducedComaForever.stages.1.label>
 </LanguageData>

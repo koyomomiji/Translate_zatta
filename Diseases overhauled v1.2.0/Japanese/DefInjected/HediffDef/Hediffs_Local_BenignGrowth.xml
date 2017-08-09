@@ -1,13 +1,10 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
-  <BenignGrowth.label>benign growth</BenignGrowth.label>
-  <BenignGrowth.stages.0.label>initial</BenignGrowth.stages.0.label>
-  <BenignGrowth.stages.1.label>minor</BenignGrowth.stages.1.label>
-  <BenignGrowth.stages.2.label>moderate</BenignGrowth.stages.2.label>
-  <BenignGrowth.stages.3.label>major</BenignGrowth.stages.3.label>
-  <BenignGrowth.stages.4.label>severe</BenignGrowth.stages.4.label>
-  <BenignGrowth.stages.5.label>extreme</BenignGrowth.stages.5.label>
-
-
+  <BenignGrowth.label>良性腫瘍</BenignGrowth.label>
+  <BenignGrowth.stages.0.label>軽度</BenignGrowth.stages.0.label>
+  <BenignGrowth.stages.1.label>軽度</BenignGrowth.stages.1.label>
+  <BenignGrowth.stages.2.label>中度</BenignGrowth.stages.2.label>
+  <BenignGrowth.stages.3.label>中度</BenignGrowth.stages.3.label>
+  <BenignGrowth.stages.4.label>重度</BenignGrowth.stages.4.label>
+  <BenignGrowth.stages.5.label>重度</BenignGrowth.stages.5.label>
 </LanguageData>

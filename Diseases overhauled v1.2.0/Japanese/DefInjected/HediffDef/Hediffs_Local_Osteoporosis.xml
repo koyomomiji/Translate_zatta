@@ -3,15 +3,15 @@
 
   <Osteoporosis.label>osteoporosis</Osteoporosis.label>
   <Osteoporosis.stages.0.label>hidden</Osteoporosis.stages.0.label>
-  <Osteoporosis.stages.1.label>initial</Osteoporosis.stages.1.label>
-  <Osteoporosis.stages.2.label>sparse</Osteoporosis.stages.2.label>
-  <Osteoporosis.stages.3.label>minor</Osteoporosis.stages.3.label>
-  <Osteoporosis.stages.4.label>moderate</Osteoporosis.stages.4.label>
-  <Osteoporosis.stages.5.label>major</Osteoporosis.stages.5.label>
+  <Osteoporosis.stages.1.label>初期</Osteoporosis.stages.1.label>
+  <Osteoporosis.stages.2.label>軽度</Osteoporosis.stages.2.label>
+  <Osteoporosis.stages.3.label>軽度</Osteoporosis.stages.3.label>
+  <Osteoporosis.stages.4.label>中度</Osteoporosis.stages.4.label>
+  <Osteoporosis.stages.5.label>中度</Osteoporosis.stages.5.label>
   <Osteoporosis.stages.6.label>serious</Osteoporosis.stages.6.label>
-  <Osteoporosis.stages.7.label>severe</Osteoporosis.stages.7.label>
-  <Osteoporosis.stages.8.label>extreme</Osteoporosis.stages.8.label>
-  <Osteoporosis.stages.9.label>final</Osteoporosis.stages.9.label>
+  <Osteoporosis.stages.7.label>重度</Osteoporosis.stages.7.label>
+  <Osteoporosis.stages.8.label>極度</Osteoporosis.stages.8.label>
+  <Osteoporosis.stages.9.label>末期</Osteoporosis.stages.9.label>
 
 
 </LanguageData>

@@ -2,13 +2,13 @@
 <LanguageData>
 
   <!--[Core] <Cirrhosis.label>肝硬変</Cirrhosis.label>-->
-  <Cirrhosis.stages.0.label>initial</Cirrhosis.stages.0.label>
-  <Cirrhosis.stages.1.label>minor</Cirrhosis.stages.1.label>
-  <Cirrhosis.stages.2.label>moderate</Cirrhosis.stages.2.label>
-  <Cirrhosis.stages.3.label>major</Cirrhosis.stages.3.label>
-  <Cirrhosis.stages.4.label>severe</Cirrhosis.stages.4.label>
-  <Cirrhosis.stages.5.label>extreme</Cirrhosis.stages.5.label>
-  <Cirrhosis.stages.6.label>final</Cirrhosis.stages.6.label>
+  <Cirrhosis.stages.0.label>初期</Cirrhosis.stages.0.label>
+  <Cirrhosis.stages.1.label>軽度</Cirrhosis.stages.1.label>
+  <Cirrhosis.stages.2.label>中度</Cirrhosis.stages.2.label>
+  <Cirrhosis.stages.3.label>中度</Cirrhosis.stages.3.label>
+  <Cirrhosis.stages.4.label>重度</Cirrhosis.stages.4.label>
+  <Cirrhosis.stages.5.label>極度</Cirrhosis.stages.5.label>
+  <Cirrhosis.stages.6.label>末期</Cirrhosis.stages.6.label>
 
 
 </LanguageData>

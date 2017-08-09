@@ -2,10 +2,10 @@
 <LanguageData>
 
   <!--[Core] <Dementia.label>認知症</Dementia.label>-->
-  <Dementia.stages.0.label>initial</Dementia.stages.0.label>
-  <Dementia.stages.1.label>minor</Dementia.stages.1.label>
-  <Dementia.stages.2.label>moderate</Dementia.stages.2.label>
-  <Dementia.stages.3.label>major</Dementia.stages.3.label>
+  <Dementia.stages.0.label>初期</Dementia.stages.0.label>
+  <Dementia.stages.1.label>軽度</Dementia.stages.1.label>
+  <Dementia.stages.2.label>中度</Dementia.stages.2.label>
+  <Dementia.stages.3.label>重度</Dementia.stages.3.label>
 
 
 </LanguageData>

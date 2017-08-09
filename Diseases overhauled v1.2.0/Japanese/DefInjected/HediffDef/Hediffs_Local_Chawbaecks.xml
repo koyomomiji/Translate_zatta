@@ -1,16 +1,13 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
-  <Chawbaecks.label>chawbaeck's</Chawbaecks.label>
-  <Chawbaecks.stages.0.label>initial</Chawbaecks.stages.0.label>
-  <Chawbaecks.stages.1.label>sparse</Chawbaecks.stages.1.label>
-  <Chawbaecks.stages.2.label>minor</Chawbaecks.stages.2.label>
-  <Chawbaecks.stages.3.label>moderate</Chawbaecks.stages.3.label>
-  <Chawbaecks.stages.4.label>major</Chawbaecks.stages.4.label>
-  <Chawbaecks.stages.5.label>serious</Chawbaecks.stages.5.label>
-  <Chawbaecks.stages.6.label>severe</Chawbaecks.stages.6.label>
-  <Chawbaecks.stages.7.label>extreme</Chawbaecks.stages.7.label>
-  <Chawbaecks.stages.8.label>final</Chawbaecks.stages.8.label>
-
-
+  <Chawbaecks.label>炎症:</Chawbaecks.label>
+  <Chawbaecks.stages.0.label>初期</Chawbaecks.stages.0.label>
+  <Chawbaecks.stages.1.label>軽度</Chawbaecks.stages.1.label>
+  <Chawbaecks.stages.2.label>軽度</Chawbaecks.stages.2.label>
+  <Chawbaecks.stages.3.label>中度</Chawbaecks.stages.3.label>
+  <Chawbaecks.stages.4.label>重度</Chawbaecks.stages.4.label>
+  <Chawbaecks.stages.5.label>重度</Chawbaecks.stages.5.label>
+  <Chawbaecks.stages.6.label>最重度</Chawbaecks.stages.6.label>
+  <Chawbaecks.stages.7.label>極度</Chawbaecks.stages.7.label>
+  <Chawbaecks.stages.8.label>末期</Chawbaecks.stages.8.label>
 </LanguageData>

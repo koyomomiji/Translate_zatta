@@ -1,14 +1,11 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
-  <CerebralArteryStenosis.label>artery blockage</CerebralArteryStenosis.label>
-  <CerebralArteryStenosis.stages.1.label>initial</CerebralArteryStenosis.stages.1.label>
-  <CerebralArteryStenosis.stages.2.label>minor</CerebralArteryStenosis.stages.2.label>
-  <CerebralArteryStenosis.stages.3.label>moderate</CerebralArteryStenosis.stages.3.label>
-  <CerebralArteryStenosis.stages.4.label>major</CerebralArteryStenosis.stages.4.label>
-  <CerebralArteryStenosis.stages.5.label>severe</CerebralArteryStenosis.stages.5.label>
-  <CerebralArteryStenosis.stages.6.label>extreme</CerebralArteryStenosis.stages.6.label>
-  <CerebralArteryStenosis.stages.7.label>fatal</CerebralArteryStenosis.stages.7.label>
-
-
+  <CerebralArteryStenosis.label>甲状腺機能低下症</CerebralArteryStenosis.label>
+  <CerebralArteryStenosis.stages.1.label>初期</CerebralArteryStenosis.stages.1.label>
+  <CerebralArteryStenosis.stages.2.label>軽度</CerebralArteryStenosis.stages.2.label>
+  <CerebralArteryStenosis.stages.3.label>軽度</CerebralArteryStenosis.stages.3.label>
+  <CerebralArteryStenosis.stages.4.label>中度</CerebralArteryStenosis.stages.4.label>
+  <CerebralArteryStenosis.stages.5.label>重度</CerebralArteryStenosis.stages.5.label>
+  <CerebralArteryStenosis.stages.6.label>極度</CerebralArteryStenosis.stages.6.label>
+  <CerebralArteryStenosis.stages.7.label>致命的</CerebralArteryStenosis.stages.7.label>
 </LanguageData>

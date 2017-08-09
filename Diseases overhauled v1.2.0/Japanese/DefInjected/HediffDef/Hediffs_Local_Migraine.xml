@@ -3,11 +3,11 @@
 
   <Migraine.label>migraine</Migraine.label>
   <Migraine.stages.0.label>symptom-free</Migraine.stages.0.label>
-  <Migraine.stages.1.label>minor</Migraine.stages.1.label>
-  <Migraine.stages.2.label>moderate</Migraine.stages.2.label>
-  <Migraine.stages.3.label>major</Migraine.stages.3.label>
-  <Migraine.stages.4.label>severe</Migraine.stages.4.label>
-  <Migraine.stages.5.label>extreme</Migraine.stages.5.label>
+  <Migraine.stages.1.label>軽度</Migraine.stages.1.label>
+  <Migraine.stages.2.label>中度</Migraine.stages.2.label>
+  <Migraine.stages.3.label>重度</Migraine.stages.3.label>
+  <Migraine.stages.4.label>重度</Migraine.stages.4.label>
+  <Migraine.stages.5.label>極度</Migraine.stages.5.label>
 
 
 </LanguageData>

@@ -2,10 +2,10 @@
 <LanguageData>
 
   <BrainWorm.label>brain worm</BrainWorm.label>
-  <BrainWorm.stages.0.label>minor</BrainWorm.stages.0.label>
-  <BrainWorm.stages.1.label>moderate</BrainWorm.stages.1.label>
-  <BrainWorm.stages.2.label>major</BrainWorm.stages.2.label>
-  <BrainWorm.stages.3.label>extreme</BrainWorm.stages.3.label>
+  <BrainWorm.stages.0.label>軽度</BrainWorm.stages.0.label>
+  <BrainWorm.stages.1.label>中度</BrainWorm.stages.1.label>
+  <BrainWorm.stages.2.label>重度</BrainWorm.stages.2.label>
+  <BrainWorm.stages.3.label>極度</BrainWorm.stages.3.label>
 
   <HeartWorm.label>heart worm</HeartWorm.label>
   <LungWorms.label>lung worms</LungWorms.label>

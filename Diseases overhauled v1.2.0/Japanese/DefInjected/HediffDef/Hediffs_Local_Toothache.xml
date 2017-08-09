@@ -2,11 +2,11 @@
 <LanguageData>
 
   <Toothache.label>toothache</Toothache.label>
-  <Toothache.stages.0.label>initial</Toothache.stages.0.label>
-  <Toothache.stages.1.label>minor</Toothache.stages.1.label>
-  <Toothache.stages.2.label>moderate</Toothache.stages.2.label>
-  <Toothache.stages.3.label>major</Toothache.stages.3.label>
-  <Toothache.stages.4.label>extreme</Toothache.stages.4.label>
+  <Toothache.stages.0.label>初期</Toothache.stages.0.label>
+  <Toothache.stages.1.label>軽度</Toothache.stages.1.label>
+  <Toothache.stages.2.label>中度</Toothache.stages.2.label>
+  <Toothache.stages.3.label>重度</Toothache.stages.3.label>
+  <Toothache.stages.4.label>極度</Toothache.stages.4.label>
 
 
 </LanguageData>

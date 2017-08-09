@@ -4,92 +4,92 @@
   <PeripheralPathwayObstruction.label>peripheral pathway obstruction</PeripheralPathwayObstruction.label>
 
   <PeripheralPathwayObstructionStage1.label>peripheral pathway obstruction</PeripheralPathwayObstructionStage1.label>
-  <PeripheralPathwayObstructionStage1.stages.0.label>initial</PeripheralPathwayObstructionStage1.stages.0.label>
-  <PeripheralPathwayObstructionStage1.stages.1.label>sparse</PeripheralPathwayObstructionStage1.stages.1.label>
-  <PeripheralPathwayObstructionStage1.stages.2.label>minor</PeripheralPathwayObstructionStage1.stages.2.label>
-  <PeripheralPathwayObstructionStage1.stages.3.label>moderate</PeripheralPathwayObstructionStage1.stages.3.label>
-  <PeripheralPathwayObstructionStage1.stages.4.label>major</PeripheralPathwayObstructionStage1.stages.4.label>
+  <PeripheralPathwayObstructionStage1.stages.0.label>初期</PeripheralPathwayObstructionStage1.stages.0.label>
+  <PeripheralPathwayObstructionStage1.stages.1.label>軽度</PeripheralPathwayObstructionStage1.stages.1.label>
+  <PeripheralPathwayObstructionStage1.stages.2.label>軽度</PeripheralPathwayObstructionStage1.stages.2.label>
+  <PeripheralPathwayObstructionStage1.stages.3.label>中度</PeripheralPathwayObstructionStage1.stages.3.label>
+  <PeripheralPathwayObstructionStage1.stages.4.label>中度</PeripheralPathwayObstructionStage1.stages.4.label>
   <PeripheralPathwayObstructionStage1.stages.5.label>serious</PeripheralPathwayObstructionStage1.stages.5.label>
-  <PeripheralPathwayObstructionStage1.stages.6.label>severe</PeripheralPathwayObstructionStage1.stages.6.label>
-  <PeripheralPathwayObstructionStage1.stages.7.label>extreme</PeripheralPathwayObstructionStage1.stages.7.label>
-  <PeripheralPathwayObstructionStage1.stages.8.label>final</PeripheralPathwayObstructionStage1.stages.8.label>
+  <PeripheralPathwayObstructionStage1.stages.6.label>重度</PeripheralPathwayObstructionStage1.stages.6.label>
+  <PeripheralPathwayObstructionStage1.stages.7.label>極度</PeripheralPathwayObstructionStage1.stages.7.label>
+  <PeripheralPathwayObstructionStage1.stages.8.label>末期</PeripheralPathwayObstructionStage1.stages.8.label>
 
   <PeripheralPathwayObstructionStage2.label>peripheral pathway obstruction</PeripheralPathwayObstructionStage2.label>
-  <PeripheralPathwayObstructionStage2.stages.0.label>initial</PeripheralPathwayObstructionStage2.stages.0.label>
-  <PeripheralPathwayObstructionStage2.stages.1.label>sparsely</PeripheralPathwayObstructionStage2.stages.1.label>
-  <PeripheralPathwayObstructionStage2.stages.2.label>minor</PeripheralPathwayObstructionStage2.stages.2.label>
-  <PeripheralPathwayObstructionStage2.stages.3.label>moderate</PeripheralPathwayObstructionStage2.stages.3.label>
-  <PeripheralPathwayObstructionStage2.stages.4.label>major</PeripheralPathwayObstructionStage2.stages.4.label>
+  <PeripheralPathwayObstructionStage2.stages.0.label>初期</PeripheralPathwayObstructionStage2.stages.0.label>
+  <PeripheralPathwayObstructionStage2.stages.1.label>軽度ly</PeripheralPathwayObstructionStage2.stages.1.label>
+  <PeripheralPathwayObstructionStage2.stages.2.label>軽度</PeripheralPathwayObstructionStage2.stages.2.label>
+  <PeripheralPathwayObstructionStage2.stages.3.label>中度</PeripheralPathwayObstructionStage2.stages.3.label>
+  <PeripheralPathwayObstructionStage2.stages.4.label>中度</PeripheralPathwayObstructionStage2.stages.4.label>
   <PeripheralPathwayObstructionStage2.stages.5.label>serious</PeripheralPathwayObstructionStage2.stages.5.label>
-  <PeripheralPathwayObstructionStage2.stages.6.label>severe</PeripheralPathwayObstructionStage2.stages.6.label>
-  <PeripheralPathwayObstructionStage2.stages.7.label>extreme</PeripheralPathwayObstructionStage2.stages.7.label>
-  <PeripheralPathwayObstructionStage2.stages.8.label>final</PeripheralPathwayObstructionStage2.stages.8.label>
+  <PeripheralPathwayObstructionStage2.stages.6.label>重度</PeripheralPathwayObstructionStage2.stages.6.label>
+  <PeripheralPathwayObstructionStage2.stages.7.label>極度</PeripheralPathwayObstructionStage2.stages.7.label>
+  <PeripheralPathwayObstructionStage2.stages.8.label>末期</PeripheralPathwayObstructionStage2.stages.8.label>
 
   <PeripheralPathwayObstructionStageLS3.label>peripheral pathway obstruction</PeripheralPathwayObstructionStageLS3.label>
-  <PeripheralPathwayObstructionStageLS3.stages.0.label>initial</PeripheralPathwayObstructionStageLS3.stages.0.label>
-  <PeripheralPathwayObstructionStageLS3.stages.1.label>sparsely</PeripheralPathwayObstructionStageLS3.stages.1.label>
-  <PeripheralPathwayObstructionStageLS3.stages.2.label>minor</PeripheralPathwayObstructionStageLS3.stages.2.label>
-  <PeripheralPathwayObstructionStageLS3.stages.3.label>moderate</PeripheralPathwayObstructionStageLS3.stages.3.label>
-  <PeripheralPathwayObstructionStageLS3.stages.4.label>major</PeripheralPathwayObstructionStageLS3.stages.4.label>
+  <PeripheralPathwayObstructionStageLS3.stages.0.label>初期</PeripheralPathwayObstructionStageLS3.stages.0.label>
+  <PeripheralPathwayObstructionStageLS3.stages.1.label>軽度ly</PeripheralPathwayObstructionStageLS3.stages.1.label>
+  <PeripheralPathwayObstructionStageLS3.stages.2.label>軽度</PeripheralPathwayObstructionStageLS3.stages.2.label>
+  <PeripheralPathwayObstructionStageLS3.stages.3.label>中度</PeripheralPathwayObstructionStageLS3.stages.3.label>
+  <PeripheralPathwayObstructionStageLS3.stages.4.label>中度</PeripheralPathwayObstructionStageLS3.stages.4.label>
   <PeripheralPathwayObstructionStageLS3.stages.5.label>serious</PeripheralPathwayObstructionStageLS3.stages.5.label>
-  <PeripheralPathwayObstructionStageLS3.stages.6.label>severe</PeripheralPathwayObstructionStageLS3.stages.6.label>
-  <PeripheralPathwayObstructionStageLS3.stages.7.label>extreme</PeripheralPathwayObstructionStageLS3.stages.7.label>
-  <PeripheralPathwayObstructionStageLS3.stages.8.label>final</PeripheralPathwayObstructionStageLS3.stages.8.label>
+  <PeripheralPathwayObstructionStageLS3.stages.6.label>重度</PeripheralPathwayObstructionStageLS3.stages.6.label>
+  <PeripheralPathwayObstructionStageLS3.stages.7.label>極度</PeripheralPathwayObstructionStageLS3.stages.7.label>
+  <PeripheralPathwayObstructionStageLS3.stages.8.label>末期</PeripheralPathwayObstructionStageLS3.stages.8.label>
 
   <PeripheralPathwayObstructionStageLS4.label>peripheral pathway obstruction</PeripheralPathwayObstructionStageLS4.label>
-  <PeripheralPathwayObstructionStageLS4.stages.0.label>initial</PeripheralPathwayObstructionStageLS4.stages.0.label>
-  <PeripheralPathwayObstructionStageLS4.stages.1.label>sparsely</PeripheralPathwayObstructionStageLS4.stages.1.label>
-  <PeripheralPathwayObstructionStageLS4.stages.2.label>minor</PeripheralPathwayObstructionStageLS4.stages.2.label>
-  <PeripheralPathwayObstructionStageLS4.stages.3.label>moderate</PeripheralPathwayObstructionStageLS4.stages.3.label>
-  <PeripheralPathwayObstructionStageLS4.stages.4.label>major</PeripheralPathwayObstructionStageLS4.stages.4.label>
+  <PeripheralPathwayObstructionStageLS4.stages.0.label>初期</PeripheralPathwayObstructionStageLS4.stages.0.label>
+  <PeripheralPathwayObstructionStageLS4.stages.1.label>軽度ly</PeripheralPathwayObstructionStageLS4.stages.1.label>
+  <PeripheralPathwayObstructionStageLS4.stages.2.label>軽度</PeripheralPathwayObstructionStageLS4.stages.2.label>
+  <PeripheralPathwayObstructionStageLS4.stages.3.label>中度</PeripheralPathwayObstructionStageLS4.stages.3.label>
+  <PeripheralPathwayObstructionStageLS4.stages.4.label>中度</PeripheralPathwayObstructionStageLS4.stages.4.label>
   <PeripheralPathwayObstructionStageLS4.stages.5.label>serious</PeripheralPathwayObstructionStageLS4.stages.5.label>
-  <PeripheralPathwayObstructionStageLS4.stages.6.label>severe</PeripheralPathwayObstructionStageLS4.stages.6.label>
-  <PeripheralPathwayObstructionStageLS4.stages.7.label>extreme</PeripheralPathwayObstructionStageLS4.stages.7.label>
-  <PeripheralPathwayObstructionStageLS4.stages.8.label>final</PeripheralPathwayObstructionStageLS4.stages.8.label>
+  <PeripheralPathwayObstructionStageLS4.stages.6.label>重度</PeripheralPathwayObstructionStageLS4.stages.6.label>
+  <PeripheralPathwayObstructionStageLS4.stages.7.label>極度</PeripheralPathwayObstructionStageLS4.stages.7.label>
+  <PeripheralPathwayObstructionStageLS4.stages.8.label>末期</PeripheralPathwayObstructionStageLS4.stages.8.label>
 
   <PeripheralPathwayObstructionStageLL3.label>peripheral pathway obstruction</PeripheralPathwayObstructionStageLL3.label>
-  <PeripheralPathwayObstructionStageLL3.stages.0.label>initial</PeripheralPathwayObstructionStageLL3.stages.0.label>
-  <PeripheralPathwayObstructionStageLL3.stages.1.label>sparsely</PeripheralPathwayObstructionStageLL3.stages.1.label>
-  <PeripheralPathwayObstructionStageLL3.stages.2.label>minor</PeripheralPathwayObstructionStageLL3.stages.2.label>
-  <PeripheralPathwayObstructionStageLL3.stages.3.label>moderate</PeripheralPathwayObstructionStageLL3.stages.3.label>
-  <PeripheralPathwayObstructionStageLL3.stages.4.label>major</PeripheralPathwayObstructionStageLL3.stages.4.label>
+  <PeripheralPathwayObstructionStageLL3.stages.0.label>初期</PeripheralPathwayObstructionStageLL3.stages.0.label>
+  <PeripheralPathwayObstructionStageLL3.stages.1.label>軽度ly</PeripheralPathwayObstructionStageLL3.stages.1.label>
+  <PeripheralPathwayObstructionStageLL3.stages.2.label>軽度</PeripheralPathwayObstructionStageLL3.stages.2.label>
+  <PeripheralPathwayObstructionStageLL3.stages.3.label>中度</PeripheralPathwayObstructionStageLL3.stages.3.label>
+  <PeripheralPathwayObstructionStageLL3.stages.4.label>中度</PeripheralPathwayObstructionStageLL3.stages.4.label>
   <PeripheralPathwayObstructionStageLL3.stages.5.label>serious</PeripheralPathwayObstructionStageLL3.stages.5.label>
-  <PeripheralPathwayObstructionStageLL3.stages.6.label>severe</PeripheralPathwayObstructionStageLL3.stages.6.label>
-  <PeripheralPathwayObstructionStageLL3.stages.7.label>extreme</PeripheralPathwayObstructionStageLL3.stages.7.label>
-  <PeripheralPathwayObstructionStageLL3.stages.8.label>final</PeripheralPathwayObstructionStageLL3.stages.8.label>
+  <PeripheralPathwayObstructionStageLL3.stages.6.label>重度</PeripheralPathwayObstructionStageLL3.stages.6.label>
+  <PeripheralPathwayObstructionStageLL3.stages.7.label>極度</PeripheralPathwayObstructionStageLL3.stages.7.label>
+  <PeripheralPathwayObstructionStageLL3.stages.8.label>末期</PeripheralPathwayObstructionStageLL3.stages.8.label>
 
   <PeripheralPathwayObstructionStageRS3.label>peripheral pathway obstruction</PeripheralPathwayObstructionStageRS3.label>
-  <PeripheralPathwayObstructionStageRS3.stages.0.label>initial</PeripheralPathwayObstructionStageRS3.stages.0.label>
-  <PeripheralPathwayObstructionStageRS3.stages.1.label>sparsely</PeripheralPathwayObstructionStageRS3.stages.1.label>
-  <PeripheralPathwayObstructionStageRS3.stages.2.label>minor</PeripheralPathwayObstructionStageRS3.stages.2.label>
-  <PeripheralPathwayObstructionStageRS3.stages.3.label>moderate</PeripheralPathwayObstructionStageRS3.stages.3.label>
-  <PeripheralPathwayObstructionStageRS3.stages.4.label>major</PeripheralPathwayObstructionStageRS3.stages.4.label>
+  <PeripheralPathwayObstructionStageRS3.stages.0.label>初期</PeripheralPathwayObstructionStageRS3.stages.0.label>
+  <PeripheralPathwayObstructionStageRS3.stages.1.label>軽度ly</PeripheralPathwayObstructionStageRS3.stages.1.label>
+  <PeripheralPathwayObstructionStageRS3.stages.2.label>軽度</PeripheralPathwayObstructionStageRS3.stages.2.label>
+  <PeripheralPathwayObstructionStageRS3.stages.3.label>中度</PeripheralPathwayObstructionStageRS3.stages.3.label>
+  <PeripheralPathwayObstructionStageRS3.stages.4.label>中度</PeripheralPathwayObstructionStageRS3.stages.4.label>
   <PeripheralPathwayObstructionStageRS3.stages.5.label>serious</PeripheralPathwayObstructionStageRS3.stages.5.label>
-  <PeripheralPathwayObstructionStageRS3.stages.6.label>severe</PeripheralPathwayObstructionStageRS3.stages.6.label>
-  <PeripheralPathwayObstructionStageRS3.stages.7.label>extreme</PeripheralPathwayObstructionStageRS3.stages.7.label>
-  <PeripheralPathwayObstructionStageRS3.stages.8.label>final</PeripheralPathwayObstructionStageRS3.stages.8.label>
+  <PeripheralPathwayObstructionStageRS3.stages.6.label>重度</PeripheralPathwayObstructionStageRS3.stages.6.label>
+  <PeripheralPathwayObstructionStageRS3.stages.7.label>極度</PeripheralPathwayObstructionStageRS3.stages.7.label>
+  <PeripheralPathwayObstructionStageRS3.stages.8.label>末期</PeripheralPathwayObstructionStageRS3.stages.8.label>
 
   <PeripheralPathwayObstructionStageRS4.label>peripheral pathway obstruction</PeripheralPathwayObstructionStageRS4.label>
-  <PeripheralPathwayObstructionStageRS4.stages.0.label>initial</PeripheralPathwayObstructionStageRS4.stages.0.label>
-  <PeripheralPathwayObstructionStageRS4.stages.1.label>sparsely</PeripheralPathwayObstructionStageRS4.stages.1.label>
-  <PeripheralPathwayObstructionStageRS4.stages.2.label>minor</PeripheralPathwayObstructionStageRS4.stages.2.label>
-  <PeripheralPathwayObstructionStageRS4.stages.3.label>moderate</PeripheralPathwayObstructionStageRS4.stages.3.label>
-  <PeripheralPathwayObstructionStageRS4.stages.4.label>major</PeripheralPathwayObstructionStageRS4.stages.4.label>
+  <PeripheralPathwayObstructionStageRS4.stages.0.label>初期</PeripheralPathwayObstructionStageRS4.stages.0.label>
+  <PeripheralPathwayObstructionStageRS4.stages.1.label>軽度ly</PeripheralPathwayObstructionStageRS4.stages.1.label>
+  <PeripheralPathwayObstructionStageRS4.stages.2.label>軽度</PeripheralPathwayObstructionStageRS4.stages.2.label>
+  <PeripheralPathwayObstructionStageRS4.stages.3.label>中度</PeripheralPathwayObstructionStageRS4.stages.3.label>
+  <PeripheralPathwayObstructionStageRS4.stages.4.label>中度</PeripheralPathwayObstructionStageRS4.stages.4.label>
   <PeripheralPathwayObstructionStageRS4.stages.5.label>serious</PeripheralPathwayObstructionStageRS4.stages.5.label>
-  <PeripheralPathwayObstructionStageRS4.stages.6.label>severe</PeripheralPathwayObstructionStageRS4.stages.6.label>
-  <PeripheralPathwayObstructionStageRS4.stages.7.label>extreme</PeripheralPathwayObstructionStageRS4.stages.7.label>
-  <PeripheralPathwayObstructionStageRS4.stages.8.label>final</PeripheralPathwayObstructionStageRS4.stages.8.label>
+  <PeripheralPathwayObstructionStageRS4.stages.6.label>重度</PeripheralPathwayObstructionStageRS4.stages.6.label>
+  <PeripheralPathwayObstructionStageRS4.stages.7.label>極度</PeripheralPathwayObstructionStageRS4.stages.7.label>
+  <PeripheralPathwayObstructionStageRS4.stages.8.label>末期</PeripheralPathwayObstructionStageRS4.stages.8.label>
 
   <PeripheralPathwayObstructionStageRL3.label>peripheral pathway obstruction</PeripheralPathwayObstructionStageRL3.label>
-  <PeripheralPathwayObstructionStageRL3.stages.0.label>initial</PeripheralPathwayObstructionStageRL3.stages.0.label>
-  <PeripheralPathwayObstructionStageRL3.stages.1.label>sparsely</PeripheralPathwayObstructionStageRL3.stages.1.label>
-  <PeripheralPathwayObstructionStageRL3.stages.2.label>minor</PeripheralPathwayObstructionStageRL3.stages.2.label>
-  <PeripheralPathwayObstructionStageRL3.stages.3.label>moderate</PeripheralPathwayObstructionStageRL3.stages.3.label>
-  <PeripheralPathwayObstructionStageRL3.stages.4.label>major</PeripheralPathwayObstructionStageRL3.stages.4.label>
+  <PeripheralPathwayObstructionStageRL3.stages.0.label>初期</PeripheralPathwayObstructionStageRL3.stages.0.label>
+  <PeripheralPathwayObstructionStageRL3.stages.1.label>軽度ly</PeripheralPathwayObstructionStageRL3.stages.1.label>
+  <PeripheralPathwayObstructionStageRL3.stages.2.label>軽度</PeripheralPathwayObstructionStageRL3.stages.2.label>
+  <PeripheralPathwayObstructionStageRL3.stages.3.label>中度</PeripheralPathwayObstructionStageRL3.stages.3.label>
+  <PeripheralPathwayObstructionStageRL3.stages.4.label>中度</PeripheralPathwayObstructionStageRL3.stages.4.label>
   <PeripheralPathwayObstructionStageRL3.stages.5.label>serious</PeripheralPathwayObstructionStageRL3.stages.5.label>
-  <PeripheralPathwayObstructionStageRL3.stages.6.label>severe</PeripheralPathwayObstructionStageRL3.stages.6.label>
-  <PeripheralPathwayObstructionStageRL3.stages.7.label>extreme</PeripheralPathwayObstructionStageRL3.stages.7.label>
-  <PeripheralPathwayObstructionStageRL3.stages.8.label>final</PeripheralPathwayObstructionStageRL3.stages.8.label>
+  <PeripheralPathwayObstructionStageRL3.stages.6.label>重度</PeripheralPathwayObstructionStageRL3.stages.6.label>
+  <PeripheralPathwayObstructionStageRL3.stages.7.label>極度</PeripheralPathwayObstructionStageRL3.stages.7.label>
+  <PeripheralPathwayObstructionStageRL3.stages.8.label>末期</PeripheralPathwayObstructionStageRL3.stages.8.label>
 
 
 </LanguageData>

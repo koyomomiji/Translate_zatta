@@ -2,12 +2,12 @@
 <LanguageData>
 
   <Tuberculosis.label>tuberculosis</Tuberculosis.label>
-  <Tuberculosis.stages.0.label>initial</Tuberculosis.stages.0.label>
-  <Tuberculosis.stages.1.label>minor</Tuberculosis.stages.1.label>
-  <Tuberculosis.stages.2.label>moderate</Tuberculosis.stages.2.label>
-  <Tuberculosis.stages.3.label>major</Tuberculosis.stages.3.label>
-  <Tuberculosis.stages.4.label>severe</Tuberculosis.stages.4.label>
-  <Tuberculosis.stages.5.label>extreme</Tuberculosis.stages.5.label>
+  <Tuberculosis.stages.0.label>初期</Tuberculosis.stages.0.label>
+  <Tuberculosis.stages.1.label>軽度</Tuberculosis.stages.1.label>
+  <Tuberculosis.stages.2.label>中度</Tuberculosis.stages.2.label>
+  <Tuberculosis.stages.3.label>重度</Tuberculosis.stages.3.label>
+  <Tuberculosis.stages.4.label>重度</Tuberculosis.stages.4.label>
+  <Tuberculosis.stages.5.label>極度</Tuberculosis.stages.5.label>
 
   <EncapsulatedTuberculosis.label>encapsulated pathogen</EncapsulatedTuberculosis.label>
 

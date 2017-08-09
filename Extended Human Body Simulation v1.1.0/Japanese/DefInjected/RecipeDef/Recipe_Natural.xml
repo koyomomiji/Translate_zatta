@@ -1,121 +1,78 @@
-ï»¿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
-  <!--[Core] <InstallNaturalHeart.label>ç”Ÿä½“å¿ƒè‡“ ç§»æ¤</InstallNaturalHeart.label>-->
-  <!--[Core] <InstallNaturalHeart.description>ç”Ÿä½“ã®å¿ƒè‡“ã‚’ç§»æ¤ã—ã¾ã™ã€‚</InstallNaturalHeart.description>-->
-  <!--[Core] <InstallNaturalHeart.jobString>ç”Ÿä½“å¿ƒè‡“ã‚’ç§»æ¤ä¸­</InstallNaturalHeart.jobString>-->
-
-  <InstallNaturalSpleed.label>install spleed</InstallNaturalSpleed.label>
+  <InstallNaturalSpleed.label>ˆÚA ¶‘ÌäB‘Ÿ</InstallNaturalSpleed.label>
   <InstallNaturalSpleed.description>Installs spleed.</InstallNaturalSpleed.description>
-  <InstallNaturalSpleed.jobString>Installing spleed.</InstallNaturalSpleed.jobString>
-
-  <InstallNaturalLobeLiver.label>install lobe of liver</InstallNaturalLobeLiver.label>
+  <InstallNaturalSpleed.jobString>ˆÚA’†: ¶‘ÌäB‘Ÿ</InstallNaturalSpleed.jobString>
+  <InstallNaturalLobeLiver.label>ˆÚA ¶‘ÌŠÌ‘Ÿ—t</InstallNaturalLobeLiver.label>
   <InstallNaturalLobeLiver.description>Installs lobe of liver.</InstallNaturalLobeLiver.description>
-  <InstallNaturalLobeLiver.jobString>Installing lobe of liver.</InstallNaturalLobeLiver.jobString>
-
-  <!--[Core] <InstallNaturalLiver.label>ç”Ÿä½“è‚ ç§»æ¤</InstallNaturalLiver.label>-->
-  <!--[Core] <InstallNaturalLiver.description>ç”Ÿä½“ã®è‚è‡“ã‚’ç§»æ¤ã—ã¾ã™ã€‚</InstallNaturalLiver.description>-->
-  <!--[Core] <InstallNaturalLiver.jobString>ç”Ÿä½“è‚è‡“ã‚’ç§»æ¤ä¸­</InstallNaturalLiver.jobString>-->
-
-  <!--[Core] <InstallNaturalKidney.label>ç”Ÿä½“è… ç§»æ¤</InstallNaturalKidney.label>-->
-  <!--[Core] <InstallNaturalKidney.description>ç”Ÿä½“ã®è…è‡“ã‚’ç§»æ¤ã—ã¾ã™ã€‚</InstallNaturalKidney.description>-->
-  <!--[Core] <InstallNaturalKidney.jobString>ç”Ÿä½“è…è‡“ã‚’ç§»æ¤ä¸­</InstallNaturalKidney.jobString>-->
-
-  <!--[Core] <InstallNaturalLung.label>ç”Ÿä½“è‚º ç§»æ¤</InstallNaturalLung.label>-->
-  <!--[Core] <InstallNaturalLung.description>ç”Ÿä½“ã®è‚ºã‚’ç§»æ¤ã—ã¾ã™ã€‚</InstallNaturalLung.description>-->
-  <!--[Core] <InstallNaturalLung.jobString>ç”Ÿä½“è‚ºã‚’ç§»æ¤ä¸­</InstallNaturalLung.jobString>-->
-
-  <InstallNaturalEye.label>install eye</InstallNaturalEye.label>
+  <InstallNaturalLobeLiver.jobString>ˆÚA’†: ¶‘ÌŠÌ‘Ÿ—t</InstallNaturalLobeLiver.jobString>
+  <InstallNaturalEye.label>ˆÚA ¶‘Ì–Ú</InstallNaturalEye.label>
   <InstallNaturalEye.description>Installs eye.</InstallNaturalEye.description>
-  <InstallNaturalEye.jobString>Installing eye.</InstallNaturalEye.jobString>
-
-  <InstallNaturalNose.label>install nose</InstallNaturalNose.label>
+  <InstallNaturalEye.jobString>ˆÚA’†: ¶‘Ì–Ú</InstallNaturalEye.jobString>
+  <InstallNaturalNose.label>ˆÚA ¶‘Ì•@</InstallNaturalNose.label>
   <InstallNaturalNose.description>Installs nose.</InstallNaturalNose.description>
-  <InstallNaturalNose.jobString>Installing nose.</InstallNaturalNose.jobString>
-
-  <InstallNaturalEar.label>install ear</InstallNaturalEar.label>
+  <InstallNaturalNose.jobString>ˆÚA’†: ¶‘Ì•@</InstallNaturalNose.jobString>
+  <InstallNaturalEar.label>ˆÚA ¶‘Ì¨</InstallNaturalEar.label>
   <InstallNaturalEar.description>Installs ear.</InstallNaturalEar.description>
-  <InstallNaturalEar.jobString>Installing ear.</InstallNaturalEar.jobString>
-
-  <InstallNaturalJaw.label>install jaw</InstallNaturalJaw.label>
+  <InstallNaturalEar.jobString>ˆÚA’†: ¶‘Ì¨</InstallNaturalEar.jobString>
+  <InstallNaturalJaw.label>ˆÚA ¶‘ÌŠ{</InstallNaturalJaw.label>
   <InstallNaturalJaw.description>Installs jaw.</InstallNaturalJaw.description>
-  <InstallNaturalJaw.jobString>Installing jaw.</InstallNaturalJaw.jobString>
-
-  <InstallNaturalArm.label>install arm</InstallNaturalArm.label>
+  <InstallNaturalJaw.jobString>ˆÚA’†: ¶‘ÌŠ{</InstallNaturalJaw.jobString>
+  <InstallNaturalArm.label>ˆÚA ¶‘Ì˜r</InstallNaturalArm.label>
   <InstallNaturalArm.description>Installs arm.</InstallNaturalArm.description>
-  <InstallNaturalArm.jobString>Installing arm.</InstallNaturalArm.jobString>
-
-  <InstallNaturalLeg.label>install leg</InstallNaturalLeg.label>
+  <InstallNaturalArm.jobString>ˆÚA’†: ¶‘Ì˜r</InstallNaturalArm.jobString>
+  <InstallNaturalLeg.label>ˆÚA ¶‘Ì‹r</InstallNaturalLeg.label>
   <InstallNaturalLeg.description>Installs leg.</InstallNaturalLeg.description>
-  <InstallNaturalLeg.jobString>Installing leg.</InstallNaturalLeg.jobString>
-
-  <InstallNaturalStomach.label>install stomach</InstallNaturalStomach.label>
+  <InstallNaturalLeg.jobString>ˆÚA’†: ¶‘Ì‹r</InstallNaturalLeg.jobString>
+  <InstallNaturalStomach.label>ˆÚA ¶‘Ìˆİ</InstallNaturalStomach.label>
   <InstallNaturalStomach.description>Installs stomach.</InstallNaturalStomach.description>
-  <InstallNaturalStomach.jobString>Installing stomach.</InstallNaturalStomach.jobString>
-
-  <InstallNaturalHand.label>install hand</InstallNaturalHand.label>
+  <InstallNaturalStomach.jobString>ˆÚA’†: ¶‘Ìˆİ</InstallNaturalStomach.jobString>
+  <InstallNaturalHand.label>ˆÚA ¶‘Ìè</InstallNaturalHand.label>
   <InstallNaturalHand.description>Installs hand.</InstallNaturalHand.description>
-  <InstallNaturalHand.jobString>Installing hand.</InstallNaturalHand.jobString>
-
-  <InstallNaturalFoot.label>install foot</InstallNaturalFoot.label>
+  <InstallNaturalHand.jobString>ˆÚA’†: ¶‘Ìè</InstallNaturalHand.jobString>
+  <InstallNaturalFoot.label>ˆÚA ¶‘Ì‘«</InstallNaturalFoot.label>
   <InstallNaturalFoot.description>Installs foot.</InstallNaturalFoot.description>
-  <InstallNaturalFoot.jobString>Installing foot.</InstallNaturalFoot.jobString>
-
-  <InstallNaturalFinger.label>install finger</InstallNaturalFinger.label>
+  <InstallNaturalFoot.jobString>ˆÚA’†: ¶‘Ì‘«</InstallNaturalFoot.jobString>
+  <InstallNaturalFinger.label>ˆÚA ¶‘Ìw</InstallNaturalFinger.label>
   <InstallNaturalFinger.description>Installs finger.</InstallNaturalFinger.description>
-  <InstallNaturalFinger.jobString>Installing finger.</InstallNaturalFinger.jobString>
-
-  <InstallNaturalToe.label>install toe</InstallNaturalToe.label>
+  <InstallNaturalFinger.jobString>ˆÚA’†: ¶‘Ìw</InstallNaturalFinger.jobString>
+  <InstallNaturalToe.label>ˆÚA ¶‘Ìæä</InstallNaturalToe.label>
   <InstallNaturalToe.description>Installs toe.</InstallNaturalToe.description>
-  <InstallNaturalToe.jobString>Installing toe.</InstallNaturalToe.jobString>
-
-  <InstallNaturalSpine.label>install spine</InstallNaturalSpine.label>
+  <InstallNaturalToe.jobString>ˆÚA’†: ¶‘Ìæä</InstallNaturalToe.jobString>
+  <InstallNaturalSpine.label>ˆÚA ¶‘ÌÒ’Å</InstallNaturalSpine.label>
   <InstallNaturalSpine.description>Installs spine.</InstallNaturalSpine.description>
-  <InstallNaturalSpine.jobString>Installing spine.</InstallNaturalSpine.jobString>
-
-  <InstallNaturalPelvis.label>install pelvis</InstallNaturalPelvis.label>
+  <InstallNaturalSpine.jobString>ˆÚA’†: ¶‘ÌÒ’Å</InstallNaturalSpine.jobString>
+  <InstallNaturalPelvis.label>ˆÚA ¶‘Ìœ”Õ</InstallNaturalPelvis.label>
   <InstallNaturalPelvis.description>Installs pelvis.</InstallNaturalPelvis.description>
-  <InstallNaturalPelvis.jobString>Installing pelvis.</InstallNaturalPelvis.jobString>
-
-  <InstallNaturalClavicle.label>install clavicle</InstallNaturalClavicle.label>
+  <InstallNaturalPelvis.jobString>ˆÚA’†: ¶‘Ìœ”Õ</InstallNaturalPelvis.jobString>
+  <InstallNaturalClavicle.label>ˆÚA ¶‘Ì½œ</InstallNaturalClavicle.label>
   <InstallNaturalClavicle.description>Installs clavicle.</InstallNaturalClavicle.description>
-  <InstallNaturalClavicle.jobString>Installing clavicle.</InstallNaturalClavicle.jobString>
-
-  <InstallNaturalSternum.label>install sternum</InstallNaturalSternum.label>
+  <InstallNaturalClavicle.jobString>ˆÚA’†: ¶‘Ì½œ</InstallNaturalClavicle.jobString>
+  <InstallNaturalSternum.label>ˆÚA ¶‘Ì‹¹œ</InstallNaturalSternum.label>
   <InstallNaturalSternum.description>Installs sternum.</InstallNaturalSternum.description>
-  <InstallNaturalSternum.jobString>Installing sternum.</InstallNaturalSternum.jobString>
-
-  <InstallNaturalHumerus.label>install humerus</InstallNaturalHumerus.label>
+  <InstallNaturalSternum.jobString>ˆÚA’†: ¶‘Ì‹¹œ</InstallNaturalSternum.jobString>
+  <InstallNaturalHumerus.label>ˆÚA ¶‘Ìã˜rœ</InstallNaturalHumerus.label>
   <InstallNaturalHumerus.description>Installs humerus.</InstallNaturalHumerus.description>
-  <InstallNaturalHumerus.jobString>Installing humerus.</InstallNaturalHumerus.jobString>
-
-  <InstallNaturalFemur.label>install femur</InstallNaturalFemur.label>
+  <InstallNaturalHumerus.jobString>ˆÚA’†: ¶‘Ìã˜rœ</InstallNaturalHumerus.jobString>
+  <InstallNaturalFemur.label>ˆÚA ¶‘Ì‘å‘Úœ</InstallNaturalFemur.label>
   <InstallNaturalFemur.description>Installs femur.</InstallNaturalFemur.description>
-  <InstallNaturalFemur.jobString>Installing femur.</InstallNaturalFemur.jobString>
-
-  <InstallNaturalRadius.label>install radius</InstallNaturalRadius.label>
+  <InstallNaturalFemur.jobString>ˆÚA’†: ¶‘Ì‘å‘Úœ</InstallNaturalFemur.jobString>
+  <InstallNaturalRadius.label>ˆÚA ¶‘Ìôœ</InstallNaturalRadius.label>
   <InstallNaturalRadius.description>Installs radius.</InstallNaturalRadius.description>
-  <InstallNaturalRadius.jobString>Installing radius.</InstallNaturalRadius.jobString>
-
-  <InstallNaturalUlna.label>install ulna</InstallNaturalUlna.label>
+  <InstallNaturalRadius.jobString>ˆÚA’†: ¶‘Ìôœ</InstallNaturalRadius.jobString>
+  <InstallNaturalUlna.label>ˆÚA ¶‘ÌÚœ</InstallNaturalUlna.label>
   <InstallNaturalUlna.description>Installs ulna.</InstallNaturalUlna.description>
-  <InstallNaturalUlna.jobString>Installing ulna.</InstallNaturalUlna.jobString>
-
-  <InstallNaturalPatella.label>install patella</InstallNaturalPatella.label>
+  <InstallNaturalUlna.jobString>ˆÚA’†: ¶‘ÌÚœ</InstallNaturalUlna.jobString>
+  <InstallNaturalPatella.label>ˆÚA ¶‘Ì•GŠWœ</InstallNaturalPatella.label>
   <InstallNaturalPatella.description>Installs patella.</InstallNaturalPatella.description>
-  <InstallNaturalPatella.jobString>Installing patella.</InstallNaturalPatella.jobString>
-
-  <InstallNaturalTibia.label>install tibia</InstallNaturalTibia.label>
+  <InstallNaturalPatella.jobString>ˆÚA’†: ¶‘Ì•GŠWœ</InstallNaturalPatella.jobString>
+  <InstallNaturalTibia.label>ˆÚA ¶‘Ìãøœ</InstallNaturalTibia.label>
   <InstallNaturalTibia.description>Installs tibia.</InstallNaturalTibia.description>
-  <InstallNaturalTibia.jobString>Installing tibia.</InstallNaturalTibia.jobString>
-
-  <InstallNaturalFibula.label>install fibula</InstallNaturalFibula.label>
+  <InstallNaturalTibia.jobString>ˆÚA’†: ¶‘Ìãøœ</InstallNaturalTibia.jobString>
+  <InstallNaturalFibula.label>ˆÚA ¶‘ÌäCœ</InstallNaturalFibula.label>
   <InstallNaturalFibula.description>Installs fibula.</InstallNaturalFibula.description>
-  <InstallNaturalFibula.jobString>Installing fibula.</InstallNaturalFibula.jobString>
-
-  <InstallNaturalRib.label>install rib</InstallNaturalRib.label>
+  <InstallNaturalFibula.jobString>ˆÚA’†: ¶‘ÌäCœ</InstallNaturalFibula.jobString>
+  <InstallNaturalRib.label>ˆÚA ¶‘Ì˜]œ</InstallNaturalRib.label>
   <InstallNaturalRib.description>Installs rib.</InstallNaturalRib.description>
-  <InstallNaturalRib.jobString>Installing rib.</InstallNaturalRib.jobString>
-
-
+  <InstallNaturalRib.jobString>ˆÚA’†: ¶‘Ì˜]œ</InstallNaturalRib.jobString>
 </LanguageData>

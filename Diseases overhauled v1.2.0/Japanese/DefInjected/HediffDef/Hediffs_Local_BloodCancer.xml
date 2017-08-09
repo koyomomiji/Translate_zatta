@@ -1,15 +1,12 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
-  <BloodCancer.label>blood cancer</BloodCancer.label>
-  <BloodCancer.stages.0.label>initial</BloodCancer.stages.0.label>
-  <BloodCancer.stages.1.label>minor</BloodCancer.stages.1.label>
-  <BloodCancer.stages.2.label>moderate</BloodCancer.stages.2.label>
-  <BloodCancer.stages.3.label>major</BloodCancer.stages.3.label>
-  <BloodCancer.stages.4.label>serious</BloodCancer.stages.4.label>
-  <BloodCancer.stages.5.label>severe</BloodCancer.stages.5.label>
-  <BloodCancer.stages.6.label>extreme</BloodCancer.stages.6.label>
-  <BloodCancer.stages.7.label>fatal</BloodCancer.stages.7.label>
-
-
+  <BloodCancer.label>血液癌</BloodCancer.label>
+  <BloodCancer.stages.0.label>初期</BloodCancer.stages.0.label>
+  <BloodCancer.stages.1.label>軽度</BloodCancer.stages.1.label>
+  <BloodCancer.stages.2.label>軽度</BloodCancer.stages.2.label>
+  <BloodCancer.stages.3.label>中度</BloodCancer.stages.3.label>
+  <BloodCancer.stages.4.label>中度</BloodCancer.stages.4.label>
+  <BloodCancer.stages.5.label>重度</BloodCancer.stages.5.label>
+  <BloodCancer.stages.6.label>重度</BloodCancer.stages.6.label>
+  <BloodCancer.stages.7.label>致命的</BloodCancer.stages.7.label>
 </LanguageData>
