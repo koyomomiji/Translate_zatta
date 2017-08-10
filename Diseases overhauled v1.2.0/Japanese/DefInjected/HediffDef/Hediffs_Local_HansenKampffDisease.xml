@@ -1,16 +1,13 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
-  <HansenKampffDisease.label>Hansen-Kampff disease</HansenKampffDisease.label>
+  <HansenKampffDisease.label>後天性免疫不全症</HansenKampffDisease.label>
   <HansenKampffDisease.stages.0.label>初期</HansenKampffDisease.stages.0.label>
   <HansenKampffDisease.stages.1.label>軽度</HansenKampffDisease.stages.1.label>
   <HansenKampffDisease.stages.2.label>軽度</HansenKampffDisease.stages.2.label>
   <HansenKampffDisease.stages.3.label>中度</HansenKampffDisease.stages.3.label>
   <HansenKampffDisease.stages.4.label>中度</HansenKampffDisease.stages.4.label>
-  <HansenKampffDisease.stages.5.label>serious</HansenKampffDisease.stages.5.label>
+  <HansenKampffDisease.stages.5.label>重度</HansenKampffDisease.stages.5.label>
   <HansenKampffDisease.stages.6.label>重度</HansenKampffDisease.stages.6.label>
   <HansenKampffDisease.stages.7.label>極度</HansenKampffDisease.stages.7.label>
   <HansenKampffDisease.stages.8.label>末期</HansenKampffDisease.stages.8.label>
-
-
 </LanguageData>

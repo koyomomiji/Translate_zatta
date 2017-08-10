@@ -1,16 +1,13 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
-  <Inflammation.label>inflammation</Inflammation.label>
+  <Inflammation.label>炎症</Inflammation.label>
   <Inflammation.stages.0.label>初期</Inflammation.stages.0.label>
   <Inflammation.stages.1.label>軽度</Inflammation.stages.1.label>
   <Inflammation.stages.2.label>軽度</Inflammation.stages.2.label>
   <Inflammation.stages.3.label>中度</Inflammation.stages.3.label>
   <Inflammation.stages.4.label>中度</Inflammation.stages.4.label>
-  <Inflammation.stages.5.label>serious</Inflammation.stages.5.label>
+  <Inflammation.stages.5.label>重度</Inflammation.stages.5.label>
   <Inflammation.stages.6.label>重度</Inflammation.stages.6.label>
   <Inflammation.stages.7.label>極度</Inflammation.stages.7.label>
   <Inflammation.stages.8.label>致命的</Inflammation.stages.8.label>
-
-
 </LanguageData>

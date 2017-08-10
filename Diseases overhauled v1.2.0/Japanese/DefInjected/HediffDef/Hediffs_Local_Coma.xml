@@ -1,12 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
-  <ComaTimed.label>coma</ComaTimed.label>
-  <ComaTimed.stages.0.label>awakening</ComaTimed.stages.0.label>
-  <ComaTimed.stages.1.label>deep</ComaTimed.stages.1.label>
-
-  <ComaForever.label>coma</ComaForever.label>
-  <ComaForever.stages.0.label>deep</ComaForever.stages.0.label>
-
-
+  <ComaTimed.label>昏睡</ComaTimed.label>
+  <ComaTimed.stages.0.label>覚醒中</ComaTimed.stages.0.label>
+  <ComaTimed.stages.1.label>深い</ComaTimed.stages.1.label>
+  <ComaForever.label>昏睡</ComaForever.label>
+  <ComaForever.stages.0.label>深い</ComaForever.stages.0.label>
 </LanguageData>

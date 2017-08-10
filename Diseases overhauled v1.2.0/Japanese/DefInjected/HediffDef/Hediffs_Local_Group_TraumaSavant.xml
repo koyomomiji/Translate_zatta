@@ -1,14 +1,11 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
   <!--[Core] <TraumaSavant.label>後天性サヴァン症</TraumaSavant.label>-->
-  <TraumaSavant1.label>trauma savant</TraumaSavant1.label>
-  <TraumaSavant2.label>trauma savant</TraumaSavant2.label>
-  <TraumaSavant3.label>trauma savant</TraumaSavant3.label>
-  <TraumaSavant4.label>trauma savant</TraumaSavant4.label>
-  <TraumaSavant5.label>trauma savant</TraumaSavant5.label>
-  <TraumaSavant6.label>trauma savant</TraumaSavant6.label>
-  <TraumaSavant7.label>trauma savant</TraumaSavant7.label>
-
-
+  <TraumaSavant1.label>後天性サヴァン症</TraumaSavant1.label>
+  <TraumaSavant2.label>後天性サヴァン症</TraumaSavant2.label>
+  <TraumaSavant3.label>後天性サヴァン症</TraumaSavant3.label>
+  <TraumaSavant4.label>後天性サヴァン症</TraumaSavant4.label>
+  <TraumaSavant5.label>後天性サヴァン症</TraumaSavant5.label>
+  <TraumaSavant6.label>後天性サヴァン症</TraumaSavant6.label>
+  <TraumaSavant7.label>後天性サヴァン症</TraumaSavant7.label>
 </LanguageData>

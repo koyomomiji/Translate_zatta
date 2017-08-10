@@ -1,12 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
-  <HepatitisK.label>Hepatitis K</HepatitisK.label>
-  <HepatitisK.stages.0.label>extreme defensive reaction</HepatitisK.stages.0.label>
-  <HepatitisK.stages.1.label>major defensive reaction</HepatitisK.stages.1.label>
-  <HepatitisK.stages.2.label>balanced</HepatitisK.stages.2.label>
-  <HepatitisK.stages.3.label>major virus activity</HepatitisK.stages.3.label>
-  <HepatitisK.stages.4.label>extreme virus activity</HepatitisK.stages.4.label>
-
-
+  <HepatitisK.label>K型肝炎</HepatitisK.label>
+  <HepatitisK.stages.0.label>極度の防御免疫反応</HepatitisK.stages.0.label>
+  <HepatitisK.stages.1.label>防御免疫反応</HepatitisK.stages.1.label>
+  <HepatitisK.stages.2.label>安定</HepatitisK.stages.2.label>
+  <HepatitisK.stages.3.label>ウイルス活性</HepatitisK.stages.3.label>
+  <HepatitisK.stages.4.label>極度のウイルス活性</HepatitisK.stages.4.label>
 </LanguageData>
