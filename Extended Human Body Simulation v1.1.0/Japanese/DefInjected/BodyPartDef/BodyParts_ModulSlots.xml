@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-  <ModulSlotSternum.label>sternumモジュール部</ModulSlotSternum.label>
+  <ModulSlotSternum.label>胸骨モジュール部</ModulSlotSternum.label>
   <ModulSlotRib1.label>肋骨モジュール部</ModulSlotRib1.label>
   <ModulSlotRib2.label>肋骨モジュール部</ModulSlotRib2.label>
   <ModulSlotRib3.label>肋骨モジュール部</ModulSlotRib3.label>
@@ -13,115 +13,115 @@
   <ModulSlotRib10.label>肋骨モジュール部</ModulSlotRib10.label>
   <ModulSlotRib11.label>肋骨モジュール部</ModulSlotRib11.label>
   <ModulSlotRib12.label>肋骨モジュール部</ModulSlotRib12.label>
-  <ModulSlotPelvisFront.label>pubic region</ModulSlotPelvisFront.label>
-  <ModulSlotPelvisRear.label>rump</ModulSlotPelvisRear.label>
-  <ModulSlotPelvisCentre.label>pelvisモジュール部</ModulSlotPelvisCentre.label>
-  <ModulSlotPelvisDown.label>crotch</ModulSlotPelvisDown.label>
-  <ModulSlotPelvisLeft.label>pelvis, 左面</ModulSlotPelvisLeft.label>
-  <ModulSlotPelvisRight.label>pelvis, 右面</ModulSlotPelvisRight.label>
-  <ModulSlotSpineFrontUpLeft.label>chest, 左面</ModulSlotSpineFrontUpLeft.label>
-  <ModulSlotSpineFrontCentreLeft.label>belly, left upper part</ModulSlotSpineFrontCentreLeft.label>
-  <ModulSlotSpineFrontDownLeft.label>belly, left lower part</ModulSlotSpineFrontDownLeft.label>
-  <ModulSlotSpineFrontUpCentre.label>chest, centre</ModulSlotSpineFrontUpCentre.label>
-  <ModulSlotSpineFrontCentreCentre.label>belly, centre upper part</ModulSlotSpineFrontCentreCentre.label>
-  <ModulSlotSpineFrontDownCentre.label>belly, centre lower part</ModulSlotSpineFrontDownCentre.label>
+  <ModulSlotPelvisFront.label>恥骨部</ModulSlotPelvisFront.label>
+  <ModulSlotPelvisRear.label>臀部</ModulSlotPelvisRear.label>
+  <ModulSlotPelvisCentre.label>骨盤モジュール部</ModulSlotPelvisCentre.label>
+  <ModulSlotPelvisDown.label>股下</ModulSlotPelvisDown.label>
+  <ModulSlotPelvisLeft.label>骨盤 左面</ModulSlotPelvisLeft.label>
+  <ModulSlotPelvisRight.label>骨盤 右面</ModulSlotPelvisRight.label>
+  <ModulSlotSpineFrontUpLeft.label>胸部 左面</ModulSlotSpineFrontUpLeft.label>
+  <ModulSlotSpineFrontCentreLeft.label>腹部 左上部</ModulSlotSpineFrontCentreLeft.label>
+  <ModulSlotSpineFrontDownLeft.label>腹部 左下部</ModulSlotSpineFrontDownLeft.label>
+  <ModulSlotSpineFrontUpCentre.label>胸部 中央</ModulSlotSpineFrontUpCentre.label>
+  <ModulSlotSpineFrontCentreCentre.label>腹部 中央上部</ModulSlotSpineFrontCentreCentre.label>
+  <ModulSlotSpineFrontDownCentre.label>腹部 中央下部</ModulSlotSpineFrontDownCentre.label>
   <ModulSlotSpineFrontUpRight.label>chest, 右面</ModulSlotSpineFrontUpRight.label>
-  <ModulSlotSpineFrontCentreRight.label>belly, right upper part</ModulSlotSpineFrontCentreRight.label>
-  <ModulSlotSpineFrontDownRight.label>belly, right lower part</ModulSlotSpineFrontDownRight.label>
-  <ModulSlotSpineLeftUp.label>flank, left upper part</ModulSlotSpineLeftUp.label>
-  <ModulSlotSpineLeftDown.label>flank, left lower part</ModulSlotSpineLeftDown.label>
-  <ModulSlotSpineRightUp.label>flank, right upper part</ModulSlotSpineRightUp.label>
-  <ModulSlotSpineRightDown.label>flank, right lower part</ModulSlotSpineRightDown.label>
-  <ModulSlotSpineRearUpLeft.label>rear, left upper part</ModulSlotSpineRearUpLeft.label>
-  <ModulSlotSpineRearCentreLeft.label>rear, left centre part</ModulSlotSpineRearCentreLeft.label>
-  <ModulSlotSpineRearDownLeft.label>rear, left lower part</ModulSlotSpineRearDownLeft.label>
-  <ModulSlotSpineRearUpCentre.label>rear, centre upper part</ModulSlotSpineRearUpCentre.label>
-  <ModulSlotSpineRearCentreCentre.label>rear</ModulSlotSpineRearCentreCentre.label>
-  <ModulSlotSpineRearDownCentre.label>rear, centre lower part</ModulSlotSpineRearDownCentre.label>
-  <ModulSlotSpineRearUpRight.label>rear, right upper part</ModulSlotSpineRearUpRight.label>
-  <ModulSlotSpineRearCentreRight.label>rear, right centre part</ModulSlotSpineRearCentreRight.label>
-  <ModulSlotSpineRearDownRight.label>rear, right lower part</ModulSlotSpineRearDownRight.label>
-  <ModulSlotStomach.label>stomachモジュール部</ModulSlotStomach.label>
-  <ModulSlotHeart.label>heartモジュール部</ModulSlotHeart.label>
-  <ModulSlotLeftLung.label>left lungモジュール部</ModulSlotLeftLung.label>
-  <ModulSlotRightLung.label>right lungモジュール部</ModulSlotRightLung.label>
-  <ModulSlotLeftKidney.label>left kidneyモジュール部</ModulSlotLeftKidney.label>
-  <ModulSlotRightKidney.label>right kidneyモジュール部</ModulSlotRightKidney.label>
-  <ModulSlotLiver.label>liverモジュール部</ModulSlotLiver.label>
-  <ModulSlotSpleed.label>spleedモジュール部</ModulSlotSpleed.label>
-  <ModulSlotNeckFront.label>throat</ModulSlotNeckFront.label>
-  <ModulSlotNeckRearUp.label>nape, upper part</ModulSlotNeckRearUp.label>
-  <ModulSlotNeckRearDown.label>nape, lower part</ModulSlotNeckRearDown.label>
-  <ModulSlotNeckLeft.label>neck, 左面</ModulSlotNeckLeft.label>
-  <ModulSlotNeckRight.label>neck, 右面</ModulSlotNeckRight.label>
-  <ModulSlotHeadFront.label>forehead</ModulSlotHeadFront.label>
-  <ModulSlotHeadRear.label>occiput</ModulSlotHeadRear.label>
-  <ModulSlotHeadUp.label>skullcap</ModulSlotHeadUp.label>
-  <ModulSlotHeadLeft.label>head, 左面</ModulSlotHeadLeft.label>
-  <ModulSlotHeadRight.label>head, 右面</ModulSlotHeadRight.label>
-  <ModulSlotSkull.label>skullモジュール部</ModulSlotSkull.label>
-  <ModulSlotBrainFront.label>prosencephalon</ModulSlotBrainFront.label>
-  <ModulSlotBrainCentre.label>mesencephalon</ModulSlotBrainCentre.label>
-  <ModulSlotBrainRear.label>metencephalon</ModulSlotBrainRear.label>
-  <ModulSlotBrainUp.label>telencephalon</ModulSlotBrainUp.label>
-  <ModulSlotBrainDown.label>brainstem</ModulSlotBrainDown.label>
-  <ModulSlotBrainLeft.label>left hemisphere</ModulSlotBrainLeft.label>
-  <ModulSlotBrainRight.label>right hemisphere</ModulSlotBrainRight.label>
-  <ModulSlotLeftEye.label>left eyeモジュール部</ModulSlotLeftEye.label>
-  <ModulSlotRightEye.label>right eyeモジュール部</ModulSlotRightEye.label>
-  <ModulSlotLeftEar.label>left earモジュール部</ModulSlotLeftEar.label>
-  <ModulSlotRightEar.label>right earモジュール部</ModulSlotRightEar.label>
-  <ModulSlotNose.label>noseモジュール部</ModulSlotNose.label>
-  <ModulSlotJawUp.label>maxilla</ModulSlotJawUp.label>
-  <ModulSlotJawDown.label>mandible</ModulSlotJawDown.label>
-  <ModulSlotLeftShoulder.label>shoulder girdle, upper left part</ModulSlotLeftShoulder.label>
-  <ModulSlotLeftClavicle.label>left clavicleモジュール部</ModulSlotLeftClavicle.label>
-  <ModulSlotLeftArmUp.label>left upper arm</ModulSlotLeftArmUp.label>
-  <ModulSlotLeftArmDown.label>left forearm</ModulSlotLeftArmDown.label>
-  <ModulSlotLeftHumerus.label>left humerusモジュール部</ModulSlotLeftHumerus.label>
-  <ModulSlotLeftRadius.label>left radiusモジュール部</ModulSlotLeftRadius.label>
-  <ModulSlotLeftUlna.label>left ulnaモジュール部</ModulSlotLeftUlna.label>
-  <ModulSlotLeftHand.label>left handモジュール部</ModulSlotLeftHand.label>
-  <ModulSlotLeftHandPinky.label>left pinkyモジュール部</ModulSlotLeftHandPinky.label>
-  <ModulSlotLeftHandRingFinger.label>left ring fingerモジュール部</ModulSlotLeftHandRingFinger.label>
-  <ModulSlotLeftHandMiddleFinger.label>left middle fingerモジュール部</ModulSlotLeftHandMiddleFinger.label>
-  <ModulSlotLeftHandIndexFinger.label>left index fingerモジュール部</ModulSlotLeftHandIndexFinger.label>
-  <ModulSlotLeftHandThumb.label>left thumbモジュール部</ModulSlotLeftHandThumb.label>
-  <ModulSlotRightShoulder.label>shoulder girdle, upper right part</ModulSlotRightShoulder.label>
-  <ModulSlotRightClavicle.label>right clavicleモジュール部</ModulSlotRightClavicle.label>
-  <ModulSlotRightArmUp.label>right upper arm</ModulSlotRightArmUp.label>
-  <ModulSlotRightArmDown.label>right forearm</ModulSlotRightArmDown.label>
-  <ModulSlotRightHumerus.label>right humerusモジュール部</ModulSlotRightHumerus.label>
-  <ModulSlotRightRadius.label>right radiusモジュール部</ModulSlotRightRadius.label>
-  <ModulSlotRightUlna.label>right Ulnaモジュール部</ModulSlotRightUlna.label>
-  <ModulSlotRightHand.label>right handモジュール部</ModulSlotRightHand.label>
-  <ModulSlotRightHandPinky.label>right pinkyモジュール部</ModulSlotRightHandPinky.label>
-  <ModulSlotRightHandRingFinger.label>right ring fingerモジュール部</ModulSlotRightHandRingFinger.label>
-  <ModulSlotRightHandMiddleFinger.label>right middle fingerモジュール部</ModulSlotRightHandMiddleFinger.label>
-  <ModulSlotRightHandIndexFinger.label>right index fingerモジュール部</ModulSlotRightHandIndexFinger.label>
-  <ModulSlotRightHandThumb.label>right thumbモジュール部</ModulSlotRightHandThumb.label>
-  <ModulSlotLeftLegUp.label>left upper leg</ModulSlotLeftLegUp.label>
-  <ModulSlotLeftLegDown.label>left shank</ModulSlotLeftLegDown.label>
-  <ModulSlotLeftFemur.label>left femurモジュール部</ModulSlotLeftFemur.label>
-  <ModulSlotLeftPatella.label>left patellaモジュール部</ModulSlotLeftPatella.label>
-  <ModulSlotLeftTibia.label>left tibiaモジュール部</ModulSlotLeftTibia.label>
-  <ModulSlotLeftFibula.label>left fibulaモジュール部</ModulSlotLeftFibula.label>
-  <ModulSlotLeftFoot.label>left footモジュール部</ModulSlotLeftFoot.label>
-  <ModulSlotLeftFootLittleToe.label>left little toeモジュール部</ModulSlotLeftFootLittleToe.label>
-  <ModulSlotLeftFootFourthToe.label>left fourth toeモジュール部</ModulSlotLeftFootFourthToe.label>
-  <ModulSlotLeftFootMiddleToe.label>left middle toeモジュール部</ModulSlotLeftFootMiddleToe.label>
-  <ModulSlotLeftFootSecondToe.label>left second toeモジュール部</ModulSlotLeftFootSecondToe.label>
-  <ModulSlotLeftFootBigToe.label>left big toeモジュール部</ModulSlotLeftFootBigToe.label>
-  <ModulSlotRightLegUp.label>right upper leg</ModulSlotRightLegUp.label>
-  <ModulSlotRightLegDown.label>right shank</ModulSlotRightLegDown.label>
-  <ModulSlotRightFemur.label>right femurモジュール部</ModulSlotRightFemur.label>
-  <ModulSlotRightPatella.label>right patellaモジュール部</ModulSlotRightPatella.label>
-  <ModulSlotRightTibia.label>right tibiaモジュール部</ModulSlotRightTibia.label>
-  <ModulSlotRightFibula.label>right fibulaモジュール部</ModulSlotRightFibula.label>
-  <ModulSlotRightFoot.label>right footモジュール部</ModulSlotRightFoot.label>
-  <ModulSlotRightFootLittleToe.label>right little toeモジュール部</ModulSlotRightFootLittleToe.label>
-  <ModulSlotRightFootFourthToe.label>right fourth toeモジュール部</ModulSlotRightFootFourthToe.label>
-  <ModulSlotRightFootMiddleToe.label>right middle toeモジュール部</ModulSlotRightFootMiddleToe.label>
-  <ModulSlotRightFootSecondToe.label>right second toeモジュール部</ModulSlotRightFootSecondToe.label>
-  <ModulSlotRightFootBigToe.label>right big toeモジュール部</ModulSlotRightFootBigToe.label>
+  <ModulSlotSpineFrontCentreRight.label>腹部 右上部</ModulSlotSpineFrontCentreRight.label>
+  <ModulSlotSpineFrontDownRight.label>腹部 右下部</ModulSlotSpineFrontDownRight.label>
+  <ModulSlotSpineLeftUp.label>脇腹 左上部</ModulSlotSpineLeftUp.label>
+  <ModulSlotSpineLeftDown.label>脇腹 左下部</ModulSlotSpineLeftDown.label>
+  <ModulSlotSpineRightUp.label>脇腹 右上部</ModulSlotSpineRightUp.label>
+  <ModulSlotSpineRightDown.label>脇腹 右下部</ModulSlotSpineRightDown.label>
+  <ModulSlotSpineRearUpLeft.label>背部 左上部</ModulSlotSpineRearUpLeft.label>
+  <ModulSlotSpineRearCentreLeft.label>背部 左中央部</ModulSlotSpineRearCentreLeft.label>
+  <ModulSlotSpineRearDownLeft.label>背部 左下部</ModulSlotSpineRearDownLeft.label>
+  <ModulSlotSpineRearUpCentre.label>背部 中央上部</ModulSlotSpineRearUpCentre.label>
+  <ModulSlotSpineRearCentreCentre.label>背部</ModulSlotSpineRearCentreCentre.label>
+  <ModulSlotSpineRearDownCentre.label>背部 中央下部</ModulSlotSpineRearDownCentre.label>
+  <ModulSlotSpineRearUpRight.label>背部 右上部</ModulSlotSpineRearUpRight.label>
+  <ModulSlotSpineRearCentreRight.label>背部 右中央部</ModulSlotSpineRearCentreRight.label>
+  <ModulSlotSpineRearDownRight.label>背部 右下部</ModulSlotSpineRearDownRight.label>
+  <ModulSlotStomach.label>胃モジュール部</ModulSlotStomach.label>
+  <ModulSlotHeart.label>心臓モジュール部</ModulSlotHeart.label>
+  <ModulSlotLeftLung.label>左肺モジュール部</ModulSlotLeftLung.label>
+  <ModulSlotRightLung.label>右肺モジュール部</ModulSlotRightLung.label>
+  <ModulSlotLeftKidney.label>左腎臓モジュール部</ModulSlotLeftKidney.label>
+  <ModulSlotRightKidney.label>右腎臓モジュール部</ModulSlotRightKidney.label>
+  <ModulSlotLiver.label>肝臓モジュール部</ModulSlotLiver.label>
+  <ModulSlotSpleed.label>脾臓モジュール部</ModulSlotSpleed.label>
+  <ModulSlotNeckFront.label>喉</ModulSlotNeckFront.label>
+  <ModulSlotNeckRearUp.label>うなじ 上部</ModulSlotNeckRearUp.label>
+  <ModulSlotNeckRearDown.label>うなじ 下部</ModulSlotNeckRearDown.label>
+  <ModulSlotNeckLeft.label>首 左面</ModulSlotNeckLeft.label>
+  <ModulSlotNeckRight.label>首 右面</ModulSlotNeckRight.label>
+  <ModulSlotHeadFront.label>額</ModulSlotHeadFront.label>
+  <ModulSlotHeadRear.label>後頭部</ModulSlotHeadRear.label>
+  <ModulSlotHeadUp.label>頭頂部</ModulSlotHeadUp.label>
+  <ModulSlotHeadLeft.label>頭部 左面</ModulSlotHeadLeft.label>
+  <ModulSlotHeadRight.label>頭部 右面</ModulSlotHeadRight.label>
+  <ModulSlotSkull.label>頭蓋骨モジュール部</ModulSlotSkull.label>
+  <ModulSlotBrainFront.label>前脳</ModulSlotBrainFront.label>
+  <ModulSlotBrainCentre.label>中脳</ModulSlotBrainCentre.label>
+  <ModulSlotBrainRear.label>後脳</ModulSlotBrainRear.label>
+  <ModulSlotBrainUp.label>端脳</ModulSlotBrainUp.label>
+  <ModulSlotBrainDown.label>脳幹</ModulSlotBrainDown.label>
+  <ModulSlotBrainLeft.label>左半球</ModulSlotBrainLeft.label>
+  <ModulSlotBrainRight.label>右半球</ModulSlotBrainRight.label>
+  <ModulSlotLeftEye.label>左目モジュール部</ModulSlotLeftEye.label>
+  <ModulSlotRightEye.label>右目モジュール部</ModulSlotRightEye.label>
+  <ModulSlotLeftEar.label>左耳モジュール部</ModulSlotLeftEar.label>
+  <ModulSlotRightEar.label>右耳モジュール部</ModulSlotRightEar.label>
+  <ModulSlotNose.label>鼻モジュール部</ModulSlotNose.label>
+  <ModulSlotJawUp.label>上顎</ModulSlotJawUp.label>
+  <ModulSlotJawDown.label>下顎</ModulSlotJawDown.label>
+  <ModulSlotLeftShoulder.label>肩 上左部</ModulSlotLeftShoulder.label>
+  <ModulSlotLeftClavicle.label>左鎖骨モジュール部</ModulSlotLeftClavicle.label>
+  <ModulSlotLeftArmUp.label>左上腕</ModulSlotLeftArmUp.label>
+  <ModulSlotLeftArmDown.label>左上腕</ModulSlotLeftArmDown.label>
+  <ModulSlotLeftHumerus.label>左上腕骨モジュール部</ModulSlotLeftHumerus.label>
+  <ModulSlotLeftRadius.label>左橈骨モジュール部</ModulSlotLeftRadius.label>
+  <ModulSlotLeftUlna.label>左尺骨モジュール部</ModulSlotLeftUlna.label>
+  <ModulSlotLeftHand.label>左手モジュール部</ModulSlotLeftHand.label>
+  <ModulSlotLeftHandPinky.label>左小指モジュール部</ModulSlotLeftHandPinky.label>
+  <ModulSlotLeftHandRingFinger.label>左薬指モジュール部</ModulSlotLeftHandRingFinger.label>
+  <ModulSlotLeftHandMiddleFinger.label>左中指モジュール部</ModulSlotLeftHandMiddleFinger.label>
+  <ModulSlotLeftHandIndexFinger.label>左人指指モジュール部</ModulSlotLeftHandIndexFinger.label>
+  <ModulSlotLeftHandThumb.label>左親指モジュール部</ModulSlotLeftHandThumb.label>
+  <ModulSlotRightShoulder.label>肩 上右部</ModulSlotRightShoulder.label>
+  <ModulSlotRightClavicle.label>右鎖骨モジュール部</ModulSlotRightClavicle.label>
+  <ModulSlotRightArmUp.label>右上腕</ModulSlotRightArmUp.label>
+  <ModulSlotRightArmDown.label>右上腕</ModulSlotRightArmDown.label>
+  <ModulSlotRightHumerus.label>右上腕骨モジュール部</ModulSlotRightHumerus.label>
+  <ModulSlotRightRadius.label>右橈骨モジュール部</ModulSlotRightRadius.label>
+  <ModulSlotRightUlna.label>右尺骨モジュール部</ModulSlotRightUlna.label>
+  <ModulSlotRightHand.label>右手モジュール部</ModulSlotRightHand.label>
+  <ModulSlotRightHandPinky.label>右小指モジュール部</ModulSlotRightHandPinky.label>
+  <ModulSlotRightHandRingFinger.label>右薬指モジュール部</ModulSlotRightHandRingFinger.label>
+  <ModulSlotRightHandMiddleFinger.label>右中指モジュール部</ModulSlotRightHandMiddleFinger.label>
+  <ModulSlotRightHandIndexFinger.label>右人指指モジュール部</ModulSlotRightHandIndexFinger.label>
+  <ModulSlotRightHandThumb.label>右親指モジュール部</ModulSlotRightHandThumb.label>
+  <ModulSlotLeftLegUp.label>左上脚</ModulSlotLeftLegUp.label>
+  <ModulSlotLeftLegDown.label>左脹脛</ModulSlotLeftLegDown.label>
+  <ModulSlotLeftFemur.label>左大腿骨モジュール部</ModulSlotLeftFemur.label>
+  <ModulSlotLeftPatella.label>左膝蓋骨モジュール部</ModulSlotLeftPatella.label>
+  <ModulSlotLeftTibia.label>左脛骨モジュール部</ModulSlotLeftTibia.label>
+  <ModulSlotLeftFibula.label>左腓骨モジュール部</ModulSlotLeftFibula.label>
+  <ModulSlotLeftFoot.label>左足モジュール部</ModulSlotLeftFoot.label>
+  <ModulSlotLeftFootLittleToe.label>左小趾モジュール部</ModulSlotLeftFootLittleToe.label>
+  <ModulSlotLeftFootFourthToe.label>左四趾モジュール部</ModulSlotLeftFootFourthToe.label>
+  <ModulSlotLeftFootMiddleToe.label>左中趾モジュール部</ModulSlotLeftFootMiddleToe.label>
+  <ModulSlotLeftFootSecondToe.label>左二趾モジュール部</ModulSlotLeftFootSecondToe.label>
+  <ModulSlotLeftFootBigToe.label>左大趾モジュール部</ModulSlotLeftFootBigToe.label>
+  <ModulSlotRightLegUp.label>右上脚</ModulSlotRightLegUp.label>
+  <ModulSlotRightLegDown.label>右脹脛</ModulSlotRightLegDown.label>
+  <ModulSlotRightFemur.label>右大腿骨モジュール部</ModulSlotRightFemur.label>
+  <ModulSlotRightPatella.label>右膝蓋骨モジュール部</ModulSlotRightPatella.label>
+  <ModulSlotRightTibia.label>右脛骨モジュール部</ModulSlotRightTibia.label>
+  <ModulSlotRightFibula.label>右腓骨モジュール部</ModulSlotRightFibula.label>
+  <ModulSlotRightFoot.label>右足モジュール部</ModulSlotRightFoot.label>
+  <ModulSlotRightFootLittleToe.label>右小趾モジュール部</ModulSlotRightFootLittleToe.label>
+  <ModulSlotRightFootFourthToe.label>右四趾モジュール部</ModulSlotRightFootFourthToe.label>
+  <ModulSlotRightFootMiddleToe.label>右中趾モジュール部</ModulSlotRightFootMiddleToe.label>
+  <ModulSlotRightFootSecondToe.label>右二趾モジュール部</ModulSlotRightFootSecondToe.label>
+  <ModulSlotRightFootBigToe.label>右大趾モジュール部</ModulSlotRightFootBigToe.label>
 </LanguageData>

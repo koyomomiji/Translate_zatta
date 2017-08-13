@@ -9,5 +9,5 @@
   <LungWorms.label>肺徊虫</LungWorms.label>
   <!--[Core] <GutWorms.label>回虫</GutWorms.label>-->
   <!--[Core] <MuscleParasites.label>せん毛虫</MuscleParasites.label>-->
-  <EncapsulatedMuscleParasites.label>被膜せん毛虫</EncapsulatedMuscleParasites.label>
+  <EncapsulatedMuscleParasites.label>被膜病原体</EncapsulatedMuscleParasites.label>
 </LanguageData>

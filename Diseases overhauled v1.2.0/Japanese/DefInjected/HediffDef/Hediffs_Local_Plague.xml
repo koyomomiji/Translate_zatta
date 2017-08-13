@@ -1,6 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
   <!--[Core] <Plague.label>ペスト</Plague.label>-->
   <!--[Core] <Plague.stages.0.label>軽度</Plague.stages.0.label>-->
   <!--[Core] <Plague.stages.1.label>軽度</Plague.stages.1.label>-->
@@ -9,8 +8,5 @@
   <!--[Core] <Plague.stages.4.label>極度</Plague.stages.4.label>-->
   <Plague.stages.5.label>極度</Plague.stages.5.label>
   <Plague.stages.6.label>致命的</Plague.stages.6.label>
-
-  <EncapsulatedPlague.label>encapsulated pathogen</EncapsulatedPlague.label>
-
-
+  <EncapsulatedPlague.label>被膜病原体</EncapsulatedPlague.label>
 </LanguageData>

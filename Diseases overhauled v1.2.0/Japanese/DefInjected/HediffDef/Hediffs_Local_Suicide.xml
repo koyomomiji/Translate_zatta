@@ -1,12 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
-  <SuicidePreparation.label>suicide preparations</SuicidePreparation.label>
-  <SuicideAttempt.label>suicide attempt</SuicideAttempt.label>
-  <SuicideStomach.label>suicide (poisoned)</SuicideStomach.label>
-  <SuicideLung.label>suicide (suffocated)</SuicideLung.label>
-  <SuicideHeart.label>suicide (slit wrists and ankles)</SuicideHeart.label>
-  <SuicideBrain.label>suicide (headshot)</SuicideBrain.label>
-
-
+  <SuicidePreparation.label>自殺準備</SuicidePreparation.label>
+  <SuicideAttempt.label>自殺衝動</SuicideAttempt.label>
+  <SuicideStomach.label>自殺 (服毒)</SuicideStomach.label>
+  <SuicideLung.label>自殺 (窒息)</SuicideLung.label>
+  <SuicideHeart.label>自殺 (リストカット)</SuicideHeart.label>
+  <SuicideBrain.label>自殺 (ヘッドショット)</SuicideBrain.label>
 </LanguageData>

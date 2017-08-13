@@ -1,13 +1,10 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
-  <NewReschianFever.label>New Reschian fever</NewReschianFever.label>
+  <NewReschianFever.label>新レスチアン熱</NewReschianFever.label>
   <NewReschianFever.stages.0.label>初期</NewReschianFever.stages.0.label>
   <NewReschianFever.stages.1.label>軽度</NewReschianFever.stages.1.label>
   <NewReschianFever.stages.2.label>中度</NewReschianFever.stages.2.label>
   <NewReschianFever.stages.3.label>重度</NewReschianFever.stages.3.label>
   <NewReschianFever.stages.4.label>重度</NewReschianFever.stages.4.label>
   <NewReschianFever.stages.5.label>極度</NewReschianFever.stages.5.label>
-
-
 </LanguageData>

@@ -1,31 +1,22 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
-  <Disease_CommonCold.label>common cold</Disease_CommonCold.label>
+  <Disease_CommonCold.label>風邪</Disease_CommonCold.label>
   <!--[Core] <Disease_Flu.label>インフルエンザ</Disease_Flu.label>-->
   <!--[Core] <Disease_Plague.label>ペスト</Disease_Plague.label>-->
-  <Disease_KindredDickVirus.label>Kindred-Dick virus</Disease_KindredDickVirus.label>
+  <Disease_KindredDickVirus.label>キンドレッドディックウイルス</Disease_KindredDickVirus.label>
   <!--[Core] <Disease_Malaria.label>マラリア</Disease_Malaria.label>-->
-  <Disease_Tuberculosis.label>tuberculosis</Disease_Tuberculosis.label>
+  <Disease_Tuberculosis.label>結核</Disease_Tuberculosis.label>
   <!--[Core] <Disease_SleepingSickness.label>冷凍睡眠病</Disease_SleepingSickness.label>-->
-  <Disease_VoightBernsteinDisease.label>Voight-Bernstein disease</Disease_VoightBernsteinDisease.label>
-  <Disease_NewReschianFever.label>New Reschian fever</Disease_NewReschianFever.label>
-
-
+  <Disease_VoightBernsteinDisease.label>ヴォイトバーンスタイン病</Disease_VoightBernsteinDisease.label>
+  <Disease_NewReschianFever.label>新レスチアン熱</Disease_NewReschianFever.label>
   <!-- Mechanites -->
-
   <!--[Core] <Disease_FibrousMechanites.label>筋繊維 機械化症</Disease_FibrousMechanites.label>-->
   <!--[Core] <Disease_SensoryMechanites.label>感覚器 機械化症</Disease_SensoryMechanites.label>-->
-  <Disease_LymphaticMechanites.label>lymphatic mechanites</Disease_LymphaticMechanites.label>
-
-
+  <Disease_LymphaticMechanites.label>リンパ系 機械化症</Disease_LymphaticMechanites.label>
   <!-- Parasites -->
-
-  <Disease_BrainWorm.label>brain worms</Disease_BrainWorm.label>
-  <Disease_HeartWorm.label>heart worms</Disease_HeartWorm.label>
-  <Disease_LungWorms.label>lung worms</Disease_LungWorms.label>
+  <Disease_BrainWorm.label>脳耗虫</Disease_BrainWorm.label>
+  <Disease_HeartWorm.label>心憎虫</Disease_HeartWorm.label>
+  <Disease_LungWorms.label>肺徊虫</Disease_LungWorms.label>
   <!--[Core] <Disease_GutWorms.label>回虫</Disease_GutWorms.label>-->
   <!--[Core] <Disease_MuscleParasites.label>せん毛虫</Disease_MuscleParasites.label>-->
-
-
 </LanguageData>

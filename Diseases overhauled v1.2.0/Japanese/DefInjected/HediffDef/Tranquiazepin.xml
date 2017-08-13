@@ -1,18 +1,11 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
-  <TranquiazepinHigh.label>Tranquiazepin</TranquiazepinHigh.label>
-
-
+  <TranquiazepinHigh.label>トランキアゼピンが効く</TranquiazepinHigh.label>
   <!-- Tranquiazepin addiction -->
-
-  <TranquiazepinTolerance.label>Tranquiazepin tolerance</TranquiazepinTolerance.label>
-  <TranquiazepinTolerance.stages.1.label>small</TranquiazepinTolerance.stages.1.label>
-  <TranquiazepinTolerance.stages.2.label>large</TranquiazepinTolerance.stages.2.label>
-  <TranquiazepinTolerance.stages.3.label>massive</TranquiazepinTolerance.stages.3.label>
-
-  <TranquiazepinAddiction.label>Tranquiazepin addiction</TranquiazepinAddiction.label>
-  <TranquiazepinAddiction.stages.1.label>withdrawal</TranquiazepinAddiction.stages.1.label>
-
-
+  <TranquiazepinTolerance.label>トランキアゼピン耐性</TranquiazepinTolerance.label>
+  <TranquiazepinTolerance.stages.1.label>小</TranquiazepinTolerance.stages.1.label>
+  <TranquiazepinTolerance.stages.2.label>大</TranquiazepinTolerance.stages.2.label>
+  <TranquiazepinTolerance.stages.3.label>極大</TranquiazepinTolerance.stages.3.label>
+  <TranquiazepinAddiction.label>トランキアゼピン依存</TranquiazepinAddiction.label>
+  <TranquiazepinAddiction.stages.1.label>禁断症状</TranquiazepinAddiction.stages.1.label>
 </LanguageData>

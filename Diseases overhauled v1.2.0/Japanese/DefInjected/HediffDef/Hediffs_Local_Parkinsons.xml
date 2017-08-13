@@ -1,13 +1,10 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
-  <Parkinsons.label>parkinson's</Parkinsons.label>
+  <Parkinsons.label>パーキンソン病</Parkinsons.label>
   <Parkinsons.stages.1.label>軽度</Parkinsons.stages.1.label>
   <Parkinsons.stages.2.label>中度</Parkinsons.stages.2.label>
-  <Parkinsons.stages.3.label>重度</Parkinsons.stages.3.label>
-  <Parkinsons.stages.4.label>serious</Parkinsons.stages.4.label>
+  <Parkinsons.stages.3.label>中度</Parkinsons.stages.3.label>
+  <Parkinsons.stages.4.label>重度</Parkinsons.stages.4.label>
   <Parkinsons.stages.5.label>重度</Parkinsons.stages.5.label>
   <Parkinsons.stages.6.label>極度</Parkinsons.stages.6.label>
-
-
 </LanguageData>

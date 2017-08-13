@@ -1,31 +1,31 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-  <ArtificialPelvis.label>�l������</ArtificialPelvis.label>
-  <ArtificialPelvis.description>Replaces a missing pelvis. Pretty useful if crawling is not your favourite way of moving around.</ArtificialPelvis.description>
-  <ArtificialClavicle.label>�l������</ArtificialClavicle.label>
-  <ArtificialClavicle.description>Replaces a missing clavicle. If you somehow manage to break yours.</ArtificialClavicle.description>
-  <ArtificialFinger.label>�l���w</ArtificialFinger.label>
-  <ArtificialFinger.description>Replaces a missing finger.</ArtificialFinger.description>
-  <ArtificialToe.label>�l����</ArtificialToe.label>
-  <ArtificialToe.description>Replaces a missing toe.</ArtificialToe.description>
-  <ArtificialRib.label>�l���]��</ArtificialRib.label>
-  <ArtificialRib.description>Replaces a missing rib.</ArtificialRib.description>
-  <ArtificialSpine.label>�l���Ғ�</ArtificialSpine.label>
-  <ArtificialSpine.description>Replaces a missing spine.</ArtificialSpine.description>
-  <ArtificialSternum.label>�l������</ArtificialSternum.label>
-  <ArtificialSternum.description>Replaces a missing sternum.</ArtificialSternum.description>
-  <ArtificialHumerus.label>�l����r��</ArtificialHumerus.label>
-  <ArtificialHumerus.description>Replaces a missing humerus.</ArtificialHumerus.description>
-  <ArtificialFemur.label>�l����ڍ�</ArtificialFemur.label>
-  <ArtificialFemur.description>Replaces a missing femur.</ArtificialFemur.description>
-  <ArtificialRadius.label>�l����</ArtificialRadius.label>
-  <ArtificialRadius.description>Replaces a missing radius.</ArtificialRadius.description>
-  <ArtificialUlna.label>�l���ڍ�</ArtificialUlna.label>
-  <ArtificialUlna.description>Replaces an missing ulna.</ArtificialUlna.description>
-  <ArtificialPatella.label>�l���G�W��</ArtificialPatella.label>
-  <ArtificialPatella.description>Replaces a missing patella.</ArtificialPatella.description>
-  <ArtificialTibia.label>�l������</ArtificialTibia.label>
-  <ArtificialTibia.description>Replaces a missing tibia.</ArtificialTibia.description>
-  <ArtificialFibula.label>�l���C��</ArtificialFibula.label>
-  <ArtificialFibula.description>Replaces a missing fibula.</ArtificialFibula.description>
+  <ArtificialPelvis.label>人造骨盤</ArtificialPelvis.label>
+  <ArtificialPelvis.description>失った部位を取り替える。</ArtificialPelvis.description>
+  <ArtificialClavicle.label>人造鎖骨</ArtificialClavicle.label>
+  <ArtificialClavicle.description>失った部位を取り替える。</ArtificialClavicle.description>
+  <ArtificialFinger.label>人造指</ArtificialFinger.label>
+  <ArtificialFinger.description>失った部位を取り替える。</ArtificialFinger.description>
+  <ArtificialToe.label>人造趾</ArtificialToe.label>
+  <ArtificialToe.description>失った部位を取り替える。</ArtificialToe.description>
+  <ArtificialRib.label>人造肋骨</ArtificialRib.label>
+  <ArtificialRib.description>失った部位を取り替える。</ArtificialRib.description>
+  <ArtificialSpine.label>人造脊椎</ArtificialSpine.label>
+  <ArtificialSpine.description>失った部位を取り替える。</ArtificialSpine.description>
+  <ArtificialSternum.label>人造胸骨</ArtificialSternum.label>
+  <ArtificialSternum.description>失った部位を取り替える。</ArtificialSternum.description>
+  <ArtificialHumerus.label>人造上腕骨</ArtificialHumerus.label>
+  <ArtificialHumerus.description>失った部位を取り替える。</ArtificialHumerus.description>
+  <ArtificialFemur.label>人造大腿骨</ArtificialFemur.label>
+  <ArtificialFemur.description>失った部位を取り替える。</ArtificialFemur.description>
+  <ArtificialRadius.label>人造橈骨</ArtificialRadius.label>
+  <ArtificialRadius.description>失った部位を取り替える。</ArtificialRadius.description>
+  <ArtificialUlna.label>人造尺骨</ArtificialUlna.label>
+  <ArtificialUlna.description>失った部位を取り替える。</ArtificialUlna.description>
+  <ArtificialPatella.label>人造膝蓋骨</ArtificialPatella.label>
+  <ArtificialPatella.description>失った部位を取り替える。</ArtificialPatella.description>
+  <ArtificialTibia.label>人造脛骨</ArtificialTibia.label>
+  <ArtificialTibia.description>失った部位を取り替える。</ArtificialTibia.description>
+  <ArtificialFibula.label>人造腓骨</ArtificialFibula.label>
+  <ArtificialFibula.description>失った部位を取り替える。</ArtificialFibula.description>
 </LanguageData>

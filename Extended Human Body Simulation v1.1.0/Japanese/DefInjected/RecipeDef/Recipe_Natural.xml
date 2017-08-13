@@ -1,78 +1,78 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-  <InstallNaturalSpleed.label>�ڐA �����B��</InstallNaturalSpleed.label>
+  <InstallNaturalSpleed.label>移植 生体脾臓</InstallNaturalSpleed.label>
   <InstallNaturalSpleed.description>Installs spleed.</InstallNaturalSpleed.description>
-  <InstallNaturalSpleed.jobString>�ڐA��: �����B��</InstallNaturalSpleed.jobString>
-  <InstallNaturalLobeLiver.label>�ڐA ���̊̑��t</InstallNaturalLobeLiver.label>
+  <InstallNaturalSpleed.jobString>移植中: 生体脾臓</InstallNaturalSpleed.jobString>
+  <InstallNaturalLobeLiver.label>移植 生体肝臓葉</InstallNaturalLobeLiver.label>
   <InstallNaturalLobeLiver.description>Installs lobe of liver.</InstallNaturalLobeLiver.description>
-  <InstallNaturalLobeLiver.jobString>�ڐA��: ���̊̑��t</InstallNaturalLobeLiver.jobString>
-  <InstallNaturalEye.label>�ڐA ���̖�</InstallNaturalEye.label>
+  <InstallNaturalLobeLiver.jobString>移植中: 生体肝臓葉</InstallNaturalLobeLiver.jobString>
+  <InstallNaturalEye.label>移植 生体目</InstallNaturalEye.label>
   <InstallNaturalEye.description>Installs eye.</InstallNaturalEye.description>
-  <InstallNaturalEye.jobString>�ڐA��: ���̖�</InstallNaturalEye.jobString>
-  <InstallNaturalNose.label>�ڐA ���̕@</InstallNaturalNose.label>
+  <InstallNaturalEye.jobString>移植中: 生体目</InstallNaturalEye.jobString>
+  <InstallNaturalNose.label>移植 生体鼻</InstallNaturalNose.label>
   <InstallNaturalNose.description>Installs nose.</InstallNaturalNose.description>
-  <InstallNaturalNose.jobString>�ڐA��: ���̕@</InstallNaturalNose.jobString>
-  <InstallNaturalEar.label>�ڐA ���̎�</InstallNaturalEar.label>
+  <InstallNaturalNose.jobString>移植中: 生体鼻</InstallNaturalNose.jobString>
+  <InstallNaturalEar.label>移植 生体耳</InstallNaturalEar.label>
   <InstallNaturalEar.description>Installs ear.</InstallNaturalEar.description>
-  <InstallNaturalEar.jobString>�ڐA��: ���̎�</InstallNaturalEar.jobString>
-  <InstallNaturalJaw.label>�ڐA ���̊{</InstallNaturalJaw.label>
+  <InstallNaturalEar.jobString>移植中: 生体耳</InstallNaturalEar.jobString>
+  <InstallNaturalJaw.label>移植 生体顎</InstallNaturalJaw.label>
   <InstallNaturalJaw.description>Installs jaw.</InstallNaturalJaw.description>
-  <InstallNaturalJaw.jobString>�ڐA��: ���̊{</InstallNaturalJaw.jobString>
-  <InstallNaturalArm.label>�ڐA ���̘r</InstallNaturalArm.label>
+  <InstallNaturalJaw.jobString>移植中: 生体顎</InstallNaturalJaw.jobString>
+  <InstallNaturalArm.label>移植 生体腕</InstallNaturalArm.label>
   <InstallNaturalArm.description>Installs arm.</InstallNaturalArm.description>
-  <InstallNaturalArm.jobString>�ڐA��: ���̘r</InstallNaturalArm.jobString>
-  <InstallNaturalLeg.label>�ڐA ���̋r</InstallNaturalLeg.label>
+  <InstallNaturalArm.jobString>移植中: 生体腕</InstallNaturalArm.jobString>
+  <InstallNaturalLeg.label>移植 生体脚</InstallNaturalLeg.label>
   <InstallNaturalLeg.description>Installs leg.</InstallNaturalLeg.description>
-  <InstallNaturalLeg.jobString>�ڐA��: ���̋r</InstallNaturalLeg.jobString>
-  <InstallNaturalStomach.label>�ڐA ���̈�</InstallNaturalStomach.label>
+  <InstallNaturalLeg.jobString>移植中: 生体脚</InstallNaturalLeg.jobString>
+  <InstallNaturalStomach.label>移植 生体胃</InstallNaturalStomach.label>
   <InstallNaturalStomach.description>Installs stomach.</InstallNaturalStomach.description>
-  <InstallNaturalStomach.jobString>�ڐA��: ���̈�</InstallNaturalStomach.jobString>
-  <InstallNaturalHand.label>�ڐA ���̎�</InstallNaturalHand.label>
+  <InstallNaturalStomach.jobString>移植中: 生体胃</InstallNaturalStomach.jobString>
+  <InstallNaturalHand.label>移植 生体手</InstallNaturalHand.label>
   <InstallNaturalHand.description>Installs hand.</InstallNaturalHand.description>
-  <InstallNaturalHand.jobString>�ڐA��: ���̎�</InstallNaturalHand.jobString>
-  <InstallNaturalFoot.label>�ڐA ���̑�</InstallNaturalFoot.label>
+  <InstallNaturalHand.jobString>移植中: 生体手</InstallNaturalHand.jobString>
+  <InstallNaturalFoot.label>移植 生体足</InstallNaturalFoot.label>
   <InstallNaturalFoot.description>Installs foot.</InstallNaturalFoot.description>
-  <InstallNaturalFoot.jobString>�ڐA��: ���̑�</InstallNaturalFoot.jobString>
-  <InstallNaturalFinger.label>�ڐA ���̎w</InstallNaturalFinger.label>
+  <InstallNaturalFoot.jobString>移植中: 生体足</InstallNaturalFoot.jobString>
+  <InstallNaturalFinger.label>移植 生体指</InstallNaturalFinger.label>
   <InstallNaturalFinger.description>Installs finger.</InstallNaturalFinger.description>
-  <InstallNaturalFinger.jobString>�ڐA��: ���̎w</InstallNaturalFinger.jobString>
-  <InstallNaturalToe.label>�ڐA ������</InstallNaturalToe.label>
+  <InstallNaturalFinger.jobString>移植中: 生体指</InstallNaturalFinger.jobString>
+  <InstallNaturalToe.label>移植 生体趾</InstallNaturalToe.label>
   <InstallNaturalToe.description>Installs toe.</InstallNaturalToe.description>
-  <InstallNaturalToe.jobString>�ڐA��: ������</InstallNaturalToe.jobString>
-  <InstallNaturalSpine.label>�ڐA ���̐Ғ�</InstallNaturalSpine.label>
+  <InstallNaturalToe.jobString>移植中: 生体趾</InstallNaturalToe.jobString>
+  <InstallNaturalSpine.label>移植 生体脊椎</InstallNaturalSpine.label>
   <InstallNaturalSpine.description>Installs spine.</InstallNaturalSpine.description>
-  <InstallNaturalSpine.jobString>�ڐA��: ���̐Ғ�</InstallNaturalSpine.jobString>
-  <InstallNaturalPelvis.label>�ڐA ���̍���</InstallNaturalPelvis.label>
+  <InstallNaturalSpine.jobString>移植中: 生体脊椎</InstallNaturalSpine.jobString>
+  <InstallNaturalPelvis.label>移植 生体骨盤</InstallNaturalPelvis.label>
   <InstallNaturalPelvis.description>Installs pelvis.</InstallNaturalPelvis.description>
-  <InstallNaturalPelvis.jobString>�ڐA��: ���̍���</InstallNaturalPelvis.jobString>
-  <InstallNaturalClavicle.label>�ڐA ���̍���</InstallNaturalClavicle.label>
+  <InstallNaturalPelvis.jobString>移植中: 生体骨盤</InstallNaturalPelvis.jobString>
+  <InstallNaturalClavicle.label>移植 生体鎖骨</InstallNaturalClavicle.label>
   <InstallNaturalClavicle.description>Installs clavicle.</InstallNaturalClavicle.description>
-  <InstallNaturalClavicle.jobString>�ڐA��: ���̍���</InstallNaturalClavicle.jobString>
-  <InstallNaturalSternum.label>�ڐA ���̋���</InstallNaturalSternum.label>
+  <InstallNaturalClavicle.jobString>移植中: 生体鎖骨</InstallNaturalClavicle.jobString>
+  <InstallNaturalSternum.label>移植 生体胸骨</InstallNaturalSternum.label>
   <InstallNaturalSternum.description>Installs sternum.</InstallNaturalSternum.description>
-  <InstallNaturalSternum.jobString>�ڐA��: ���̋���</InstallNaturalSternum.jobString>
-  <InstallNaturalHumerus.label>�ڐA ���̏�r��</InstallNaturalHumerus.label>
+  <InstallNaturalSternum.jobString>移植中: 生体胸骨</InstallNaturalSternum.jobString>
+  <InstallNaturalHumerus.label>移植 生体上腕骨</InstallNaturalHumerus.label>
   <InstallNaturalHumerus.description>Installs humerus.</InstallNaturalHumerus.description>
-  <InstallNaturalHumerus.jobString>�ڐA��: ���̏�r��</InstallNaturalHumerus.jobString>
-  <InstallNaturalFemur.label>�ڐA ���̑�ڍ�</InstallNaturalFemur.label>
+  <InstallNaturalHumerus.jobString>移植中: 生体上腕骨</InstallNaturalHumerus.jobString>
+  <InstallNaturalFemur.label>移植 生体大腿骨</InstallNaturalFemur.label>
   <InstallNaturalFemur.description>Installs femur.</InstallNaturalFemur.description>
-  <InstallNaturalFemur.jobString>�ڐA��: ���̑�ڍ�</InstallNaturalFemur.jobString>
-  <InstallNaturalRadius.label>�ڐA ���̞�</InstallNaturalRadius.label>
+  <InstallNaturalFemur.jobString>移植中: 生体大腿骨</InstallNaturalFemur.jobString>
+  <InstallNaturalRadius.label>移植 生体橈骨</InstallNaturalRadius.label>
   <InstallNaturalRadius.description>Installs radius.</InstallNaturalRadius.description>
-  <InstallNaturalRadius.jobString>�ڐA��: ���̞�</InstallNaturalRadius.jobString>
-  <InstallNaturalUlna.label>�ڐA ���̎ڍ�</InstallNaturalUlna.label>
+  <InstallNaturalRadius.jobString>移植中: 生体橈骨</InstallNaturalRadius.jobString>
+  <InstallNaturalUlna.label>移植 生体尺骨</InstallNaturalUlna.label>
   <InstallNaturalUlna.description>Installs ulna.</InstallNaturalUlna.description>
-  <InstallNaturalUlna.jobString>�ڐA��: ���̎ڍ�</InstallNaturalUlna.jobString>
-  <InstallNaturalPatella.label>�ڐA ���̕G�W��</InstallNaturalPatella.label>
+  <InstallNaturalUlna.jobString>移植中: 生体尺骨</InstallNaturalUlna.jobString>
+  <InstallNaturalPatella.label>移植 生体膝蓋骨</InstallNaturalPatella.label>
   <InstallNaturalPatella.description>Installs patella.</InstallNaturalPatella.description>
-  <InstallNaturalPatella.jobString>�ڐA��: ���̕G�W��</InstallNaturalPatella.jobString>
-  <InstallNaturalTibia.label>�ڐA ��������</InstallNaturalTibia.label>
+  <InstallNaturalPatella.jobString>移植中: 生体膝蓋骨</InstallNaturalPatella.jobString>
+  <InstallNaturalTibia.label>移植 生体脛骨</InstallNaturalTibia.label>
   <InstallNaturalTibia.description>Installs tibia.</InstallNaturalTibia.description>
-  <InstallNaturalTibia.jobString>�ڐA��: ��������</InstallNaturalTibia.jobString>
-  <InstallNaturalFibula.label>�ڐA �����C��</InstallNaturalFibula.label>
+  <InstallNaturalTibia.jobString>移植中: 生体脛骨</InstallNaturalTibia.jobString>
+  <InstallNaturalFibula.label>移植 生体腓骨</InstallNaturalFibula.label>
   <InstallNaturalFibula.description>Installs fibula.</InstallNaturalFibula.description>
-  <InstallNaturalFibula.jobString>�ڐA��: �����C��</InstallNaturalFibula.jobString>
-  <InstallNaturalRib.label>�ڐA ���̘]��</InstallNaturalRib.label>
+  <InstallNaturalFibula.jobString>移植中: 生体腓骨</InstallNaturalFibula.jobString>
+  <InstallNaturalRib.label>移植 生体肋骨</InstallNaturalRib.label>
   <InstallNaturalRib.description>Installs rib.</InstallNaturalRib.description>
-  <InstallNaturalRib.jobString>�ڐA��: ���̘]��</InstallNaturalRib.jobString>
+  <InstallNaturalRib.jobString>移植中: 生体肋骨</InstallNaturalRib.jobString>
 </LanguageData>

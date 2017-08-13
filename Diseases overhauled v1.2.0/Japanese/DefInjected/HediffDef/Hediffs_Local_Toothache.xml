@@ -1,12 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
-  <Toothache.label>toothache</Toothache.label>
+  <Toothache.label>歯痛</Toothache.label>
   <Toothache.stages.0.label>初期</Toothache.stages.0.label>
   <Toothache.stages.1.label>軽度</Toothache.stages.1.label>
   <Toothache.stages.2.label>中度</Toothache.stages.2.label>
   <Toothache.stages.3.label>重度</Toothache.stages.3.label>
   <Toothache.stages.4.label>極度</Toothache.stages.4.label>
-
-
 </LanguageData>

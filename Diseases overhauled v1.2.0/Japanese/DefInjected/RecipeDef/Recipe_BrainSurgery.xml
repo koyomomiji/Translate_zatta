@@ -1,9 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
-  <PerformBrainSurgery.label>perform experimental brain surgery</PerformBrainSurgery.label>
+  <PerformBrainSurgery.label>実験的な脳手術</PerformBrainSurgery.label>
   <PerformBrainSurgery.description>Performs experimental brain surgery.</PerformBrainSurgery.description>
-  <PerformBrainSurgery.jobString>Performing brain surgery.</PerformBrainSurgery.jobString>
-
-
+  <PerformBrainSurgery.jobString>脳手術施術中</PerformBrainSurgery.jobString>
 </LanguageData>

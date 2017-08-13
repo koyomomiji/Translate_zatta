@@ -1,10 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
-  <Appendicectomy.label>remove appendix</Appendicectomy.label>
+  <Appendicectomy.label>盲腸 切除</Appendicectomy.label>
   <Appendicectomy.description>Removes appendix.</Appendicectomy.description>
-  <Appendicectomy.jobString>Removing appendix.</Appendicectomy.jobString>
-  <Appendicectomy.successfullyRemovedHediffMessage>{0} has successfully removed {1}'s appendix.</Appendicectomy.successfullyRemovedHediffMessage>
-
-
+  <Appendicectomy.jobString>盲腸切除中</Appendicectomy.jobString>
+  <Appendicectomy.successfullyRemovedHediffMessage>{0}は{1}の盲腸切除に成功しました。</Appendicectomy.successfullyRemovedHediffMessage>
 </LanguageData>

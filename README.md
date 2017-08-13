@@ -1,2 +1,3 @@
 # Translate_zatta
-自分用 スマホでポチポチするためだけのgithub
+自分用
+Koyo's RimWorldTranslation Workshop

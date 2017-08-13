@@ -1,9 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
-  <StomachUlcer.label>stomach ulcer</StomachUlcer.label>
-  <StomachUlcer.stages.0.label>symptom-free</StomachUlcer.stages.0.label>
-  <StomachUlcer.stages.1.label>painful</StomachUlcer.stages.1.label>
-
-
+  <StomachUlcer.label>胃潰瘍</StomachUlcer.label>
+  <StomachUlcer.stages.0.label>症状無し</StomachUlcer.stages.0.label>
+  <StomachUlcer.stages.1.label>強い痛み</StomachUlcer.stages.1.label>
 </LanguageData>

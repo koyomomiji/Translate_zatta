@@ -1,19 +1,19 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-  <Leg.label>���̋r</Leg.label>
-  <Leg.description>Basically long meaty sticks that let you move around.</Leg.description>
-  <Foot.label>���̑�</Foot.label>
-  <Foot.description>The thing you can put shoes on.</Foot.description>
-  <Arm.label>���̘r</Arm.label>
-  <Arm.description>Arms are like legs, except you can carry stuff with them.</Arm.description>
-  <Hand.label>���̎�</Hand.label>
-  <Hand.description>A man's best friend.</Hand.description>
-  <Stomach.label>���̈�</Stomach.label>
-  <Stomach.description>Digests food and turns it into energy and nutrients.</Stomach.description>
+  <Leg.label>生体脚</Leg.label>
+  <Leg.description>あなたをどこへでも連れて行く長い肉の棒</Leg.description>
+  <Foot.label>生体足</Foot.label>
+  <Foot.description>あなたが靴を履くことができるもの。</Foot.description>
+  <Arm.label>生体腕</Arm.label>
+  <Arm.description>腕は脚のような部位ですが、物を持ち運ぶことが出来ます。</Arm.description>
+  <Hand.label>生体手</Hand.label>
+  <Hand.description>人類のベストフレンド。</Hand.description>
+  <Stomach.label>胃</Stomach.label>
+  <Stomach.description>食べ物を消化し、エネルギーと栄養に変えます。</Stomach.description>
   <!-- ThingDef ParentName="BodyPartNaturalBase">		===INCLUDED BY PATCH===
 		<defName>Heart</defName>
-		<label>���̐S��</label>
-		<description>Supplies blood and oxygen to all parts of the body. Ready to find a new owner.</description>
+		<label>心臓</label>
+		<description>全身に血液と酸素を供給します。</description>
 		<graphicData>
 			<texPath>Things/Item/BodyPart/Organ</texPath>
 			<graphicClass>Graphic_Single</graphicClass>
@@ -30,12 +30,12 @@
 			</li>
 		</comps>
 	</ThingDef -->
-  <Brain.label>brain</Brain.label>
-  <Brain.description>A brain. Someone might miss this.</Brain.description>
+  <Brain.label>脳</Brain.label>
+  <Brain.description>脳みそ。誰かが忘れていったのだろう。</Brain.description>
   <!-- ThingDef ParentName="BodyPartNaturalBase">		===OBSOLETE===
 		<defName>BrainLobe</defName>
-		<label>���̔]�t</label>
-		<description>A brain lobe.</description>
+		<label>脳葉</label>
+		<description>脳葉</description>
 		<graphicData>
 			<texPath>Things/Item/BodyPart/Organ</texPath>
 			<graphicClass>Graphic_Single</graphicClass>
@@ -55,8 +55,8 @@
 
 	<ThingDef ParentName="BodyPartNaturalBase">		===INCLUDED BY PATCH===
 		<defName>Lung</defName>
-		<label>���̔x</label>
-		<description>Essential part of the respiratory system.</description>
+		<label>肺</label>
+		<description>呼吸器系の重要な部分。</description>
 		<graphicData>
 			<texPath>Things/Item/BodyPart/Organ</texPath>
 			<graphicClass>Graphic_Single</graphicClass>
@@ -75,9 +75,9 @@
 	</ThingDef>
 
 	<ThingDef ParentName="BodyPartNaturalBase">		===INCLUDED BY PATCH===
-		<defName>���̐t��</defName>
-		<label>kidney</label>
-		<description>Filters and removes waste products from the blood.</description>
+		<defName>kidney</defName>
+		<label>腎臓</label>
+		<description>血液から不要な物を濾し取ります。</description>
 		<graphicData>
 			<texPath>Things/Item/BodyPart/Organ</texPath>
 			<graphicClass>Graphic_Single</graphicClass>
@@ -94,14 +94,14 @@
 			</li>
 		</comps>
 	</ThingDef -->
-  <Spleed.label>�����B��</Spleed.label>
-  <Spleed.description>A spleed.</Spleed.description>
-  <LobeLiver.label>���̊̑��t</LobeLiver.label>
-  <LobeLiver.description>Plays an important role in metabolism.</LobeLiver.description>
+  <Spleed.label>脾臓</Spleed.label>
+  <Spleed.description>ひ臓</Spleed.description>
+  <LobeLiver.label>肝臓葉</LobeLiver.label>
+  <LobeLiver.description>代謝の重要な役割を担っていま。</LobeLiver.description>
   <!-- ThingDef ParentName="BodyPartNaturalBase">		===INCLUDED BY PATCH===
 		<defName>Liver</defName>
-		<label>���̊̑�</label>
-		<description>Plays an important role in metabolism.</description>
+		<label>肝臓</label>
+		<description>代謝の重要な役割を担っています。</description>
 		<graphicData>
 			<texPath>Things/Item/BodyPart/Organ</texPath>
 			<graphicClass>Graphic_Single</graphicClass>
@@ -118,22 +118,22 @@
 			</li>
 		</comps>
 	</ThingDef -->
-  <Eye.label>���̊ዅ</Eye.label>
-  <Eye.description>Absorbs light, which lets a person know what's around them.</Eye.description>
-  <Nose.label>���̕@</Nose.label>
-  <Nose.description>A pretty useful organ to distinguish odors, applies the finishing touch to a face.</Nose.description>
-  <Ear.label>���̎�</Ear.label>
-  <Ear.description>Picks up vibrations in the air, allowing people to hear sound.</Ear.description>
-  <Jaw.label>���̊{</Jaw.label>
-  <Jaw.description>A nice set of teeth for chewing food and talking.</Jaw.description>
-  <Finger.label>���̎w</Finger.label>
-  <Finger.description>A finger.</Finger.description>
-  <Toe.label>������</Toe.label>
-  <Toe.description>A toe.</Toe.description>
+  <Eye.label>生体眼球</Eye.label>
+  <Eye.description>これによって周りに何があるか知ることが出来ます。</Eye.description>
+  <Nose.label>生体鼻</Nose.label>
+  <Nose.description>顔に近づけて臭いを区別するのに非常に便利な器官。</Nose.description>
+  <Ear.label>生体耳</Ear.label>
+  <Ear.description>空気の振動を拾い、周囲の音を聞くことが出来る。</Ear.description>
+  <Jaw.label>生体顎</Jaw.label>
+  <Jaw.description>会話と食事のための歯のセット。</Jaw.description>
+  <Finger.label>生体指</Finger.label>
+  <Finger.description>指。</Finger.description>
+  <Toe.label>生体趾</Toe.label>
+  <Toe.description>趾。</Toe.description>
   <!-- <ThingDef ParentName="BodyPartNaturalBase">		===OBSOLETE===
 		<defName>Shoulder</defName>
-		<label>���̌���</label>
-		<description>A shoulder.</description>
+		<label>生体肩部</label>
+		<description>肩。</description>
 		<graphicData>
 			<texPath>Things/Item/BodyPart/Organ</texPath>
 			<graphicClass>Graphic_Single</graphicClass>
@@ -150,28 +150,28 @@
 			</li>
 		</comps>
 	</ThingDef> -->
-  <Rib.label>���̘]��</Rib.label>
-  <Rib.description>A rib.</Rib.description>
-  <Spine.label>���̐Ғ�</Spine.label>
-  <Spine.description>A spine. Someone may miss this.</Spine.description>
-  <Clavicle.label>���̍���</Clavicle.label>
-  <Clavicle.description>A clavicle.</Clavicle.description>
-  <Sternum.label>���̋���</Sternum.label>
-  <Sternum.description>A sternum.</Sternum.description>
-  <Humerus.label>���̏�r��</Humerus.label>
-  <Humerus.description>A humerus.</Humerus.description>
-  <Femur.label>���̑�ڍ�</Femur.label>
-  <Femur.description>A femur.</Femur.description>
-  <Pelvis.label>���̍���</Pelvis.label>
-  <Pelvis.description>A pelvis.</Pelvis.description>
-  <Radius.label>���̞�</Radius.label>
-  <Radius.description>A radius.</Radius.description>
-  <Ulna.label>���̎ڍ�</Ulna.label>
-  <Ulna.description>An ulna.</Ulna.description>
-  <Patella.label>���̕G�W��</Patella.label>
-  <Patella.description>A patella.</Patella.description>
-  <Tibia.label>��������</Tibia.label>
-  <Tibia.description>A tibia.</Tibia.description>
-  <Fibula.label>�����C��</Fibula.label>
-  <Fibula.description>A fibula.</Fibula.description>
+  <Rib.label>生体肋骨</Rib.label>
+  <Rib.description>肋骨</Rib.description>
+  <Spine.label>生体脊椎</Spine.label>
+  <Spine.description>脊髄。 誰かが忘れていったのだろ。</Spine.description>
+  <Clavicle.label>生体鎖骨</Clavicle.label>
+  <Clavicle.description>鎖骨。</Clavicle.description>
+  <Sternum.label>生体胸骨</Sternum.label>
+  <Sternum.description>胸骨。</Sternum.description>
+  <Humerus.label>生体上腕骨</Humerus.label>
+  <Humerus.description>上腕骨。</Humerus.description>
+  <Femur.label>生体大腿骨</Femur.label>
+  <Femur.description>大腿骨。</Femur.description>
+  <Pelvis.label>生体骨盤</Pelvis.label>
+  <Pelvis.description>骨盤。</Pelvis.description>
+  <Radius.label>生体橈骨</Radius.label>
+  <Radius.description>橈骨。</Radius.description>
+  <Ulna.label>生体尺骨</Ulna.label>
+  <Ulna.description>尺骨。</Ulna.description>
+  <Patella.label>生体膝蓋骨</Patella.label>
+  <Patella.description>膝蓋骨。</Patella.description>
+  <Tibia.label>生体脛骨</Tibia.label>
+  <Tibia.description>脛骨。</Tibia.description>
+  <Fibula.label>生体腓骨</Fibula.label>
+  <Fibula.description>腓骨。</Fibula.description>
 </LanguageData>

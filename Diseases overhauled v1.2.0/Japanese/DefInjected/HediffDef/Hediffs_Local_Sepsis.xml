@@ -1,16 +1,13 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
-  <Sepsis.label>sepsis</Sepsis.label>
+  <Sepsis.label>敗血症</Sepsis.label>
   <Sepsis.stages.0.label>初期</Sepsis.stages.0.label>
   <Sepsis.stages.1.label>軽度</Sepsis.stages.1.label>
   <Sepsis.stages.2.label>軽度</Sepsis.stages.2.label>
   <Sepsis.stages.3.label>中度</Sepsis.stages.3.label>
   <Sepsis.stages.4.label>中度</Sepsis.stages.4.label>
-  <Sepsis.stages.5.label>serious</Sepsis.stages.5.label>
+  <Sepsis.stages.5.label>重度</Sepsis.stages.5.label>
   <Sepsis.stages.6.label>重度</Sepsis.stages.6.label>
   <Sepsis.stages.7.label>極度</Sepsis.stages.7.label>
   <Sepsis.stages.8.label>致命的</Sepsis.stages.8.label>
-
-
 </LanguageData>
