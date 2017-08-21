@@ -1,10 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
-  <Mortracain.label>Mortracain</Mortracain.label>
-  <Mortracain.description>A relatively strong painkiller. Used to treat moderate to serious pain. Take every two days. (May be addictive.)</Mortracain.description>
-  <Mortracain.ingestible.ingestCommandString>Take {0}</Mortracain.ingestible.ingestCommandString>
-  <Mortracain.ingestible.ingestReportString>Taking {0}.</Mortracain.ingestible.ingestReportString>
-
-
+  <Mortracain.label>モルトカイン</Mortracain.label>
+  <Mortracain.description>比較的強い鎮痛剤。 中等度から重度の痛みを治療するために使用されます。 2日おきに取る。 （中毒性の可能性)</Mortracain.description>
+  <Mortracain.ingestible.ingestCommandString>{0} 飲む</Mortracain.ingestible.ingestCommandString>
+  <Mortracain.ingestible.ingestReportString>{0} 飲んでいる</Mortracain.ingestible.ingestReportString>
 </LanguageData>

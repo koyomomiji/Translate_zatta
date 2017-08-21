@@ -1,10 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
   <!-- Tranquiazepin addiction -->
-
-  <Chemical_Tranquiazepin.label>Tranquiazepin</Chemical_Tranquiazepin.label>
-  <Chemical_Tranquiazepin.description>Because of a Tranquiazepin addiction, this person needs to regularly consume the drug to avoid withdrawal symptoms.</Chemical_Tranquiazepin.description>
-
-
+  <Chemical_Tranquiazepin.label>トランキアゼピン</Chemical_Tranquiazepin.label>
+  <Chemical_Tranquiazepin.description>依存症が原因で、この人は、禁断症状を避けるために、定期的にトランキアゼピンを必要としています。</Chemical_Tranquiazepin.description>
 </LanguageData>

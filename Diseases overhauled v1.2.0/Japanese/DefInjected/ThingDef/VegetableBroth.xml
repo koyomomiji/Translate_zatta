@@ -1,10 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
-  <VegetableBroth.label>vegetable broth</VegetableBroth.label>
-  <VegetableBroth.description>A good vegetable broth. Eating one per day helps shaking of some diseases.</VegetableBroth.description>
-  <VegetableBroth.ingestible.ingestCommandString>Take {0}</VegetableBroth.ingestible.ingestCommandString>
-  <VegetableBroth.ingestible.ingestReportString>Taking {0}.</VegetableBroth.ingestible.ingestReportString>
-
-
+  <VegetableBroth.label>野菜スープ</VegetableBroth.label>
+  <VegetableBroth.description>美味しい野菜のスープ。 一日一回食べることで、いくつかの病気の悪寒を防ぎます。</VegetableBroth.description>
+  <VegetableBroth.ingestible.ingestCommandString>{0} 飲む</VegetableBroth.ingestible.ingestCommandString>
+  <VegetableBroth.ingestible.ingestReportString>{0} 飲んでいる</VegetableBroth.ingestible.ingestReportString>
 </LanguageData>

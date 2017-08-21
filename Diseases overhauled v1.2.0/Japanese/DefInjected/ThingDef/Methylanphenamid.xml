@@ -1,10 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
-  <Methylanphenamid.label>Methylanphenamid</Methylanphenamid.label>
-  <Methylanphenamid.description>Increases awareness and learning ability. One use lasts three days. (Strongest effect on third day; may have strong sideeffects.)</Methylanphenamid.description>
-  <Methylanphenamid.ingestible.ingestCommandString>Take {0}</Methylanphenamid.ingestible.ingestCommandString>
-  <Methylanphenamid.ingestible.ingestReportString>Taking {0}.</Methylanphenamid.ingestible.ingestReportString>
-
-
+  <Methylanphenamid.label>メチレンフェナミド</Methylanphenamid.label>
+  <Methylanphenamid.description>意識と学習能力を高めます。 1回の使用で3日間続きます。 （3日目に最も強い効果、強い副作用の可能性)</Methylanphenamid.description>
+  <Methylanphenamid.ingestible.ingestCommandString>{0} 飲む</Methylanphenamid.ingestible.ingestCommandString>
+  <Methylanphenamid.ingestible.ingestReportString>{0} 飲んでいる</Methylanphenamid.ingestible.ingestReportString>
 </LanguageData>

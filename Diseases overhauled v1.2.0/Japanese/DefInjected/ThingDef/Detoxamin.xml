@@ -1,10 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
-  <Detoxamin.label>Detoxamin</Detoxamin.label>
-  <Detoxamin.description>Detoxamin reduces toxic sensitivity by isolating and incorporating toxins. Take one every two days. (No known sideeffects.)</Detoxamin.description>
-  <Detoxamin.ingestible.ingestCommandString>Take {0}</Detoxamin.ingestible.ingestCommandString>
-  <Detoxamin.ingestible.ingestReportString>Taking {0}.</Detoxamin.ingestible.ingestReportString>
-
-
+  <Detoxamin.label>デトキサミン</Detoxamin.label>
+  <Detoxamin.description>蓄積された毒素を単離し取り込むことで毒感受性を低下させる。 2日おきに1つずつ取る。（既知の副作用はありません)</Detoxamin.description>
+  <Detoxamin.ingestible.ingestCommandString>{0} 飲む</Detoxamin.ingestible.ingestCommandString>
+  <Detoxamin.ingestible.ingestReportString>{0} 飲んでいる</Detoxamin.ingestible.ingestReportString>
 </LanguageData>

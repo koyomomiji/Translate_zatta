@@ -1,10 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
-  <Tritoxylon.label>tritoxylon</Tritoxylon.label>
-  <Tritoxylon.description>Drastically boosts the metabolic system and therefore heavily increases the immune response - among other body functions. Take one every two days. (May have severe sideeffects.)</Tritoxylon.description>
-  <Tritoxylon.ingestible.ingestCommandString>Take {0}</Tritoxylon.ingestible.ingestCommandString>
-  <Tritoxylon.ingestible.ingestReportString>Taking {0}.</Tritoxylon.ingestible.ingestReportString>
-
-
+  <Tritoxylon.label>トリトキシロン</Tritoxylon.label>
+  <Tritoxylon.description>代謝系を大幅に向上させるため、免疫力が大幅に増加します。 2日おきに1つずつ取る。 （重大な副作用のリスク)</Tritoxylon.description>
+  <Tritoxylon.ingestible.ingestCommandString>{0} 飲む</Tritoxylon.ingestible.ingestCommandString>
+  <Tritoxylon.ingestible.ingestReportString>{0} 飲んでいる</Tritoxylon.ingestible.ingestReportString>
 </LanguageData>

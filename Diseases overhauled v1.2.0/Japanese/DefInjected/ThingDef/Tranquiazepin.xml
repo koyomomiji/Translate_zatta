@@ -1,10 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
-  <Tranquiazepin.label>Tranquiazepin</Tranquiazepin.label>
-  <Tranquiazepin.description>Immediatly releaves all stress after ingestion. Take one per day. (Highly addictive.)</Tranquiazepin.description>
-  <Tranquiazepin.ingestible.ingestCommandString>Take {0}</Tranquiazepin.ingestible.ingestCommandString>
-  <Tranquiazepin.ingestible.ingestReportString>Taking {0}.</Tranquiazepin.ingestible.ingestReportString>
-
-
+  <Tranquiazepin.label>トランキアゼピン</Tranquiazepin.label>
+  <Tranquiazepin.description>摂取後すぐにすべてのストレスを和らげる。 一日一回。(高い依存性)</Tranquiazepin.description>
+  <Tranquiazepin.ingestible.ingestCommandString>{0} 飲む</Tranquiazepin.ingestible.ingestCommandString>
+  <Tranquiazepin.ingestible.ingestReportString>{0} 飲んでいる</Tranquiazepin.ingestible.ingestReportString>
 </LanguageData>
