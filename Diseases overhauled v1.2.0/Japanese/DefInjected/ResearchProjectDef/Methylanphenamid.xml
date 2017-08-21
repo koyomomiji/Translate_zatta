@@ -1,8 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
-  <MethylanphenamidProduction.label>Methylanphenamid production</MethylanphenamidProduction.label>
-  <MethylanphenamidProduction.description>Learn to produce Methylanphenamid, a drug for increased awareness and learning ability.</MethylanphenamidProduction.description>
-
-
+  <MethylanphenamidProduction.label>メチレンフェナミド製造</MethylanphenamidProduction.label>
+  <MethylanphenamidProduction.description>知覚と学習能力を高めるメチレンフェナミドの製造方法を研究する。</MethylanphenamidProduction.description>
 </LanguageData>

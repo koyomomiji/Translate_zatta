@@ -1,14 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
-  <TranquiazepinHigh.stages.0.label>Tranquiazepin</TranquiazepinHigh.stages.0.label>
-  <TranquiazepinHigh.stages.0.description>I'm walking on clouds!</TranquiazepinHigh.stages.0.description>
-
-
+  <TranquiazepinHigh.stages.0.label>トランキアゼピン</TranquiazepinHigh.stages.0.label>
+  <TranquiazepinHigh.stages.0.description>雲の上を歩いているみたい！</TranquiazepinHigh.stages.0.description>
   <!-- Tranquiazepin addiction -->
-
-  <TranquiazepinWithdrawal.stages.1.label>Tranquiazepin withdrawal</TranquiazepinWithdrawal.stages.1.label>
-  <TranquiazepinWithdrawal.stages.1.description>Hell! This must be hell! There is only suffering left.</TranquiazepinWithdrawal.stages.1.description>
-
-
+  <TranquiazepinWithdrawal.stages.1.label>トランキアゼピン禁断症状</TranquiazepinWithdrawal.stages.1.label>
+  <TranquiazepinWithdrawal.stages.1.description>地獄だ！地獄に決まっている！ここにあるのは苦痛だけだ。</TranquiazepinWithdrawal.stages.1.description>
 </LanguageData>

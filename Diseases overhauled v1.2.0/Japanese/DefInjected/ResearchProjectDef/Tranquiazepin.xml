@@ -1,8 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
-  <TranquAnalgetProduction.label>analgetics and tranquilizer production</TranquAnalgetProduction.label>
-  <TranquAnalgetProduction.description>Learn to produce painkiller and stress reducing drugs.</TranquAnalgetProduction.description>
-
-
+  <TranquAnalgetProduction.label>鎮痛・鎮静剤の製造</TranquAnalgetProduction.label>
+  <TranquAnalgetProduction.description>鎮痛とストレス軽減させるトランキアゼピンの製造方法を研究します。
+  </TranquAnalgetProduction.description>
 </LanguageData>

@@ -1,10 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
-  <ExciseNecrosis.label>excise necrosis</ExciseNecrosis.label>
+  <ExciseNecrosis.label>壊死部 切除</ExciseNecrosis.label>
   <ExciseNecrosis.description>Excises necrosis.</ExciseNecrosis.description>
-  <ExciseNecrosis.jobString>Excising necrosis.</ExciseNecrosis.jobString>
-  <ExciseNecrosis.successfullyRemovedHediffMessage>{0} has successfully excised {1}'s necrosis.</ExciseNecrosis.successfullyRemovedHediffMessage>
-
-
+  <ExciseNecrosis.jobString>壊死部切除中</ExciseNecrosis.jobString>
+  <ExciseNecrosis.successfullyRemovedHediffMessage>{0}は{1}の壊死した部位の切除に成功しました。</ExciseNecrosis.successfullyRemovedHediffMessage>
 </LanguageData>

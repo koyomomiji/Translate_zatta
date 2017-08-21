@@ -1,10 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
-  <ExtractTooth.label>extract sore tooth</ExtractTooth.label>
+  <ExtractTooth.label>抜歯</ExtractTooth.label>
   <ExtractTooth.description>Extracts tooth.</ExtractTooth.description>
-  <ExtractTooth.jobString>Extracting tooth.</ExtractTooth.jobString>
-  <ExtractTooth.successfullyRemovedHediffMessage>{0} has successfully removed {1}'s sore tooth.</ExtractTooth.successfullyRemovedHediffMessage>
-
-
+  <ExtractTooth.jobString>抜歯中</ExtractTooth.jobString>
+  <ExtractTooth.successfullyRemovedHediffMessage>{0}は{1}の痛い歯を抜くのに成功しました。</ExtractTooth.successfullyRemovedHediffMessage>
 </LanguageData>

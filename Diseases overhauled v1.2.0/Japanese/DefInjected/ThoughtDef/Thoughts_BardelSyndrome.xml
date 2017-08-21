@@ -1,12 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
-  <BardelSyndrome.stages.2.label>Bardel syndrome (mania)</BardelSyndrome.stages.2.label>
-  <BardelSyndrome.stages.2.description>I will construct a spaceship on my own! This is going to be grand!</BardelSyndrome.stages.2.description>
-  <BardelSyndrome.stages.3.label>Bardel syndrome (frightened)</BardelSyndrome.stages.3.label>
-  <BardelSyndrome.stages.3.description>What is going on here? Why are they all looking at me this way?</BardelSyndrome.stages.3.description>
-  <BardelSyndrome.stages.4.label>Bardel syndrome (furious)</BardelSyndrome.stages.4.label>
-  <BardelSyndrome.stages.4.description>Those maggots won't stand in my way anymore! I'll crush'em if necessary!</BardelSyndrome.stages.4.description>
-
-
+  <BardelSyndrome.stages.2.label>バーデル症候群(躁)</BardelSyndrome.stages.2.label>
+  <BardelSyndrome.stages.2.description>私の手で宇宙船を建設しよう！壮大な仕事になるぞ！</BardelSyndrome.stages.2.description>
+  <BardelSyndrome.stages.3.label>バーデル症候群(恐怖)</BardelSyndrome.stages.3.label>
+  <BardelSyndrome.stages.3.description>何が起きている？なぜ皆私を見ている？！</BardelSyndrome.stages.3.description>
+  <BardelSyndrome.stages.4.label>バーデル症候群(憤怒)</BardelSyndrome.stages.4.label>
+  <BardelSyndrome.stages.4.description>蛆にもう耐えられない！押しつぶすしかない!</BardelSyndrome.stages.4.description>
 </LanguageData>

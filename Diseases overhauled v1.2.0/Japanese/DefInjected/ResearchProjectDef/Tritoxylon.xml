@@ -1,8 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
-  <TritoxylonProduction.label>tritoxylon production</TritoxylonProduction.label>
-  <TritoxylonProduction.description>Learn to produce tritoxylon, a drug for increased immune response.</TritoxylonProduction.description>
-
-
+  <TritoxylonProduction.label>トリトキシロン製造</TritoxylonProduction.label>
+  <TritoxylonProduction.description>免疫力を上げるトリトキシロンの製造方法を研究します。</TritoxylonProduction.description>
 </LanguageData>

@@ -1,10 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
-  <ExciseBenignGrowth.label>excise benign growth</ExciseBenignGrowth.label>
+  <ExciseBenignGrowth.label>良性腫瘍 切除</ExciseBenignGrowth.label>
   <ExciseBenignGrowth.description>Excises benign growth.</ExciseBenignGrowth.description>
-  <ExciseBenignGrowth.jobString>Excising benign growth.</ExciseBenignGrowth.jobString>
-  <ExciseBenignGrowth.successfullyRemovedHediffMessage>{0} has successfully excised {1}'s benign growth.</ExciseBenignGrowth.successfullyRemovedHediffMessage>
-
-
+  <ExciseBenignGrowth.jobString>腫瘍切除中</ExciseBenignGrowth.jobString>
+  <ExciseBenignGrowth.successfullyRemovedHediffMessage>{0}は{1}の良性腫瘍切除に成功しました。</ExciseBenignGrowth.successfullyRemovedHediffMessage>
 </LanguageData>

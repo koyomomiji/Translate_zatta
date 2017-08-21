@@ -1,18 +1,15 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
-  <Unease.stages.0.label>unease</Unease.stages.0.label>
-  <Unease.stages.0.description>What am I doing here? Why am I here?</Unease.stages.0.description>
-  <Unease.stages.1.label>unease</Unease.stages.1.label>
-  <Unease.stages.1.description>This can't be ... I don't belong here ...</Unease.stages.1.description>
-  <Unease.stages.2.label>unease</Unease.stages.2.label>
-  <Unease.stages.2.description> This must be a nightmare! I want to wake up. WAKE UP!</Unease.stages.2.description>
-  <Unease.stages.3.label>unease</Unease.stages.3.label>
-  <Unease.stages.3.description>Why, why, why, why, why, why? WHY? I HATE ALL OF THIS!</Unease.stages.3.description>
-  <Unease.stages.4.label>unease</Unease.stages.4.label>
-  <Unease.stages.4.description>NO WAY OUT! ... No way out ... no ... way ... out ...</Unease.stages.4.description>
-  <Unease.stages.5.label>unease</Unease.stages.5.label>
-  <Unease.stages.5.description> ... It ... will ... stop ... I ... make it ... stop ... all of it ...</Unease.stages.5.description>
-
-
+  <Unease.stages.0.label>不安</Unease.stages.0.label>
+  <Unease.stages.0.description>私は何をしている？なぜ私はここにいる？</Unease.stages.0.description>
+  <Unease.stages.1.label>不安</Unease.stages.1.label>
+  <Unease.stages.1.description>ダメだ... ここに居場所はない ...</Unease.stages.1.description>
+  <Unease.stages.2.label>不安</Unease.stages.2.label>
+  <Unease.stages.2.description>悪夢に違いない！起きたい！起きてくれ！</Unease.stages.2.description>
+  <Unease.stages.3.label>不安</Unease.stages.3.label>
+  <Unease.stages.3.description>なぜなぜなぜなぜなぜなぜ？全て嫌いだ！</Unease.stages.3.description>
+  <Unease.stages.4.label>不安</Unease.stages.4.label>
+  <Unease.stages.4.description>逃げ道なんてない!！...逃げ道なんて...ない...</Unease.stages.4.description>
+  <Unease.stages.5.label>不安</Unease.stages.5.label>
+  <Unease.stages.5.description>...私は...すべてを...終わらせる...</Unease.stages.5.description>
 </LanguageData>

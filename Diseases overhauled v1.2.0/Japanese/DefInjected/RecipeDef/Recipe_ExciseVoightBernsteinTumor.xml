@@ -1,10 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
-  <ExciseVoightBernsteinTumor.label>excise Voight-Bernstein tumor</ExciseVoightBernsteinTumor.label>
+  <ExciseVoightBernsteinTumor.label>ヴォイトバーンスタインの腫瘍切除</ExciseVoightBernsteinTumor.label>
   <ExciseVoightBernsteinTumor.description>Excises Voight-Bernstein tumor.</ExciseVoightBernsteinTumor.description>
-  <ExciseVoightBernsteinTumor.jobString>Excising Voight-Bernstein tumor.</ExciseVoightBernsteinTumor.jobString>
-  <ExciseVoightBernsteinTumor.successfullyRemovedHediffMessage>{0} has successfully excised {1}'s Voight-Bernstein tumor.</ExciseVoightBernsteinTumor.successfullyRemovedHediffMessage>
-
-
+  <ExciseVoightBernsteinTumor.jobString>腫瘍切除中</ExciseVoightBernsteinTumor.jobString>
+  <ExciseVoightBernsteinTumor.successfullyRemovedHediffMessage>{0}は{1}のヴォイトバースタインの腫瘍切除の成功しました。</ExciseVoightBernsteinTumor.successfullyRemovedHediffMessage>
 </LanguageData>
